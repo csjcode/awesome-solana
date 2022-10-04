@@ -69,7 +69,7 @@ Awesome list of Solana links
   https://www.anchor-lang.com/docs/the-program-module
 * Starter project: Tic-Tac-Toe
   https://www.anchor-lang.com/docs/tic-tac-toe
-* Anchor CLI  
+* Anchor CLI
   https://www.anchor-lang.com/docs/cli
 * Anchor github repo - coral-xyz/anchor 
   https://github.com/coral-xyz/anchor
