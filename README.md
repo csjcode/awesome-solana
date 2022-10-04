@@ -54,7 +54,7 @@ Awesome list of Solana blockchain links
 * Develop, deploy and test Solana programs in the browser. https://beta.solpg.io/
 
 
-#### [Anchor: Solana Smart Contract Framework](https://www.anchor-lang.com/)
+#### [Anchor: Smart Contract Framework](https://www.anchor-lang.com/)
 * Intro to Programming on Solana
   https://www.anchor-lang.com/docs/intro-to-solana
 * Install Anchor, Rust and Solana 
@@ -71,8 +71,9 @@ Awesome list of Solana blockchain links
   https://www.anchor-lang.com/docs/tic-tac-toe
 * Anchor CLI  
   https://www.anchor-lang.com/docs/cli
-
-
+* Anchor github repo - coral-xyz/anchor 
+  https://github.com/coral-xyz/anchor
+  
 
 #### [Metaplex documentation](https://docs.metaplex.com/)
 * Understanding Programs
@@ -119,6 +120,9 @@ https://docs.metaplex.com/programs/gumdrop/
 
 #### Solana Deploy cheatsheet
 * https://hackmd.io/@raza/deploy15
+
+#### Solana Developer Changelog weekly podcast 
+https://www.youtube.com/watch?v=jIZXTkVaTps&list=PLilwLeBwGuK5-Qri7Pg9zd-Vvhz9kX2-R
 
 
 
