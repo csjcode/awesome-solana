@@ -1,9 +1,15 @@
-# awesome-solana
-Awesome list of Solana links
+# awesome-solana v2
+Awesome list of Solana links, updated recently and with more info than some other similar lists.
 
+------------------------
+
+* [Solana Developer Reference](https://github.com/csjcode/awesome-solana#solana-developer-reference)
+* [Solana Architecture](https://github.com/csjcode/awesome-solana#solana-architecture)
+* [Solana Developer Opportunities & Jobs]((https://github.com/csjcode/awesome-solana#developer-opportunities--jobs))
+
+------------------------
 
 ### Solana Developer Reference
-
 
 #### [Solana Official Docs](https://docs.solana.com/)
 
@@ -94,7 +100,8 @@ https://docs.metaplex.com/guides/candy-machine-ui
 https://artifact-staking.medium.com/setting-up-a-solana-metaplex-nft-storefront-in-the-cloud-a10ea2490ed9
 * Community: Solana and Metaplex FAQ
 https://hackmd.io/@archaeopteryx/By4bpbA4F#Solana-and-Metaplex-FAQ
-
+* Community: Candy Machine fee calculator
+https://feecalc.live/
 
 #### Solana Program Library
 * https://github.com/solana-labs/solana-program-library
