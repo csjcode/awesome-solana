@@ -5,7 +5,7 @@ Awesome list of Solana links, updated recently and with more info than some othe
 
 * [Solana Developer Reference](https://github.com/csjcode/awesome-solana#solana-developer-reference)
 * [Solana Architecture](https://github.com/csjcode/awesome-solana#solana-architecture)
-* [Solana Developer Opportunities & Jobs]((https://github.com/csjcode/awesome-solana#developer-opportunities--jobs))
+* [Solana Developer Opportunities & Jobs](https://github.com/csjcode/awesome-solana#developer-opportunities--jobs)
 
 ------------------------
 
