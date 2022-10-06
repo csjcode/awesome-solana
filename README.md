@@ -202,6 +202,9 @@ https://medium.com/@jacob_62353/introduction-365296716979
 Build TikTok Web 3.0 Blockchain App with Solana | Rust | Next.js | Netlify
 https://www.youtube.com/watch?v=qIGs3XWybgU&ab_channel=CleverProgrammer
 
+freeCodeCamp/solana-curriculum
+https://github.com/freeCodeCamp/solana-curriculum
+
 The Complete Guide to Full Stack Solana Development with React, Anchor, Rust, and Phantom
 https://dev.to/edge-and-node/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291
 
@@ -212,44 +215,45 @@ Ship an epic web3 app on  Solana with React + Rust.
 https://buildspace.so/learn-solana
 
 
-Solandy
-https://www.youtube.com/playlist?list=PLmAMfj0qP2wwfnuRJQge2ss4sJxnhIqy
-How To Read Data From The Network [Solana Development Course: Module 1, Part 1] - Aug 1st '22
-https://www.youtube.com/watch?v=HavGDGUTmgs&ab_channel=Solandy%5Bsolandy.sol%5D
-Serializing Instruction Data [Solana Development Course: Module 1, Part 4] - Sept 2nd '22
-https://www.youtube.com/watch?v=jNN7ObT0vi4&ab_channel=Solandy%5Bsolandy.sol%5D
+### Solandy
+* https://www.youtube.com/playlist?list=PLmAMfj0qP2wwfnuRJQge2ss4sJxnhIqy
+* How To Read Data From The Network [Solana Development Course: Module 1, Part 1] - Aug 1st '22
+  * https://www.youtube.com/watch?v=HavGDGUTmgs&ab_channel=Solandy%5Bsolandy.sol%5D
+* Serializing Instruction Data [Solana Development Course: Module 1, Part 4] - Sept 2nd '22
+  * https://www.youtube.com/watch?v=jNN7ObT0vi4&ab_channel=Solandy%5Bsolandy.sol%5D
+
+#### Jrej NFT programmng collection
+* Your NFT collection on Solana - Metaplex Sugar + Whitelist - Sept 2022
+  * https://www.youtube.com/watch?v=D1WCl4cZ6G8&ab_channel=Jrej
+* How to send whitelist tokens for free - Metaplex Gumdrop + Holder minting dapp - Sept 2022
+  * https://www.youtube.com/watch?v=eO3q1rRuImk&t=484s&ab_channel=Jrej
+* Your NFT collection on Solana for a couple dollars - Hidden settings (Metaplex CMv2 + MetaBoss) May 22
+  * https://www.youtube.com/watch?v=GpV-aiZ4e0Q&ab_channel=Jrej
+* Verify NFT holders in your Discord server - NFT4Cause setup + Nuxt.js app hosting
+  * https://www.youtube.com/watch?v=pkQfbSGGs64&ab_channel=Jrej
+* Customize and deploy your NFT website (React) - Metaplex Candy Machine UI
+  * https://www.youtube.com/watch?v=xsbha6sVJ5o&ab_channel=Jrej
+
+
+#### JoshDev
+
+* Josh: Solana Smart Contract Development: Hello World Tutorial | Rust and Typescript walkthrough
+  * https://www.youtube.com/watch?v=P22z9n1np9A&ab_channel=Josh%27sDevBox
+* Solana Smart Contract Tutorial: Sending and Unpacking Instruction Data
+  * https://www.youtube.com/watch?v=WXutkadkqkE&ab_channel=Josh%27sDevBox
+* Solana Tutorial: Writing a dApp to Work With PDA's | React, Next.js, Anchor
+  * https://www.youtube.com/watch?v=zoRFutuZimc&t=179s&ab_channel=Josh%27sDevBox
+* Rust Crash Course Tutorial for Solana
+  * https://www.youtube.com/watch?v=-AAtfPHEMbA&ab_channel=Josh%27sDevBox
 
 The Solana Security Playbook - How to create a cold wallet
 https://contenthub.magiceden.io/the-solana-security-playbook
+
 Solana Shield
 https://solanashield.io/
 
 
-Jrej NFT programmng collection
-Your NFT collection on Solana - Metaplex Sugar + Whitelist - Sept 2022
-https://www.youtube.com/watch?v=D1WCl4cZ6G8&ab_channel=Jrej
-How to send whitelist tokens for free - Metaplex Gumdrop + Holder minting dapp - Sept 2022
-https://www.youtube.com/watch?v=eO3q1rRuImk&t=484s&ab_channel=Jrej
-Your NFT collection on Solana for a couple dollars - Hidden settings (Metaplex CMv2 + MetaBoss) May 22
-https://www.youtube.com/watch?v=GpV-aiZ4e0Q&ab_channel=Jrej
-Verify NFT holders in your Discord server - NFT4Cause setup + Nuxt.js app hosting
-https://www.youtube.com/watch?v=pkQfbSGGs64&ab_channel=Jrej
-Customize and deploy your NFT website (React) - Metaplex Candy Machine UI
-https://www.youtube.com/watch?v=xsbha6sVJ5o&ab_channel=Jrej
 
-
-JoshDev
-Josh: Solana Smart Contract Development: Hello World Tutorial | Rust and Typescript walkthrough
-https://www.youtube.com/watch?v=P22z9n1np9A&ab_channel=Josh%27sDevBox
-Solana Smart Contract Tutorial: Sending and Unpacking Instruction Data
-https://www.youtube.com/watch?v=WXutkadkqkE&ab_channel=Josh%27sDevBox
-Solana Tutorial: Writing a dApp to Work With PDA's | React, Next.js, Anchor
-https://www.youtube.com/watch?v=zoRFutuZimc&t=179s&ab_channel=Josh%27sDevBox
-Rust Crash Course Tutorial for Solana
-https://www.youtube.com/watch?v=-AAtfPHEMbA&ab_channel=Josh%27sDevBox
-
-freeCodeCamp/solana-curriculum
-https://github.com/freeCodeCamp/solana-curriculum
 
 
 -----------------
