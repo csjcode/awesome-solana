@@ -11,6 +11,11 @@ Awesome list of Solana links, updated recently and with more info than some othe
 ------------------------
 
 ### Solana Developer Reference
+
+
+------------------------
+
+
 #### [Solana Official Docs](https://docs.solana.com/)
 
 * Learn Solana Development
@@ -138,10 +143,12 @@ https://feecalc.live/
 
 
 
------------------
-
-
+------------------------
 ### Solana Tutorials
+
+------------------------
+
+
 
 
 Solana Labs - Hello World
@@ -259,11 +266,12 @@ https://solanashield.io/
 
 
 
------------------
-
-
-
+------------------------
 ### Solana Architecture
+
+------------------------
+
+
 
 Explaining Solana and its Innovations without technical jargon
 https://learn.figment.io/tutorials/explaining-solanas-innovations-without-technical-jargon
@@ -347,10 +355,9 @@ https://www.reddit.com/r/solana/comments/xqq9b2/comment/iqb16kq/?utm_source=shar
 
 
 -----------------
+### Solana Tutorials
 
-
-#### Solana Tutorials
-
+------------------------
 
 Solana Labs - Hello World
 https://github.com/solana-labs/example-helloworld
@@ -460,9 +467,10 @@ freeCodeCamp/solana-curriculum
 https://github.com/freeCodeCamp/solana-curriculum
 
 
-----------
-
+------------------------
 ### Developer Opportunities & Jobs
+
+------------------------
 
 Solana Labs repo: Good first issues 
 https://github.com/solana-labs/solana/labels/good%20first%20issue)
@@ -487,9 +495,6 @@ https://earn.superteam.fun/opportunities/skill/front-end-dev?category=Grants
 
 Solana Ecosystem - Backend Grants
 https://earn.superteam.fun/opportunities/skill/back-end-dev
-
-
-
 
 Cryptocurrency Jobs
 https://cryptocurrencyjobs.co/
