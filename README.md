@@ -141,7 +141,7 @@ https://feecalc.live/
 -----------------
 
 
-#### Solana Tutorials
+### Solana Tutorials
 
 
 Solana Labs - Hello World
@@ -173,10 +173,13 @@ https://github.com/Unboxed-Software/solana-course
 Solana Development Course
 https://soldev.app/course
 
-Solana (Figment)
-https://learn.figment.io/protocols/solana
-Community Tutorials: https://learn.figment.io/tutorials
-Build a Crowdfunding platform on Solana: https://learn.figment.io/tutorials/build-a-crowdfunding-platform-on-solana
+#### Solana (Figment)
+https://learn.figment.io/protocols/solana   
+
+* Community Tutorials: 
+  * https://learn.figment.io/tutorials
+* Build a Crowdfunding platform on Solana: 
+  * https://learn.figment.io/tutorials/build-a-crowdfunding-platform-on-solana
 
 Ship your own  NFT Collection on Solana w/ Metaplex.
 https://buildspace.so/solana-nfts
@@ -215,6 +218,14 @@ Ship an epic web3 app on  Solana with React + Rust.
 https://buildspace.so/learn-solana
 
 
+The Solana Security Playbook - How to create a cold wallet
+https://contenthub.magiceden.io/the-solana-security-playbook
+
+Solana Shield
+https://solanashield.io/
+
+
+
 ### Solandy
 * https://www.youtube.com/playlist?list=PLmAMfj0qP2wwfnuRJQge2ss4sJxnhIqy
 * How To Read Data From The Network [Solana Development Course: Module 1, Part 1] - Aug 1st '22
@@ -245,14 +256,6 @@ https://buildspace.so/learn-solana
   * https://www.youtube.com/watch?v=zoRFutuZimc&t=179s&ab_channel=Josh%27sDevBox
 * Rust Crash Course Tutorial for Solana
   * https://www.youtube.com/watch?v=-AAtfPHEMbA&ab_channel=Josh%27sDevBox
-
-The Solana Security Playbook - How to create a cold wallet
-https://contenthub.magiceden.io/the-solana-security-playbook
-
-Solana Shield
-https://solanashield.io/
-
-
 
 
 
