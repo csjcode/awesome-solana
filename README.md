@@ -5,12 +5,12 @@ Awesome list of Solana links, updated recently and with more info than some othe
 
 * [Solana Developer Reference](https://github.com/csjcode/awesome-solana#solana-developer-reference)
 * [Solana Architecture](https://github.com/csjcode/awesome-solana#solana-architecture)
+* [Solana Tutorials](https://github.com/csjcode/awesome-solana#solana-tutorials)
 * [Solana Developer Opportunities & Jobs](https://github.com/csjcode/awesome-solana#developer-opportunities--jobs)
 
 ------------------------
 
 ### Solana Developer Reference
-
 #### [Solana Official Docs](https://docs.solana.com/)
 
 * Learn Solana Development
@@ -135,7 +135,125 @@ https://feecalc.live/
 * https://www.youtube.com/watch?v=jIZXTkVaTps&list=PLilwLeBwGuK5-Qri7Pg9zd-Vvhz9kX2-R
 
 
+
+
+
 -----------------
+
+
+#### Solana Tutorials
+
+
+Solana Labs - Hello World
+https://github.com/solana-labs/example-helloworld
+
+Solana Labs - Dapp Scaffold
+https://github.com/solana-developers/dapp-scaffold-react-native
+
+Start on Solana
+https://www.startonsolana.com/
+
+
+Solana Tutorial - Learn the Solana CLI (clusters, wallets, deploy, etc)
+https://www.youtube.com/watch?v=pNzT3hgFbpg&ab_channel=NickFrostbutter
+
+Program examples
+https://github.com/solana-developers/program-examples
+
+Taking Payments IRL with Solana Pay: https://www.pointer.gg/tutorials/solana-pay-irl-payments/944eba7e-82c6-4527-b55c-5411cdf63b23
+
+The Complete Guide to Phantom Deeplinks
+Building a Solana mobile dapp with React Native, Expo, and Phantom.
+https://phantom.app/blog/the-complete-guide-to-phantom-deeplinks
+
+
+Solana Development Course
+https://github.com/Unboxed-Software/solana-course
+
+Solana Development Course
+https://soldev.app/course
+
+Solana (Figment)
+https://learn.figment.io/protocols/solana
+Community Tutorials: https://learn.figment.io/tutorials
+Build a Crowdfunding platform on Solana: https://learn.figment.io/tutorials/build-a-crowdfunding-platform-on-solana
+
+Ship your own  NFT Collection on Solana w/ Metaplex.
+https://buildspace.so/solana-nfts
+
+The Complete Guide to Full Stack Solana Development with React, Anchor, Rust, and Phantom
+https://dev.to/edge-and-node/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291
+
+New Solana Dev Guide
+https://dev.to/meditatingsloth/new-solana-dev-guide-1hm7
+
+Blockchain Tutorial
+https://adept.at/forked/solana-blockchain-development
+
+Web3 examples
+https://github.com/solana-developers/web3-examples
+
+A simple guide on how to set up Solana Pay's POS system on Devnet
+https://tunkunmi.hashnode.dev/a-simple-guide-on-how-to-set-up-solana-pays-pos-system-on-devnet
+
+Beginners guide to Solana NFTs in Rust.
+https://medium.com/@jacob_62353/introduction-365296716979
+
+Build TikTok Web 3.0 Blockchain App with Solana | Rust | Next.js | Netlify
+https://www.youtube.com/watch?v=qIGs3XWybgU&ab_channel=CleverProgrammer
+
+The Complete Guide to Full Stack Solana Development with React, Anchor, Rust, and Phantom
+https://dev.to/edge-and-node/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291
+
+Create a Solana dApp from scratch (simple twitter)
+https://lorisleiva.com/create-a-solana-dapp-from-scratch
+
+Ship an epic web3 app on  Solana with React + Rust.
+https://buildspace.so/learn-solana
+
+
+Solandy
+https://www.youtube.com/playlist?list=PLmAMfj0qP2wwfnuRJQge2ss4sJxnhIqy
+How To Read Data From The Network [Solana Development Course: Module 1, Part 1] - Aug 1st '22
+https://www.youtube.com/watch?v=HavGDGUTmgs&ab_channel=Solandy%5Bsolandy.sol%5D
+Serializing Instruction Data [Solana Development Course: Module 1, Part 4] - Sept 2nd '22
+https://www.youtube.com/watch?v=jNN7ObT0vi4&ab_channel=Solandy%5Bsolandy.sol%5D
+
+The Solana Security Playbook - How to create a cold wallet
+https://contenthub.magiceden.io/the-solana-security-playbook
+Solana Shield
+https://solanashield.io/
+
+
+Jrej NFT programmng collection
+Your NFT collection on Solana - Metaplex Sugar + Whitelist - Sept 2022
+https://www.youtube.com/watch?v=D1WCl4cZ6G8&ab_channel=Jrej
+How to send whitelist tokens for free - Metaplex Gumdrop + Holder minting dapp - Sept 2022
+https://www.youtube.com/watch?v=eO3q1rRuImk&t=484s&ab_channel=Jrej
+Your NFT collection on Solana for a couple dollars - Hidden settings (Metaplex CMv2 + MetaBoss) May 22
+https://www.youtube.com/watch?v=GpV-aiZ4e0Q&ab_channel=Jrej
+Verify NFT holders in your Discord server - NFT4Cause setup + Nuxt.js app hosting
+https://www.youtube.com/watch?v=pkQfbSGGs64&ab_channel=Jrej
+Customize and deploy your NFT website (React) - Metaplex Candy Machine UI
+https://www.youtube.com/watch?v=xsbha6sVJ5o&ab_channel=Jrej
+
+
+JoshDev
+Josh: Solana Smart Contract Development: Hello World Tutorial | Rust and Typescript walkthrough
+https://www.youtube.com/watch?v=P22z9n1np9A&ab_channel=Josh%27sDevBox
+Solana Smart Contract Tutorial: Sending and Unpacking Instruction Data
+https://www.youtube.com/watch?v=WXutkadkqkE&ab_channel=Josh%27sDevBox
+Solana Tutorial: Writing a dApp to Work With PDA's | React, Next.js, Anchor
+https://www.youtube.com/watch?v=zoRFutuZimc&t=179s&ab_channel=Josh%27sDevBox
+Rust Crash Course Tutorial for Solana
+https://www.youtube.com/watch?v=-AAtfPHEMbA&ab_channel=Josh%27sDevBox
+
+freeCodeCamp/solana-curriculum
+https://github.com/freeCodeCamp/solana-curriculum
+
+
+-----------------
+
 
 
 ### Solana Architecture
@@ -221,11 +339,121 @@ https://www.reddit.com/r/solana/comments/xqq9b2/comment/iqb16kq/?utm_source=shar
 
 
 
-
-
-
 -----------------
 
+
+#### Solana Tutorials
+
+
+Solana Labs - Hello World
+https://github.com/solana-labs/example-helloworld
+
+Solana Labs - Dapp Scaffold
+https://github.com/solana-developers/dapp-scaffold-react-native
+
+Start on Solana
+https://www.startonsolana.com/
+
+
+Solana Tutorial - Learn the Solana CLI (clusters, wallets, deploy, etc)
+https://www.youtube.com/watch?v=pNzT3hgFbpg&ab_channel=NickFrostbutter
+
+Program examples
+https://github.com/solana-developers/program-examples
+
+Taking Payments IRL with Solana Pay: https://www.pointer.gg/tutorials/solana-pay-irl-payments/944eba7e-82c6-4527-b55c-5411cdf63b23
+
+The Complete Guide to Phantom Deeplinks
+Building a Solana mobile dapp with React Native, Expo, and Phantom.
+https://phantom.app/blog/the-complete-guide-to-phantom-deeplinks
+
+
+Solana Development Course
+https://github.com/Unboxed-Software/solana-course
+
+Solana Development Course
+https://soldev.app/course
+
+Solana (Figment)
+https://learn.figment.io/protocols/solana
+Community Tutorials: https://learn.figment.io/tutorials
+Build a Crowdfunding platform on Solana: https://learn.figment.io/tutorials/build-a-crowdfunding-platform-on-solana
+
+Ship your own  NFT Collection on Solana w/ Metaplex.
+https://buildspace.so/solana-nfts
+
+The Complete Guide to Full Stack Solana Development with React, Anchor, Rust, and Phantom
+https://dev.to/edge-and-node/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291
+
+New Solana Dev Guide
+https://dev.to/meditatingsloth/new-solana-dev-guide-1hm7
+
+Blockchain Tutorial
+https://adept.at/forked/solana-blockchain-development
+
+Web3 examples
+https://github.com/solana-developers/web3-examples
+
+A simple guide on how to set up Solana Pay's POS system on Devnet
+https://tunkunmi.hashnode.dev/a-simple-guide-on-how-to-set-up-solana-pays-pos-system-on-devnet
+
+Beginners guide to Solana NFTs in Rust.
+https://medium.com/@jacob_62353/introduction-365296716979
+
+Build TikTok Web 3.0 Blockchain App with Solana | Rust | Next.js | Netlify
+https://www.youtube.com/watch?v=qIGs3XWybgU&ab_channel=CleverProgrammer
+
+The Complete Guide to Full Stack Solana Development with React, Anchor, Rust, and Phantom
+https://dev.to/edge-and-node/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291
+
+Create a Solana dApp from scratch (simple twitter)
+https://lorisleiva.com/create-a-solana-dapp-from-scratch
+
+Ship an epic web3 app on  Solana with React + Rust.
+https://buildspace.so/learn-solana
+
+
+Solandy
+https://www.youtube.com/playlist?list=PLmAMfj0qP2wwfnuRJQge2ss4sJxnhIqy
+How To Read Data From The Network [Solana Development Course: Module 1, Part 1] - Aug 1st '22
+https://www.youtube.com/watch?v=HavGDGUTmgs&ab_channel=Solandy%5Bsolandy.sol%5D
+Serializing Instruction Data [Solana Development Course: Module 1, Part 4] - Sept 2nd '22
+https://www.youtube.com/watch?v=jNN7ObT0vi4&ab_channel=Solandy%5Bsolandy.sol%5D
+
+The Solana Security Playbook - How to create a cold wallet
+https://contenthub.magiceden.io/the-solana-security-playbook
+Solana Shield
+https://solanashield.io/
+
+
+Jrej NFT programmng collection
+Your NFT collection on Solana - Metaplex Sugar + Whitelist - Sept 2022
+https://www.youtube.com/watch?v=D1WCl4cZ6G8&ab_channel=Jrej
+How to send whitelist tokens for free - Metaplex Gumdrop + Holder minting dapp - Sept 2022
+https://www.youtube.com/watch?v=eO3q1rRuImk&t=484s&ab_channel=Jrej
+Your NFT collection on Solana for a couple dollars - Hidden settings (Metaplex CMv2 + MetaBoss) May 22
+https://www.youtube.com/watch?v=GpV-aiZ4e0Q&ab_channel=Jrej
+Verify NFT holders in your Discord server - NFT4Cause setup + Nuxt.js app hosting
+https://www.youtube.com/watch?v=pkQfbSGGs64&ab_channel=Jrej
+Customize and deploy your NFT website (React) - Metaplex Candy Machine UI
+https://www.youtube.com/watch?v=xsbha6sVJ5o&ab_channel=Jrej
+
+
+JoshDev
+Josh: Solana Smart Contract Development: Hello World Tutorial | Rust and Typescript walkthrough
+https://www.youtube.com/watch?v=P22z9n1np9A&ab_channel=Josh%27sDevBox
+Solana Smart Contract Tutorial: Sending and Unpacking Instruction Data
+https://www.youtube.com/watch?v=WXutkadkqkE&ab_channel=Josh%27sDevBox
+Solana Tutorial: Writing a dApp to Work With PDA's | React, Next.js, Anchor
+https://www.youtube.com/watch?v=zoRFutuZimc&t=179s&ab_channel=Josh%27sDevBox
+Rust Crash Course Tutorial for Solana
+https://www.youtube.com/watch?v=-AAtfPHEMbA&ab_channel=Josh%27sDevBox
+
+freeCodeCamp/solana-curriculum
+https://github.com/freeCodeCamp/solana-curriculum
+
+
+----------
 
 ### Developer Opportunities & Jobs
 
@@ -254,6 +482,17 @@ Solana Ecosystem - Backend Grants
 https://earn.superteam.fun/opportunities/skill/back-end-dev
 
 
+
+
+Cryptocurrency Jobs
+https://cryptocurrencyjobs.co/
+
+Web3 Jobs
+https://web3.career/
+
+Remote Ok
+https://remoteok.com/remote-web3-jobs
+
 -----------------
 
-
+TODO: More categories
