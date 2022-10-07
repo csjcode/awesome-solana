@@ -428,7 +428,7 @@ https://buildspace.so/learn-solana
 
 
 Solandy
-https://www.youtube.com/playlist?list=PLmAMfj0qP2wwfnuRJQge2ss4sJxnhIqy
+https://www.youtube.com/watch?v=HavGDGUTmgs&list=PLmAMfj0qP2wwfnuRJQge2ss4sJxnhIqyt&ab_channel=Solandy%5Bsolandy.sol%5D
 How To Read Data From The Network [Solana Development Course: Module 1, Part 1] - Aug 1st '22
 https://www.youtube.com/watch?v=HavGDGUTmgs&ab_channel=Solandy%5Bsolandy.sol%5D
 Serializing Instruction Data [Solana Development Course: Module 1, Part 4] - Sept 2nd '22
