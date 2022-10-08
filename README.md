@@ -265,6 +265,9 @@ https://solanashield.io/
   * https://www.youtube.com/watch?v=-AAtfPHEMbA&ab_channel=Josh%27sDevBox
 
 
+Guide to minting a SolSea NFT: Step by step
+https://cointelegraph.com/news/how-to-mint-an-nft-on-solana-solsea
+
 
 ------------------------
 ### Solana Architecture
@@ -389,6 +392,15 @@ https://web3.career/
 
 Remote Ok
 https://remoteok.com/remote-web3-jobs
+
+Introducing Solana U, a new program for student builders
+https://solana.com/news/introducing-solana-u-a-new-program-for-student-builders
+
+
+
+
+
+
 
 -----------------
 
