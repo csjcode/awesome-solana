@@ -368,6 +368,9 @@ https://github.com/solana-labs/solana/issues
 
 Solana Labs Github Projects 
 https://github.com/solana-labs/solana/projects?type=classic
+
+Solana Jobs
+https://jobs.solana.com/jobs
  
 Superteam - Solana ecosystem opportunities
 https://earn.superteam.fun/
@@ -386,9 +389,15 @@ https://earn.superteam.fun/opportunities/skill/back-end-dev
 
 Cryptocurrency Jobs
 https://cryptocurrencyjobs.co/
+Solana Jobs
+https://cryptocurrencyjobs.co/solana/
 
 Web3 Jobs
 https://web3.career/
+https://web3.career/solana-jobs
+
+Crypto Jobs List
+https://cryptojobslist.com/solana
 
 Remote Ok
 https://remoteok.com/remote-web3-jobs
