@@ -6,6 +6,7 @@ Awesome list of Solana links, updated recently and with more info than some othe
 * [Solana Developer Reference](https://github.com/csjcode/awesome-solana#solana-developer-reference)
 * [Solana Tutorials](https://github.com/csjcode/awesome-solana#solana-tutorials)
 * [Solana Architecture](https://github.com/csjcode/awesome-solana#solana-architecture)
+* [Solana Programming Topics](https://github.com/csjcode/awesome-solana#solana-programming-topics)
 * [Solana Developer Opportunities & Jobs](https://github.com/csjcode/awesome-solana#developer-opportunities--jobs)
 
 ------------------------
@@ -138,9 +139,6 @@ https://feecalc.live/
 
 #### Solana Developer Changelog weekly podcast 
 * https://www.youtube.com/watch?v=jIZXTkVaTps&list=PLilwLeBwGuK5-Qri7Pg9zd-Vvhz9kX2-R
-
-
-
 
 
 ------------------------
@@ -353,6 +351,97 @@ Is Proof of History (PoH) pointless?
 https://www.reddit.com/r/solana/comments/xqq9b2/is_proof_of_history_poh_pointless/
 https://www.reddit.com/r/solana/comments/xqq9b2/comment/iqbsffl/?utm_source=share&utm_medium=web2x&context=3
 https://www.reddit.com/r/solana/comments/xqq9b2/comment/iqb16kq/?utm_source=share&utm_medium=web2x&context=3
+
+Solana Core Concepts
+https://dev.to/0xprof_lupin/introduction-to-solana-core-concepts-1ke2
+
+
+------------------------
+### Solana Programming Topics
+
+------------------------
+
+
+The Solana Programming Model
+https://lu.ma/p/3nHEa7k5DABpzE6/The-Solana-Programming-Model
+
+Programming Solana - Chainlink Workshops - Ecosystem (SmartCon 2022)
+https://www.youtube.com/watch?v=vXx4aXJfi3o&ab_channel=Chainlink
+
+Solana Bootcamp - Day 1 - Intro to Solana
+https://www.youtube.com/watch?v=O0uhZEfVPt8&t=2034s&ab_channel=Solana
+
+Solana Bootcamp Chicago - Day 2 - Lecture: Program derived addresses and cross program invocation
+https://www.youtube.com/watch?v=iMWaQRyjpl4&ab_channel=Solana
+
+Solana Bootcamp Chicago - Day 2 - Lecture/Demo: How to build a simple token program
+https://www.youtube.com/watch?v=sPtayIqP4u0&t=301s&ab_channel=Solana
+
+Introduction to Anchor | Solana development
+https://www.youtube.com/watch?v=fPsH77ZoXt4&ab_channel=Chainlink
+
+Solana Summer Camp @ Metacamp | Workshops - Web 3 UI/UX
+https://www.youtube.com/watch?v=KqhqRbm9BgU&ab_channel=Metacamp
+
+Solana for Non Smart Contract Developers
+https://medium.com/@kklas/solana-for-non-smart-contract-developers-7ef4e419afef
+
+Programming Solana Smart Contracts
+https://www.youtube.com/watch?v=2_IWG72lOvw&ab_channel=Henry-E
+
+Breakpoint 2021: A Guide to Making UX Friendly Solana Dapps
+https://www.youtube.com/watch?v=Mz3oOx849yI&ab_channel=Solana
+
+Programming Solana Smart Contracts | Intermediate Anchor Tutorial
+https://www.youtube.com/watch?v=i6Ycr5nhjH8&ab_channel=Henry-E
+
+Breakpoint 2021: Why You Should Build Your DeFi Dapp Using Anchor
+https://www.youtube.com/watch?v=725ddOvfWjk&ab_channel=Solana
+
+Kick-Start Solana Programming with Anchor
+https://blog.labeleven.dev/kick-start-solana-programming-with-anchor
+
+Anatomy of Solana Program Invocations using Anchor
+https://blog.labeleven.dev/anatomy-of-solana-program-invocations-using-anchor
+
+SOLANA RENT - What is it and can you get it back?
+https://www.youtube.com/watch?v=6cwePbRFlTY&ab_channel=SolanaSun
+
+NFT / Metaplex Workshop
+https://www.youtube.com/watch?v=GqXu8MfdEG4&ab_channel=Solana
+
+create-solana-dapp (Next)
+https://github.com/solana-developers/create-solana-app
+
+How to Create and Verify a Solana NFT Collection
+https://www.youtube.com/watch?v=s57Q1LiC6Uw&ab_channel=CtrlAltVictoria
+
+Fungible Tokens on Solana - SPL Tokens Explained
+https://www.youtube.com/watch?v=v7nPlTr1Qlo&ab_channel=SolanaSun
+
+How Your Data & Programs are Stored on Solana - Solana's Account System
+https://www.youtube.com/watch?v=Ymm51po9508&ab_channel=SolanaSun
+
+What are Solana Accounts? [Solana Tutorial] - Dec 17th '21
+https://www.youtube.com/watch?v=1dYNdcN2Oa0&ab_channel=Solandy%5Bsolandy.sol%5D
+
+Dapp scaffold
+https://github.com/solana-labs/dapp-scaffold
+
+Token Program
+https://spl.solana.com/token
+
+Solana Transactions in Depth
+https://medium.com/@asmiller1989/solana-transactions-in-depth-1f7f7fe06ac2
+
+Guide for Solidity developers
+https://solana.wiki/docs/solidity-guide/
+
+
+
+
+
+
 
 
 ------------------------
