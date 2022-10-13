@@ -266,6 +266,11 @@ https://solanashield.io/
 Guide to minting a SolSea NFT: Step by step
 https://cointelegraph.com/news/how-to-mint-an-nft-on-solana-solsea
 
+Sign In with Solana - Authenticate Users with their Phantom Wallet
+https://dev.to/thirdweb/sign-in-with-solana-authenticate-users-with-their-phantom-wallet-4b21
+
+Building a Mint Solana NFT Frontend with NextJS and Metaplex
+https://dev.to/aeither/building-a-mint-solana-nft-frontend-with-nextjs-and-metaplex-26eb
 
 ------------------------
 ### Solana Architecture
@@ -355,6 +360,8 @@ https://www.reddit.com/r/solana/comments/xqq9b2/comment/iqb16kq/?utm_source=shar
 Solana Core Concepts
 https://dev.to/0xprof_lupin/introduction-to-solana-core-concepts-1ke2
 
+Validator Educational Workshop October 12th, 2022
+https://www.youtube.com/watch?v=ZjhxAgoGDbk&ab_channel=Solana
 
 ------------------------
 ### Solana Programming Topics
@@ -438,6 +445,7 @@ Guide for Solidity developers
 https://solana.wiki/docs/solidity-guide/
 
 
+A dummy's guide to Solana's archihttps://dev.to/0xprof_lupin/a-dummies-guide-to-solana-2ijetecture
 
 
 
