@@ -272,6 +272,13 @@ https://dev.to/thirdweb/sign-in-with-solana-authenticate-users-with-their-phanto
 Building a Mint Solana NFT Frontend with NextJS and Metaplex
 https://dev.to/aeither/building-a-mint-solana-nft-frontend-with-nextjs-and-metaplex-26eb
 
+Solana DEV #01: Fetching onchain data in a right way
+https://dev.to/chungquantin/solana-dev-01-fetching-onchain-data-in-a-right-way-23da
+
+Solana DEV #02: Retrieve all Deposit transactions of your wallet
+https://dev.to/chungquantin/solana-dev-02-retrieve-all-depoa
+
+
 ------------------------
 ### Solana Architecture
 
@@ -308,6 +315,9 @@ https://www.shinobi-systems.com/primer.html
 
 RPC Infrastructure
 https://solana.com/rpc
+
+A dummy's guide to Solana's architecture
+https://dev.to/0xprof_lupin/a-dummies-guide-to-solana-2ije
 
 ok so what the $%#@ is the deal with solana anyway
 https://2501babe.github.io/posts/solana101.html
@@ -362,6 +372,7 @@ https://dev.to/0xprof_lupin/introduction-to-solana-core-concepts-1ke2
 
 Validator Educational Workshop October 12th, 2022
 https://www.youtube.com/watch?v=ZjhxAgoGDbk&ab_channel=Solana
+
 
 ------------------------
 ### Solana Programming Topics
@@ -444,10 +455,11 @@ https://medium.com/@asmiller1989/solana-transactions-in-depth-1f7f7fe06ac2
 Guide for Solidity developers
 https://solana.wiki/docs/solidity-guide/
 
+Rust Concepts for Writing Solana Programs
+https://dev.to/doctordrayfocus/rust-concepts-for-writing-solana-programs-gd7
 
-A dummy's guide to Solana's archihttps://dev.to/0xprof_lupin/a-dummies-guide-to-solana-2ijetecture
-
-
+Solana programs Part 4: Metaplex Candy Machine — how does it work?
+https://medium.com/coinmonks/solana-programs-part-4-metaplex-candy-machine-how-does-it-work-a27d7a133fad
 
 
 
@@ -502,8 +514,8 @@ https://remoteok.com/remote-web3-jobs
 Introducing Solana U, a new program for student builders
 https://solana.com/news/introducing-solana-u-a-new-program-for-student-builders
 
-
-
+nakaflow - Nakamoto Coefficients - A measure of decentralization
+https://nakaflow.io/
 
 
 
