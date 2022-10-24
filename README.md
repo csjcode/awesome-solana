@@ -6,7 +6,7 @@ Awesome list of Solana links, updated recently and with more info than some othe
 
 This is a list of Solana blockchain and Solana-related ecosystem links collected through web, community and social sources.  
 
-This is your gateway to the Solana blockchain's incredible technology, app and community ecosystem.
+This is your gateway to the Solana blockchain's incredible technology, apps and community ecosystem.
 
 However, be cautious, particularly since there is so much content and it can be outdated or changed after posting-- it's important to note...
 
