@@ -478,12 +478,14 @@ https://www.youtube.com/watch?v=MfSuzFDDQ30&ab_channel=Jrej
 ------------------------
 
 <br />
+
 #### Solana Status
 
   Solana Status
   https://status.solana.com/
 
 <br />
+
 #### Solana Explorers
 
 Solscan Analytics
