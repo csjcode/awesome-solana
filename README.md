@@ -158,6 +158,8 @@ https://github.com/solana-developers/dapp-scaffold-react-native
 Start on Solana
 https://www.startonsolana.com/
 
+Become a Solana builder in six weeks
+https://buildspace.so/p/solana-core
 
 Solana Tutorial - Learn the Solana CLI (clusters, wallets, deploy, etc)
 https://www.youtube.com/watch?v=pNzT3hgFbpg&ab_channel=NickFrostbutter
@@ -462,6 +464,8 @@ Solana programs Part 4: Metaplex Candy Machine — how does it work?
 https://medium.com/coinmonks/solana-programs-part-4-metaplex-candy-machine-how-does-it-work-a27d7a133fad
 
 
+How to store your files on Solana for just a few cents - GenesysGo's Shadow Drive CLI + Interface
+https://www.youtube.com/watch?v=MfSuzFDDQ30&ab_channel=Jrej
 
 
 ------------------------
@@ -517,6 +521,82 @@ https://solana.com/news/introducing-solana-u-a-new-program-for-student-builders
 nakaflow - Nakamoto Coefficients - A measure of decentralization
 https://nakaflow.io/
 
+
+
+------------------------
+### Solana Trends and Analytics
+
+------------------------
+
+#### Status
+
+Solana Status
+https://status.solana.com/
+
+
+#### Explorers
+
+Solscan Analytics
+https://analytics.solscan.io/
+
+Solana Beach
+https://solanabeach.io/
+
+SolanaFM - A friendly Solana explorer.
+https://solana.fm/?cluster=mainnet-qn1
+
+
+Stakewiz
+https://stakewiz.com/
+
+Solana Network - Medium
+https://medium.com/tag/solana-network/latest
+
+Solana DEX
+https://dune.com/twocrows/solana-dex
+
+Solana Network Analytics
+https://analytics.solscan.io/public/dashboard/8d888828-baae-47b9-948b-d087e5de1411
+
+JITO Soalna Network Dashboard
+https://jito.retool.com/embedded/public/7e37389a-c991-4fb3-a3cd-b387859c7da1
+
+Solana NFT Overview
+https://dune.com/chuxin/Solana-NFT-Overview
+
+Nakamoto Coefficients
+https://nakaflow.io/
+
+Solana Network Chaincrunch Dashboard
+https://chaincrunch.cc/dashboards.html
+
+Nansen NFT Trends (Solana)
+https://pro.nansen.ai/nft-trends?platform=All&network=solana
+https://pro.nansen.ai/multichain/solana
+
+Solana NFT Marketplace Usages (WIP)
+https://dune.com/kunal/Solana-NFT-Marketplaces-(Magic-Eden-OpenSea-Solanart-Digital-Eyes)
+
+@yehjames / STEPN
+https://dune.com/yehjames/STEPN
+
+Altcoin Season Index 
+https://www.blockchaincenter.net/altcoin-season-index/
+
+Solana Floor domains
+https://solanafloor.com/domains
+
+RPC comparison
+http://milliseconds-matter.me/rpc-speed-comparison/
+
+CryptoSlam - NFTs
+https://cryptoslam.io/
+
+Solana Restart
+https://solblaze.org/restart
+
+Solana Floor domains
+https://solanafloor.com/domains
 
 
 
