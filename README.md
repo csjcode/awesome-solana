@@ -7,7 +7,10 @@ Awesome list of Solana links, updated recently and with more info than some othe
 * [Solana Tutorials](https://github.com/csjcode/awesome-solana#solana-tutorials)
 * [Solana Architecture](https://github.com/csjcode/awesome-solana#solana-architecture)
 * [Solana Programming Topics](https://github.com/csjcode/awesome-solana#solana-programming-topics)
+* [Solana Status/Analytics/Trends](https://github.com/csjcode/awesome-solana/tree/dev#solana-trends-and-analytics)
 * [Solana Developer Opportunities & Jobs](https://github.com/csjcode/awesome-solana#developer-opportunities--jobs)
+
+
 
 ------------------------
 
@@ -158,6 +161,8 @@ https://github.com/solana-developers/dapp-scaffold-react-native
 Start on Solana
 https://www.startonsolana.com/
 
+Become a Solana builder in six weeks
+https://buildspace.so/p/solana-core
 
 Solana Tutorial - Learn the Solana CLI (clusters, wallets, deploy, etc)
 https://www.youtube.com/watch?v=pNzT3hgFbpg&ab_channel=NickFrostbutter
@@ -266,6 +271,18 @@ https://solanashield.io/
 Guide to minting a SolSea NFT: Step by step
 https://cointelegraph.com/news/how-to-mint-an-nft-on-solana-solsea
 
+Sign In with Solana - Authenticate Users with their Phantom Wallet
+https://dev.to/thirdweb/sign-in-with-solana-authenticate-users-with-their-phantom-wallet-4b21
+
+Building a Mint Solana NFT Frontend with NextJS and Metaplex
+https://dev.to/aeither/building-a-mint-solana-nft-frontend-with-nextjs-and-metaplex-26eb
+
+Solana DEV #01: Fetching onchain data in a right way
+https://dev.to/chungquantin/solana-dev-01-fetching-onchain-data-in-a-right-way-23da
+
+Solana DEV #02: Retrieve all Deposit transactions of your wallet
+https://dev.to/chungquantin/solana-dev-02-retrieve-all-depoa
+
 
 ------------------------
 ### Solana Architecture
@@ -303,6 +320,9 @@ https://www.shinobi-systems.com/primer.html
 
 RPC Infrastructure
 https://solana.com/rpc
+
+A dummy's guide to Solana's architecture
+https://dev.to/0xprof_lupin/a-dummies-guide-to-solana-2ije
 
 ok so what the $%#@ is the deal with solana anyway
 https://2501babe.github.io/posts/solana101.html
@@ -354,6 +374,9 @@ https://www.reddit.com/r/solana/comments/xqq9b2/comment/iqb16kq/?utm_source=shar
 
 Solana Core Concepts
 https://dev.to/0xprof_lupin/introduction-to-solana-core-concepts-1ke2
+
+Validator Educational Workshop October 12th, 2022
+https://www.youtube.com/watch?v=ZjhxAgoGDbk&ab_channel=Solana
 
 
 ------------------------
@@ -437,11 +460,102 @@ https://medium.com/@asmiller1989/solana-transactions-in-depth-1f7f7fe06ac2
 Guide for Solidity developers
 https://solana.wiki/docs/solidity-guide/
 
+Rust Concepts for Writing Solana Programs
+https://dev.to/doctordrayfocus/rust-concepts-for-writing-solana-programs-gd7
+
+Solana programs Part 4: Metaplex Candy Machine — how does it work?
+https://medium.com/coinmonks/solana-programs-part-4-metaplex-candy-machine-how-does-it-work-a27d7a133fad
+
+
+How to store your files on Solana for just a few cents - GenesysGo's Shadow Drive CLI + Interface
+https://www.youtube.com/watch?v=MfSuzFDDQ30&ab_channel=Jrej
 
 
 
+------------------------
+### Solana Status/Analytics/Trends
 
+------------------------
 
+<br />
+
+#### Solana Status
+
+  Solana Status
+  https://status.solana.com/
+
+<br />
+
+#### Solana Explorers
+
+Solscan Analytics
+https://analytics.solscan.io/
+
+Solana Beach
+https://solanabeach.io/
+
+SolanaFM - A friendly Solana explorer.
+https://solana.fm/?cluster=mainnet-qn1
+
+<br />
+
+#### Solana Validators
+
+  Stakewiz
+  https://stakewiz.com/
+
+  Nakamoto Coefficients
+  https://nakaflow.io/
+
+<br />
+
+#### Trends and Analytics
+
+Solana Network - Medium
+https://medium.com/tag/solana-network/latest
+
+Solana DEX
+https://dune.com/twocrows/solana-dex
+
+Solana Network Analytics
+https://analytics.solscan.io/public/dashboard/8d888828-baae-47b9-948b-d087e5de1411
+
+JITO Soalna Network Dashboard
+https://jito.retool.com/embedded/public/7e37389a-c991-4fb3-a3cd-b387859c7da1
+
+Solana NFT Overview
+https://dune.com/chuxin/Solana-NFT-Overview
+
+Solana Network Chaincrunch Dashboard
+https://chaincrunch.cc/dashboards.html
+
+Nansen NFT Trends (Solana)
+https://pro.nansen.ai/nft-trends?platform=All&network=solana
+https://pro.nansen.ai/multichain/solana
+
+Solana NFT Marketplace Usages (WIP)
+https://dune.com/kunal/Solana-NFT-Marketplaces-(Magic-Eden-OpenSea-Solanart-Digital-Eyes)
+
+@yehjames / STEPN
+https://dune.com/yehjames/STEPN
+
+Altcoin Season Index 
+https://www.blockchaincenter.net/altcoin-season-index/
+
+Solana Floor domains
+https://solanafloor.com/domains
+
+RPC comparison
+http://milliseconds-matter.me/rpc-speed-comparison/
+
+CryptoSlam - NFTs
+https://cryptoslam.io/
+
+Solana Restart
+https://solblaze.org/restart
+
+Solana Floor domains
+https://solanafloor.com/domains
 
 
 ------------------------
@@ -494,7 +608,8 @@ https://remoteok.com/remote-web3-jobs
 Introducing Solana U, a new program for student builders
 https://solana.com/news/introducing-solana-u-a-new-program-for-student-builders
 
-
+nakaflow - Nakamoto Coefficients - A measure of decentralization
+https://nakaflow.io/
 
 
 
