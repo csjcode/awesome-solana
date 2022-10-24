@@ -10,8 +10,6 @@ Awesome list of Solana links, updated recently and with more info than some othe
 * [Solana Status/Analytics/Trends](https://github.com/csjcode/awesome-solana/tree/dev#solana-statusanalyticstrends)
 * [Solana Developer Opportunities & Jobs](https://github.com/csjcode/awesome-solana#developer-opportunities--jobs)
 
-
-
 ------------------------
 
 ### Solana Developer Reference
