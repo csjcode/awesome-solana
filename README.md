@@ -477,21 +477,25 @@ https://www.youtube.com/watch?v=MfSuzFDDQ30&ab_channel=Jrej
 
 ------------------------
 
+<br>
 #### Solana Status
 
   Solana Status
   https://status.solana.com/
 
+<br>
 #### Solana Explorers
 
-  Solscan Analytics
-  https://analytics.solscan.io/
+Solscan Analytics
+https://analytics.solscan.io/
 
-  Solana Beach
-  https://solanabeach.io/
+Solana Beach
+https://solanabeach.io/
 
-  SolanaFM - A friendly Solana explorer.
-  https://solana.fm/?cluster=mainnet-qn1
+SolanaFM - A friendly Solana explorer.
+https://solana.fm/?cluster=mainnet-qn1
+
+<br>
 
 #### Solana Validators
 
@@ -501,6 +505,7 @@ https://www.youtube.com/watch?v=MfSuzFDDQ30&ab_channel=Jrej
   Nakamoto Coefficients
   https://nakaflow.io/
 
+<br>
 #### Trends and Analytics
 
 Solana Network - Medium
