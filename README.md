@@ -7,7 +7,10 @@ Awesome list of Solana links, updated recently and with more info than some othe
 * [Solana Tutorials](https://github.com/csjcode/awesome-solana#solana-tutorials)
 * [Solana Architecture](https://github.com/csjcode/awesome-solana#solana-architecture)
 * [Solana Programming Topics](https://github.com/csjcode/awesome-solana#solana-programming-topics)
+* [Solana Status/Analytics/Trends](https://github.com/csjcode/awesome-solana/tree/dev#solana-trends-and-analytics)
 * [Solana Developer Opportunities & Jobs](https://github.com/csjcode/awesome-solana#developer-opportunities--jobs)
+
+
 
 ------------------------
 
@@ -468,6 +471,85 @@ How to store your files on Solana for just a few cents - GenesysGo's Shadow Driv
 https://www.youtube.com/watch?v=MfSuzFDDQ30&ab_channel=Jrej
 
 
+
+------------------------
+### Solana Status/Analytics/Trends
+
+------------------------
+
+#### Solana Status
+
+Solana Status
+https://status.solana.com/
+
+#### Solana Explorers
+
+Solscan Analytics
+https://analytics.solscan.io/
+
+Solana Beach
+https://solanabeach.io/
+
+SolanaFM - A friendly Solana explorer.
+https://solana.fm/?cluster=mainnet-qn1
+
+#### Solana Validators
+
+Stakewiz
+https://stakewiz.com/
+
+Nakamoto Coefficients
+https://nakaflow.io/
+
+#### Trends and Analytics
+
+Solana Network - Medium
+https://medium.com/tag/solana-network/latest
+
+Solana DEX
+https://dune.com/twocrows/solana-dex
+
+Solana Network Analytics
+https://analytics.solscan.io/public/dashboard/8d888828-baae-47b9-948b-d087e5de1411
+
+JITO Soalna Network Dashboard
+https://jito.retool.com/embedded/public/7e37389a-c991-4fb3-a3cd-b387859c7da1
+
+Solana NFT Overview
+https://dune.com/chuxin/Solana-NFT-Overview
+
+Solana Network Chaincrunch Dashboard
+https://chaincrunch.cc/dashboards.html
+
+Nansen NFT Trends (Solana)
+https://pro.nansen.ai/nft-trends?platform=All&network=solana
+https://pro.nansen.ai/multichain/solana
+
+Solana NFT Marketplace Usages (WIP)
+https://dune.com/kunal/Solana-NFT-Marketplaces-(Magic-Eden-OpenSea-Solanart-Digital-Eyes)
+
+@yehjames / STEPN
+https://dune.com/yehjames/STEPN
+
+Altcoin Season Index 
+https://www.blockchaincenter.net/altcoin-season-index/
+
+Solana Floor domains
+https://solanafloor.com/domains
+
+RPC comparison
+http://milliseconds-matter.me/rpc-speed-comparison/
+
+CryptoSlam - NFTs
+https://cryptoslam.io/
+
+Solana Restart
+https://solblaze.org/restart
+
+Solana Floor domains
+https://solanafloor.com/domains
+
+
 ------------------------
 ### Developer Opportunities & Jobs
 
@@ -522,81 +604,6 @@ nakaflow - Nakamoto Coefficients - A measure of decentralization
 https://nakaflow.io/
 
 
-
-------------------------
-### Solana Trends and Analytics
-
-------------------------
-
-#### Status
-
-Solana Status
-https://status.solana.com/
-
-
-#### Explorers
-
-Solscan Analytics
-https://analytics.solscan.io/
-
-Solana Beach
-https://solanabeach.io/
-
-SolanaFM - A friendly Solana explorer.
-https://solana.fm/?cluster=mainnet-qn1
-
-
-Stakewiz
-https://stakewiz.com/
-
-Solana Network - Medium
-https://medium.com/tag/solana-network/latest
-
-Solana DEX
-https://dune.com/twocrows/solana-dex
-
-Solana Network Analytics
-https://analytics.solscan.io/public/dashboard/8d888828-baae-47b9-948b-d087e5de1411
-
-JITO Soalna Network Dashboard
-https://jito.retool.com/embedded/public/7e37389a-c991-4fb3-a3cd-b387859c7da1
-
-Solana NFT Overview
-https://dune.com/chuxin/Solana-NFT-Overview
-
-Nakamoto Coefficients
-https://nakaflow.io/
-
-Solana Network Chaincrunch Dashboard
-https://chaincrunch.cc/dashboards.html
-
-Nansen NFT Trends (Solana)
-https://pro.nansen.ai/nft-trends?platform=All&network=solana
-https://pro.nansen.ai/multichain/solana
-
-Solana NFT Marketplace Usages (WIP)
-https://dune.com/kunal/Solana-NFT-Marketplaces-(Magic-Eden-OpenSea-Solanart-Digital-Eyes)
-
-@yehjames / STEPN
-https://dune.com/yehjames/STEPN
-
-Altcoin Season Index 
-https://www.blockchaincenter.net/altcoin-season-index/
-
-Solana Floor domains
-https://solanafloor.com/domains
-
-RPC comparison
-http://milliseconds-matter.me/rpc-speed-comparison/
-
-CryptoSlam - NFTs
-https://cryptoslam.io/
-
-Solana Restart
-https://solblaze.org/restart
-
-Solana Floor domains
-https://solanafloor.com/domains
 
 
 
