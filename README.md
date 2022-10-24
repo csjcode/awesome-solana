@@ -7,7 +7,7 @@ Awesome list of Solana links, updated recently and with more info than some othe
 * [Solana Tutorials](https://github.com/csjcode/awesome-solana#solana-tutorials)
 * [Solana Architecture](https://github.com/csjcode/awesome-solana#solana-architecture)
 * [Solana Programming Topics](https://github.com/csjcode/awesome-solana#solana-programming-topics)
-* [Solana Status/Analytics/Trends](https://github.com/csjcode/awesome-solana/tree/dev#solana-trends-and-analytics)
+* [Solana Status/Analytics/Trends](https://github.com/csjcode/awesome-solana/tree/dev#solana-statusanalyticstrends)
 * [Solana Developer Opportunities & Jobs](https://github.com/csjcode/awesome-solana#developer-opportunities--jobs)
 
 
