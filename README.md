@@ -1,5 +1,25 @@
-# awesome-solana v2
+# 🦀 awesome-solana v2 🚀 
 Awesome list of Solana links, updated recently and with more info than some other similar lists.
+
+
+------------------------
+
+This is a list of Solana blockchain and Solana-related ecosystem links collected through web, community and social sources.  
+
+This is your gateway to the Solana blockchain's incredible technology, app and community ecosystem.
+
+However, be cautious, particularly since there is so much content and it can be outdated or changed after posting-- it's important to note...
+
+A link here is not an endorsement of content, safety or suitability for your needs (financial, coding, etc.). The vast majority are not "official" Solana links. All use of these links/apps is solely your responsibility. No warranty is implied by inclusion here. Do not make important decisions or connect your wallet to any site/app here without first independently confirming (apart from these links) it fits your needs.
+
+Staying safe with Phantom - https://phantom.app/blog/staying-safe-with-phantom
+
+Stay Safe on Discord - https://www.ledger.com/academy/how-to-stay-safe-on-discord
+
+Best Safety Practices with Ledger - https://support.ledger.com/hc/en-us/articles/6747982542749-Best-safety-practices-Ledger?docs=true
+
+Ledger security topics - https://www.ledger.com/academy/library/topics/security
+
 
 ------------------------
 
@@ -12,7 +32,7 @@ Awesome list of Solana links, updated recently and with more info than some othe
 
 ------------------------
 
-### Solana Developer Reference
+### 🦀 Solana Developer Reference
 
 
 ------------------------
@@ -143,7 +163,7 @@ https://feecalc.live/
 
 
 ------------------------
-### Solana Tutorials
+### 🚀 Solana Tutorials
 
 ------------------------
 
@@ -283,7 +303,7 @@ https://dev.to/chungquantin/solana-dev-02-retrieve-all-depoa
 
 
 ------------------------
-### Solana Architecture
+### 🦀 Solana Architecture
 
 ------------------------
 
@@ -378,7 +398,7 @@ https://www.youtube.com/watch?v=ZjhxAgoGDbk&ab_channel=Solana
 
 
 ------------------------
-### Solana Programming Topics
+### 🦀 Solana Programming Topics
 
 ------------------------
 
@@ -486,6 +506,19 @@ https://www.youtube.com/watch?v=MfSuzFDDQ30&ab_channel=Jrej
 
 #### Solana Explorers
 
+Solana Explorer 
+mainnet:
+https://explorer.solana.com/
+testnet: 
+https://explorer.solana.com/?cluster=testnet
+devnet: 
+https://explorer.solana.com/?cluster=devnet
+
+Solscan.io
+https://solscan.io/
+Solscan Public API
+https://public-api.solscan.io/docs/#/
+
 Solscan Analytics
 https://analytics.solscan.io/
 
@@ -495,6 +528,8 @@ https://solanabeach.io/
 SolanaFM - A friendly Solana explorer.
 https://solana.fm/?cluster=mainnet-qn1
 
+
+
 <br />
 
 #### Solana Validators
@@ -502,12 +537,16 @@ https://solana.fm/?cluster=mainnet-qn1
   Stakewiz
   https://stakewiz.com/
 
+  Solana Beach Validators
+  https://solanabeach.io/validators
+
+
   Nakamoto Coefficients
   https://nakaflow.io/
 
 <br />
 
-#### Trends and Analytics
+#### 🚀 Trends and Analytics
 
 Solana Network - Medium
 https://medium.com/tag/solana-network/latest
@@ -557,7 +596,7 @@ https://solanafloor.com/domains
 
 
 ------------------------
-### Developer Opportunities & Jobs
+### 🚀 Developer Opportunities & Jobs
 
 ------------------------
 
@@ -606,13 +645,23 @@ https://remoteok.com/remote-web3-jobs
 Introducing Solana U, a new program for student builders
 https://solana.com/news/introducing-solana-u-a-new-program-for-student-builders
 
-nakaflow - Nakamoto Coefficients - A measure of decentralization
-https://nakaflow.io/
-
-
-
-
 
 -----------------
+
+
+This is a list of interesting and potentially useful Solana blockchain and Solana-related ecosystem links.  
+
+Important note: A link here is not an endorsement of content, safety or suitability for your needs (financial, coding, etc.). The vast majority are not "official" Solana links. All use of these links/apps is solely your responsibility. No warranty is implied by inclusion here. Do not make important decisions or connect your wallet to any site/app here without first independently confirming (apart from these links) it fits your needs.
+
+Staying safe with Phantom - https://phantom.app/blog/staying-safe-with-phantom
+
+Stay Safe on Discord - https://www.ledger.com/academy/how-to-stay-safe-on-discord
+
+Best Safety Practices with Ledger - https://support.ledger.com/hc/en-us/articles/6747982542749-Best-safety-practices-Ledger?docs=true
+
+Ledger security topics - https://www.ledger.com/academy/library/topics/security
+
+------------------------
+
 
 TODO: More categories
