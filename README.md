@@ -302,6 +302,9 @@ https://dev.to/chungquantin/solana-dev-01-fetching-onchain-data-in-a-right-way-2
 Solana DEV #02: Retrieve all Deposit transactions of your wallet
 https://dev.to/chungquantin/solana-dev-02-retrieve-all-depoa
 
+Solana Dev Series
+https://super.page/solana-dev-series
+
 
 ------------------------
 ### 🦀 Solana Architecture
@@ -485,9 +488,16 @@ https://dev.to/doctordrayfocus/rust-concepts-for-writing-solana-programs-gd7
 Solana programs Part 4: Metaplex Candy Machine — how does it work?
 https://medium.com/coinmonks/solana-programs-part-4-metaplex-candy-machine-how-does-it-work-a27d7a133fad
 
-
 How to store your files on Solana for just a few cents - GenesysGo's Shadow Drive CLI + Interface
 https://www.youtube.com/watch?v=MfSuzFDDQ30&ab_channel=Jrej
+
+Meet Crypto’s Superapp: Backpack
+https://www.wordcelclub.com/adityashetty.sol/meet-cryptos-superapp-backpack
+
+Coral XYZ xNFT Backpack "A home for your xNFTs"
+https://www.backpack.app/
+https://github.com/coral-xyz/backpack
+
 
 
 
