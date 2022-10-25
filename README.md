@@ -507,11 +507,11 @@ https://www.youtube.com/watch?v=MfSuzFDDQ30&ab_channel=Jrej
 #### Solana Explorers
 
 Solana Explorer 
-mainnet:
+* mainnet:
 https://explorer.solana.com/
-testnet: 
+* testnet: 
 https://explorer.solana.com/?cluster=testnet
-devnet: 
+* devnet: 
 https://explorer.solana.com/?cluster=devnet
 
 Solscan.io
