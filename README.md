@@ -8,9 +8,7 @@ A list of Solana blockchain and Solana-related ecosystem links collected through
 
 This is a gateway to Solana's technology, apps and community ecosystem.
 
-However, be cautious, particularly since there is so much content and it can be outdated or changed after posting-- it's important to note...
-
-A link here is not an endorsement of content, safety or suitability for your needs (financial, coding, etc.). All use of these links/apps is solely your responsibility. No warranty is implied by inclusion here. 
+note: A link here is not an endorsement of content, safety or suitability for your needs (financial, coding, etc.). All use of these links/apps is solely your responsibility. No warranty is implied by inclusion here. 
 
 Staying safe with Phantom - https://phantom.app/blog/staying-safe-with-phantom
 
