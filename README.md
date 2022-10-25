@@ -23,12 +23,12 @@ Ledger security topics - https://www.ledger.com/academy/library/topics/security
 
 ------------------------
 
-* [Solana Developer Reference](https://github.com/csjcode/awesome-solana#solana-developer-reference)
-* [Solana Tutorials](https://github.com/csjcode/awesome-solana#solana-tutorials)
-* [Solana Architecture](https://github.com/csjcode/awesome-solana#solana-architecture)
-* [Solana Programming Topics](https://github.com/csjcode/awesome-solana#solana-programming-topics)
-* [Solana Status/Analytics/Trends](https://github.com/csjcode/awesome-solana#solana-statusanalyticstrends)
-* [Solana Developer Opportunities & Jobs](https://github.com/csjcode/awesome-solana#developer-opportunities--jobs)
+* [Solana Developer Reference](https://github.com/csjcode/awesome-solana#-solana-developer-reference)
+* [Solana Tutorials](https://github.com/csjcode/awesome-solana#-solana-tutorials)
+* [Solana Architecture](https://github.com/csjcode/awesome-solana#-solana-architecture)
+* [Solana Programming Topics](https://github.com/csjcode/awesome-solana#-solana-programming-topics)
+* [Solana Status/Analytics/Trends](https://github.com/csjcode/awesome-solana#-solana-statusanalyticstrends)
+* [Solana Developer Opportunities & Jobs](https://github.com/csjcode/awesome-solana#-developer-opportunities--jobs)
 
 ------------------------
 
