@@ -319,6 +319,9 @@ https://dev.to/chungquantin/solana-dev-02-retrieve-all-depoa
 Solana Dev Series
 https://super.page/solana-dev-series
 
+Solana Program Template w/o Anchor
+https://github.com/stegaBOB/solana-program-template
+
 
 ------------------------
 ### 🦀 Solana Architecture
@@ -471,6 +474,12 @@ https://www.youtube.com/watch?v=6cwePbRFlTY&ab_channel=SolanaSun
 
 NFT / Metaplex Workshop
 https://www.youtube.com/watch?v=GqXu8MfdEG4&ab_channel=Solana
+
+Chewing Glass podcast (Solana developers)
+https://www.youtube.com/playlist?list=PLilwLeBwGuK6JMfYiZJwzikPG2Jhjqdu3
+
+Solana Community Validator dicussions:
+https://www.youtube.com/playlist?list=PLilwLeBwGuK78yjGBZwYhTf7rao0t13Zw
 
 create-solana-dapp (Next)
 https://github.com/solana-developers/create-solana-app
