@@ -8,7 +8,7 @@ A list of Solana blockchain and Solana-related ecosystem links collected through
 
 This is a gateway to Solana's technology, apps and community ecosystem.
 
-A link here is not an endorsement of content, safety or suitability for your needs (financial, coding, etc.). All use of these links/apps is solely your responsibility. No warranty is implied by inclusion here.
+note: A link here is not an endorsement of content, safety or suitability for your needs (financial, coding, etc.). All use of these links/apps is solely your responsibility. No warranty is implied by inclusion here. 
 
 Staying safe with Phantom - https://phantom.app/blog/staying-safe-with-phantom
 
@@ -518,11 +518,11 @@ https://github.com/coral-xyz/backpack
 #### Solana Explorers
 
 Solana Explorer 
-mainnet:
+* mainnet:
 https://explorer.solana.com/
-testnet: 
+* testnet: 
 https://explorer.solana.com/?cluster=testnet
-devnet: 
+* devnet: 
 https://explorer.solana.com/?cluster=devnet
 
 Solscan.io
