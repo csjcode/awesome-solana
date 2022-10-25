@@ -26,6 +26,8 @@ Ledger security topics - https://www.ledger.com/academy/library/topics/security
 * [Solana Architecture](https://github.com/csjcode/awesome-solana#-solana-architecture)
 * [Solana Programming Topics](https://github.com/csjcode/awesome-solana#-solana-programming-topics)
 * [Solana Status/Analytics/Trends](https://github.com/csjcode/awesome-solana#-solana-statusanalyticstrends)
+* [Solana NFTs](https://github.com/csjcode/awesome-solana#-solana-nfts)
+* TODO: Defi App/Dev
 * [Solana Developer Opportunities & Jobs](https://github.com/csjcode/awesome-solana#-developer-opportunities--jobs)
 
 ------------------------
@@ -158,6 +160,16 @@ https://feecalc.live/
 
 #### Solana Developer Changelog weekly podcast 
 * https://www.youtube.com/watch?v=jIZXTkVaTps&list=PLilwLeBwGuK5-Qri7Pg9zd-Vvhz9kX2-R
+
+SMS Solana Mobile
+* https://solanamobile.com/
+* https://github.com/solana-mobile/solana-mobile-stack-sdk
+
+Solana Pay
+* https://solanapay.com/
+* https://docs.solanapay.com/
+* https://github.com/solana-labs/solana-pay
+
 
 
 ------------------------
@@ -413,6 +425,9 @@ https://lu.ma/p/3nHEa7k5DABpzE6/The-Solana-Programming-Model
 Programming Solana - Chainlink Workshops - Ecosystem (SmartCon 2022)
 https://www.youtube.com/watch?v=vXx4aXJfi3o&ab_channel=Chainlink
 
+SMS Solana Mobile
+https://solanamobile.com/
+
 Solana Bootcamp - Day 1 - Intro to Solana
 https://www.youtube.com/watch?v=O0uhZEfVPt8&t=2034s&ab_channel=Solana
 
@@ -506,7 +521,6 @@ https://github.com/coral-xyz/backpack
 
 ------------------------
 
-<br />
 
 #### Solana Status
 
@@ -557,7 +571,7 @@ https://solana.fm/?cluster=mainnet-qn1
 
 <br />
 
-#### 🚀 Trends and Analytics
+#### Trends and Analytics
 
 Solana Network - Medium
 https://medium.com/tag/solana-network/latest
@@ -604,6 +618,89 @@ https://solblaze.org/restart
 
 Solana Floor domains
 https://solanafloor.com/domains
+
+
+
+------------------------
+### 🚀 Solana NFTs
+
+------------------------
+
+
+Magic Eden
+https://magiceden.io/
+
+SolSea 
+https://geekflare.com/finance/solana-nft-marketplaces/
+
+Solanart
+https://solanart.io/
+
+Coral XYZ xNFT Backpack "A home for your xNFTs"
+https://www.backpack.app/
+
+DigitalEyes
+https://digitaleyes.market/
+
+Decentralized NFT Marketplace
+https://artz.ai/
+
+Metaplex Programs
+https://docs.metaplex.com/programs/
+
+SOL NFT Tools
+https://cryptostraps.tools/nft-mints
+
+jarry-xiao/candyland
+https://github.com/jarry-xiao/candyland
+
+Awesome Solana NFTs
+https://github.com/ilmoi/awesome-solana-nfts
+
+HashLips Art Engine 
+https://github.com/HashLips/hashlips_art_engine
+
+How to Create and Verify a Solana NFT Collection
+https://www.youtube.com/watch?v=s57Q1LiC6Uw&ab_channel=CtrlAltVictoria
+
+TOP 5 UNDERRATED SOLANA NFTS TO BUY NOW! NFT Projects With 100x POTENTIAL!?
+https://www.youtube.com/watch?v=vpQbn33lMtw&ab_channel=GrishuhNFT
+
+You NEED These Tools if You Want to Flip Solana NFTs for Profit (NFT Flipping Strategy)
+https://www.youtube.com/watch?v=6XDi7T-231Q&ab_channel=GrishuhNFT
+
+I Traded The #1 Solana NFT Project for a WEEK! (and this happened..)
+https://www.youtube.com/watch?v=WCDOiH2VNVg&ab_channel=GrishuhNFT
+
+The EASIEST Way To Flip & Snipe NFTs on Solana (Best Methods)
+https://www.youtube.com/watch?v=nhmzXfq5mRE&ab_channel=GrishuhNFT
+
+Degen Ape Academy - Most BULLISH Project on Solana - Interview with Saint Eclectic
+https://www.youtube.com/watch?v=jrX2aNwnB8A&ab_channel=KnoxTrades
+
+What it Takes to SELL OUT an NFT Project in 2022
+https://www.youtube.com/watch?v=WEXq2jHy_Lo&ab_channel=BrettMalinowski
+
+How to audit Solana smart contracts Part 1: a systematic approach
+https://medium.com/coinmonks/how-to-audit-solana-smart-contracts-part-1-a-systematic-approach-56a434f6c9ed
+
+Bug Bounty
+https://soldev.app/bounties
+
+Got Liquidity? Solana’s 5 NFT Loan Categories
+https://medium.com/dyor-with-unloc/got-liquidity-solanas-5-nft-loan-categories-d3f338056835
+
+Guide to minting a SolSea NFT: Step by step
+https://cointelegraph.com/news/how-to-mint-an-nft-on-solana-solsea
+
+Supadrop NFT drops on Solana 
+https://www.supadrop.com/
+
+LIQNFT
+Solana's First Community-led NFT Marketplace
+https://www.liqnft.com/
+
+TODO: Need to build out this NFT section some more
 
 
 ------------------------
