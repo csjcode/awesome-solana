@@ -28,6 +28,8 @@ Ledger security topics - https://www.ledger.com/academy/library/topics/security
 * [Solana Status/Analytics/Trends](https://github.com/csjcode/awesome-solana#-solana-statusanalyticstrends)
 * [Solana NFTs](https://github.com/csjcode/awesome-solana#-solana-nfts)
 * TODO: Defi App/Dev
+* TODO: Security App/Dev
+* TODO: Hosting
 * [Solana Developer Opportunities & Jobs](https://github.com/csjcode/awesome-solana#-developer-opportunities--jobs)
 
 ------------------------
@@ -660,20 +662,19 @@ https://github.com/ilmoi/awesome-solana-nfts
 HashLips Art Engine 
 https://github.com/HashLips/hashlips_art_engine
 
+How to Mint an NFT on Solana
+https://docs.opensea.io/docs/how-to-mint-an-nft-on-solana
+* Part 1: Setting up a Phantom Wallet
+* Part 2: Installing the Metaplex CLI
+* Part 3: Setting up a Solana Node with QuickNode
+* Part 4: Minimal Configuration for Candy Machine V2
+* Part 5: Preparing the Assets
+* Part 6: Uploading and Creating Your Candy Machine
+* Part 7: Website Set up for Minting
+* Part 8: Solana and OpenSea Metaplex Certified Collection Standard
+
 How to Create and Verify a Solana NFT Collection
 https://www.youtube.com/watch?v=s57Q1LiC6Uw&ab_channel=CtrlAltVictoria
-
-TOP 5 UNDERRATED SOLANA NFTS TO BUY NOW! NFT Projects With 100x POTENTIAL!?
-https://www.youtube.com/watch?v=vpQbn33lMtw&ab_channel=GrishuhNFT
-
-You NEED These Tools if You Want to Flip Solana NFTs for Profit (NFT Flipping Strategy)
-https://www.youtube.com/watch?v=6XDi7T-231Q&ab_channel=GrishuhNFT
-
-I Traded The #1 Solana NFT Project for a WEEK! (and this happened..)
-https://www.youtube.com/watch?v=WCDOiH2VNVg&ab_channel=GrishuhNFT
-
-The EASIEST Way To Flip & Snipe NFTs on Solana (Best Methods)
-https://www.youtube.com/watch?v=nhmzXfq5mRE&ab_channel=GrishuhNFT
 
 Degen Ape Academy - Most BULLISH Project on Solana - Interview with Saint Eclectic
 https://www.youtube.com/watch?v=jrX2aNwnB8A&ab_channel=KnoxTrades
