@@ -143,9 +143,9 @@ https://feecalc.live/
   * Docs
     https://docs.solscan.io/
   * Account details 
-    https://docs.solscan.io/browsing-the-site/transaction-details
+    https://docs.solscan.io/transaction-details/account
   * Transaction details 
-    https://docs.solscan.io/browsing-the-site/transaction-details
+    https://docs.solscan.io/transaction-details/transaction-details
   * Fee Tracker 
     https://beta-analysis.solscan.io/public/dashboard/06d689e1-dcd7-4175-a16a-efc074ad5ce2
 
