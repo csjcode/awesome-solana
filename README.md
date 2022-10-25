@@ -4,13 +4,11 @@ Awesome list of Solana links, updated recently and with more info than some othe
 
 ------------------------
 
-This is a list of Solana blockchain and Solana-related ecosystem links collected through web, community and social sources.  
+A list of Solana blockchain and Solana-related ecosystem links collected through web, community and social sources.  
 
-This is your gateway to the Solana blockchain's incredible technology, app and community ecosystem.
+This is a gateway to Solana's technology, apps and community ecosystem.
 
-However, be cautious, particularly since there is so much content and it can be outdated or changed after posting-- it's important to note...
-
-A link here is not an endorsement of content, safety or suitability for your needs (financial, coding, etc.). The vast majority are not "official" Solana links. All use of these links/apps is solely your responsibility. No warranty is implied by inclusion here. Do not make important decisions or connect your wallet to any site/app here without first independently confirming (apart from these links) it fits your needs.
+A link here is not an endorsement of content, safety or suitability for your needs (financial, coding, etc.). All use of these links/apps is solely your responsibility. No warranty is implied by inclusion here.
 
 Staying safe with Phantom - https://phantom.app/blog/staying-safe-with-phantom
 
@@ -23,12 +21,12 @@ Ledger security topics - https://www.ledger.com/academy/library/topics/security
 
 ------------------------
 
-* [Solana Developer Reference](https://github.com/csjcode/awesome-solana#solana-developer-reference)
-* [Solana Tutorials](https://github.com/csjcode/awesome-solana#solana-tutorials)
-* [Solana Architecture](https://github.com/csjcode/awesome-solana#solana-architecture)
-* [Solana Programming Topics](https://github.com/csjcode/awesome-solana#solana-programming-topics)
-* [Solana Status/Analytics/Trends](https://github.com/csjcode/awesome-solana/tree/dev#solana-statusanalyticstrends)
-* [Solana Developer Opportunities & Jobs](https://github.com/csjcode/awesome-solana#developer-opportunities--jobs)
+* [Solana Developer Reference](https://github.com/csjcode/awesome-solana#-solana-developer-reference)
+* [Solana Tutorials](https://github.com/csjcode/awesome-solana#-solana-tutorials)
+* [Solana Architecture](https://github.com/csjcode/awesome-solana#-solana-architecture)
+* [Solana Programming Topics](https://github.com/csjcode/awesome-solana#-solana-programming-topics)
+* [Solana Status/Analytics/Trends](https://github.com/csjcode/awesome-solana#-solana-statusanalyticstrends)
+* [Solana Developer Opportunities & Jobs](https://github.com/csjcode/awesome-solana#-developer-opportunities--jobs)
 
 ------------------------
 
@@ -143,9 +141,9 @@ https://feecalc.live/
   * Docs
     https://docs.solscan.io/
   * Account details 
-    https://docs.solscan.io/browsing-the-site/transaction-details
+    https://docs.solscan.io/transaction-details/account
   * Transaction details 
-    https://docs.solscan.io/browsing-the-site/transaction-details
+    https://docs.solscan.io/transaction-details/transaction-details
   * Fee Tracker 
     https://beta-analysis.solscan.io/public/dashboard/06d689e1-dcd7-4175-a16a-efc074ad5ce2
 
@@ -220,6 +218,9 @@ https://dev.to/meditatingsloth/new-solana-dev-guide-1hm7
 
 Blockchain Tutorial
 https://adept.at/forked/solana-blockchain-development
+
+Coding-and-Crypto / Rust-Solana-Tutorial (extensive)
+https://github.com/Coding-and-Crypto/Rust-Solana-Tutorial
 
 Web3 examples
 https://github.com/solana-developers/web3-examples
@@ -300,6 +301,9 @@ https://dev.to/chungquantin/solana-dev-01-fetching-onchain-data-in-a-right-way-2
 
 Solana DEV #02: Retrieve all Deposit transactions of your wallet
 https://dev.to/chungquantin/solana-dev-02-retrieve-all-depoa
+
+Solana Dev Series
+https://super.page/solana-dev-series
 
 
 ------------------------
@@ -484,9 +488,16 @@ https://dev.to/doctordrayfocus/rust-concepts-for-writing-solana-programs-gd7
 Solana programs Part 4: Metaplex Candy Machine — how does it work?
 https://medium.com/coinmonks/solana-programs-part-4-metaplex-candy-machine-how-does-it-work-a27d7a133fad
 
-
 How to store your files on Solana for just a few cents - GenesysGo's Shadow Drive CLI + Interface
 https://www.youtube.com/watch?v=MfSuzFDDQ30&ab_channel=Jrej
+
+Meet Crypto’s Superapp: Backpack
+https://www.wordcelclub.com/adityashetty.sol/meet-cryptos-superapp-backpack
+
+Coral XYZ xNFT Backpack "A home for your xNFTs"
+https://www.backpack.app/
+https://github.com/coral-xyz/backpack
+
 
 
 
