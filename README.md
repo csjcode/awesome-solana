@@ -221,6 +221,9 @@ https://dev.to/meditatingsloth/new-solana-dev-guide-1hm7
 Blockchain Tutorial
 https://adept.at/forked/solana-blockchain-development
 
+Coding-and-Crypto / Rust-Solana-Tutorial (extensive)
+https://github.com/Coding-and-Crypto/Rust-Solana-Tutorial
+
 Web3 examples
 https://github.com/solana-developers/web3-examples
 
