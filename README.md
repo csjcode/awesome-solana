@@ -8,11 +8,13 @@ A list of Solana blockchain and Solana-related ecosystem links collected through
 
 This is a dev-centric gateway to Solana's technology, apps and community ecosystem, with a particular focus on tutorials, FAQs and dev resources.
 
-note: A link here is not an endorsement of content, safety or suitability for your needs (financial, coding, etc.). All use of these links/apps is solely your responsibility. No warranty is implied by inclusion here. 
+note: A link here is not an endorsement of content, safety or suitability for your needs (financial, coding, etc.). All use of these links/apps is solely your responsibility. No warranty is implied by inclusion here.
 
 Staying safe with Phantom - https://phantom.app/blog/staying-safe-with-phantom
 
 Stay Safe on Discord - https://www.ledger.com/academy/how-to-stay-safe-on-discord
+
+10 NFT Scams to Watch Out For and How to Avoid Them - https://www.coingecko.com/learn/nft-scams-to-avoid
 
 Best Safety Practices with Ledger - https://support.ledger.com/hc/en-us/articles/6747982542749-Best-safety-practices-Ledger?docs=true
 
@@ -27,8 +29,8 @@ Ledger security topics - https://www.ledger.com/academy/library/topics/security
 * [Solana Programming Topics](https://github.com/csjcode/awesome-solana#-solana-programming-topics)
 * [Solana Status/Analytics/Trends](https://github.com/csjcode/awesome-solana#-solana-statusanalyticstrends)
 * [Solana NFTs](https://github.com/csjcode/awesome-solana#-solana-nfts)
+* [Solana and Web3 Security](https://github.com/csjcode/awesome-solana#-solana-and-web3-security)
 * TODO: Defi App/Dev
-* TODO: Security App/Dev
 * TODO: Hosting
 * [Solana Developer Opportunities & Jobs](https://github.com/csjcode/awesome-solana#-developer-opportunities--jobs)
 
@@ -138,6 +140,11 @@ https://feecalc.live/
 #### Solana Stack Exchange
 * https://solana.stackexchange.com/?utm_source=solana.com
 
+#### Setting up a Local Solana dev environemnt and CLI Wallet
+* Install the Solana Tool Suite - https://docs.solana.com/cli/install-solana-cli-tools
+* Create a CLI Wallet - https://docs.metaplex.com/guides/cli-wallet
+#### Solana Deploy cheatsheet
+* https://hackmd.io/@raza/deploy15
 #### Create Solana App
 * https://github.com/solana-developers/create-solana-app
 
@@ -151,14 +158,9 @@ https://feecalc.live/
   * Fee Tracker 
     https://beta-analysis.solscan.io/public/dashboard/06d689e1-dcd7-4175-a16a-efc074ad5ce2
 
-
 #### solana-web3.js
 * https://solana-labs.github.io/solana-web3.js/
 * https://github.com/solana-labs/solana-web3.js
-
-
-#### Solana Deploy cheatsheet
-* https://hackmd.io/@raza/deploy15
 
 #### Solana Developer Changelog weekly podcast 
 * https://www.youtube.com/watch?v=jIZXTkVaTps&list=PLilwLeBwGuK5-Qri7Pg9zd-Vvhz9kX2-R
@@ -328,8 +330,6 @@ https://github.com/stegaBOB/solana-program-template
 
 ------------------------
 
-
-
 Explaining Solana and its Innovations without technical jargon
 https://learn.figment.io/tutorials/explaining-solanas-innovations-without-technical-jargon
 
@@ -350,9 +350,6 @@ https://medium.com/solana-labs/solanas-network-architecture-8e913e1d5a40
 * [Pipelining](https://solana.com/pipelining-in-solana-the-transaction-processing-unit/) — a Transaction Processing Unit for validation optimization
 * [Cloudbreak](https://medium.com/solana-labs/cloudbreak-solanas-horizontally-scaled-state-architecture-9a86679dcbb1) — Horizontally-Scaled Accounts Database; and
 * [Archivers](https://solana.com/archivers/) — Distributed ledger store
-
-Solana Labs Architectural Security Review and Report
-https://solana.com/solana-security-audit-2019.pdf
 
 Solana Proof of Stake + Proof of History Primer
 https://www.shinobi-systems.com/primer.html
@@ -416,6 +413,19 @@ https://dev.to/0xprof_lupin/introduction-to-solana-core-concepts-1ke2
 
 Validator Educational Workshop October 12th, 2022
 https://www.youtube.com/watch?v=ZjhxAgoGDbk&ab_channel=Solana
+
+Solana Internals Part 1: What Are the Native On-Chain Programs and Why Do They Matter?
+https://www.sec3.dev/blog/solana-internals-part-1-what-are-the-native-on-chain-programs-and-why-do-they-matter
+
+Solana Internals Part 2: How Is a Solana Program Deployed and Upgraded
+https://www.sec3.dev/blog/solana-internals-part-2-how-is-a-solana-program-deployed-and-upgraded
+
+Solana Internals Part 3: The Transaction Processing Unit (TPU) 
+https://www.sec3.dev/blog/solana-internals-part-3-the-transaction-processing-unit-tpu
+ 
+Solana Internals Part 4: The Bank — A Key Component 
+https://www.sec3.dev/blog/solana-internals-part-4-the-bank-a-key-component
+
 
 
 ------------------------
@@ -520,15 +530,13 @@ https://www.youtube.com/watch?v=MfSuzFDDQ30&ab_channel=Jrej
 Meet Crypto’s Superapp: Backpack
 https://www.wordcelclub.com/adityashetty.sol/meet-cryptos-superapp-backpack
 
-Coral XYZ xNFT Backpack "A home for your xNFTs"
+Backpack 🎒Coral XYZ xNFT Backpack - "A home for your xNFTs"
 https://www.backpack.app/
 https://github.com/coral-xyz/backpack
 
 
-
-
 ------------------------
-### Solana Status/Analytics/Trends
+### 📈 Solana Status/Analytics/Trends
 
 ------------------------
 
@@ -637,7 +645,6 @@ https://solanafloor.com/domains
 
 ------------------------
 
-
 Magic Eden
 https://magiceden.io/
 
@@ -662,6 +669,15 @@ https://docs.metaplex.com/programs/
 SOL NFT Tools
 https://cryptostraps.tools/nft-mints
 
+Metaplex Guides (Minting UI, Airdrop, Mint List)
+https://docs.metaplex.com/guides/
+
+Metaplex CandyMachine Tutorial
+https://docs.metaplex.com/developer-tools/sugar/tutorials/my-first-candy-machine
+
+Solana programs Part 3: understanding Metaplex Token Metadata
+https://www.sec3.dev/blog/solana-programs-part-3
+
 jarry-xiao/candyland
 https://github.com/jarry-xiao/candyland
 
@@ -670,6 +686,12 @@ https://github.com/ilmoi/awesome-solana-nfts
 
 HashLips Art Engine 
 https://github.com/HashLips/hashlips_art_engine
+
+Solana programs Part 3: understanding Metaplex Token Metadata
+https://www.sec3.dev/blog/solana-programs-part-3
+
+Solana Programs Part 4: Metaplex Candy Machine — How Does It Work?
+https://www.sec3.dev/blog/solana-programs-part-4-metaplex-candy-machine
 
 How to Mint an NFT on Solana
 https://docs.opensea.io/docs/how-to-mint-an-nft-on-solana
@@ -694,8 +716,6 @@ https://www.youtube.com/watch?v=WEXq2jHy_Lo&ab_channel=BrettMalinowski
 How to audit Solana smart contracts Part 1: a systematic approach
 https://medium.com/coinmonks/how-to-audit-solana-smart-contracts-part-1-a-systematic-approach-56a434f6c9ed
 
-Bug Bounty
-https://soldev.app/bounties
 
 Got Liquidity? Solana’s 5 NFT Loan Categories
 https://medium.com/dyor-with-unloc/got-liquidity-solanas-5-nft-loan-categories-d3f338056835
@@ -711,6 +731,87 @@ Solana's First Community-led NFT Marketplace
 https://www.liqnft.com/
 
 TODO: Need to build out this NFT section some more
+
+
+------------------------
+### 🎧 Podcasts and Playlists
+
+------------------------
+
+Solana Foundation official Youtube Channel
+https://www.youtube.com/c/SolanaFndn/videos
+
+Solana Bytes (short dev tips)
+https://www.youtube.com/playlist?list=PLilwLeBwGuK51Ji870apdb88dnBr1Xqhm
+
+Solana Podcast
+https://www.youtube.com/playlist?list=PLilwLeBwGuK6z0mLzSlkT20a40TYFQmNA
+
+Chewing Glass podcast (Solana developers)
+https://www.youtube.com/playlist?list=PLilwLeBwGuK6JMfYiZJwzikPG2Jhjqdu3
+
+Solana Changelog Community Validator dicussions:
+https://www.youtube.com/playlist?list=PLilwLeBwGuK5-Qri7Pg9zd-Vvhz9kX2-R
+
+
+------------------------
+### 🔒 Solana and Web3 Security
+
+------------------------
+
+#### Wallet Security
+<br />
+
+Staying safe with Phantom - https://phantom.app/blog/staying-safe-with-phantom
+
+Stay Safe on Discord - https://www.ledger.com/academy/how-to-stay-safe-on-discord
+
+10 NFT Scams to Watch Out For and How to Avoid Them - https://www.coingecko.com/learn/nft-scams-to-avoid
+
+Best Safety Practices with Ledger - https://support.ledger.com/hc/en-us/articles/6747982542749-Best-safety-practices-Ledger?docs=true
+
+Ledger security topics - https://www.ledger.com/academy/library/topics/security
+
+How to create a cold wallet with Solana
+https://contenthub.magiceden.io/the-solana-security-playbook
+
+Solana Wallet guide (official docs)
+[Solana Wallet Guide](https://docs.solana.com/wallet-guide)
+
+Command Line Wallets - from official Solana docs:
+* [Command Line Wallets](https://docs.solana.com/wallet-guide/cli)
+* [Paper Wallet](https://docs.solana.com/wallet-guide/paper-wallet)
+* [Hardware Wallets](https://docs.solana.com/wallet-guide/hardware-wallets)
+* [File System Wallet](https://docs.solana.com/wallet-guide/file-system-wallet)
+
+<br />
+#### Smart Contract and Blockchain Security
+<br />
+solana-smart-contract-security-best-practices
+https://github.com/slowmist/solana-smart-contract-security-best-practices
+
+#### [Sec3 Dev Blog](https://www.sec3.dev/blog)
+
+* [How to Audit Solana Smart Contracts Part 1: A Systematic Approach](https://www.sec3.dev/blog/how-to-audit-solana-smart-contracts-part-1-a-systematic-approach)
+* [How to Audit Solana Smart Contracts Part 2: Automated Scanning](https://www.sec3.dev/blog/how-to-audit-solana-smart-contracts-part-2-automated-scanning)
+* [How to Audit Solana Smart Contracts Part 3: Penetration Testing](https://www.sec3.dev/blog/how-to-audit-solana-smart-contracts-part-3-penetration-testing)
+* [How to Audit Solana Smart Contracts Part 4: The Anchor Framework](https://www.sec3.dev/blog/how-to-audit-solana-smart-contracts-part-4-the-anchor-framework)
+* [Security of Solana Smart Contracts: two caveats of the SPL Associated Token Account](https://www.sec3.dev/blog/two-caveats-spl)
+* [Proactive After-deployment Monitoring](https://www.sec3.dev/blog/proactive-after-deployment)
+* [How to analyze an attack? — a case on the Mango Markets Exploit](https://www.sec3.dev/blog/mangoexploit)
+* [Security of Solana Smart Contracts: why you should always validate PDA Bump Seeds](https://www.sec3.dev/blog/pda-bump-seeds)
+* [Bidirectional Rounding: A Common Security Vulnerability in Defi Smart Contracts](https://www.sec3.dev/blog/bidirectional-rounding)
+* [The Wormhole Hack: How Soteria Detects the Vulnerability Automatically](https://www.sec3.dev/blog/the-wormhole-hack-how-soteria-detects-the-vulnerability-automatically)
+* [Understanding Arithmetic Overflow/Underflows in Rust and Solana Smart Contracts](https://www.sec3.dev/blog/understanding-arithmetic-overflow-underflows-in-rust-and-solana-smart-contracts)
+
+Solana Labs Architectural Security Review and Report
+https://solana.com/solana-security-audit-2019.pdf
+
+Bug Bounties 
+https://soldev.app/bounties
+
+Bughunting Bounties (via Superteam)
+https://earn.superteam.fun/opportunities/category/bounties
 
 
 ------------------------
@@ -774,6 +875,8 @@ Important note: A link here is not an endorsement of content, safety or suitabil
 Staying safe with Phantom - https://phantom.app/blog/staying-safe-with-phantom
 
 Stay Safe on Discord - https://www.ledger.com/academy/how-to-stay-safe-on-discord
+
+10 NFT Scams to Watch Out For and How to Avoid Them - https://www.coingecko.com/learn/nft-scams-to-avoid
 
 Best Safety Practices with Ledger - https://support.ledger.com/hc/en-us/articles/6747982542749-Best-safety-practices-Ledger?docs=true
 
