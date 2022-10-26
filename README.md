@@ -785,9 +785,10 @@ Command Line Wallets - from official Solana docs:
 * [File System Wallet](https://docs.solana.com/wallet-guide/file-system-wallet)
 
 <br />
+
 #### Smart Contract and Blockchain Security
-<br />
-solana-smart-contract-security-best-practices
+
+Solana Security Best Practices. 
 https://github.com/slowmist/solana-smart-contract-security-best-practices
 
 #### [Sec3 Dev Blog](https://www.sec3.dev/blog)
