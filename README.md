@@ -775,6 +775,14 @@ Ledger security topics - https://www.ledger.com/academy/library/topics/security
 How to create a cold wallet with Solana
 https://contenthub.magiceden.io/the-solana-security-playbook
 
+Solana Wallet guide (official docs)
+[Solana Wallet Guide](https://docs.solana.com/wallet-guide)
+
+Command Line Wallets - from official Solana docs:
+* [Command Line Wallets](https://docs.solana.com/wallet-guide/cli)
+* [Paper Wallet](https://docs.solana.com/wallet-guide/paper-wallet)
+* [Hardware Wallets](https://docs.solana.com/wallet-guide/hardware-wallets)
+* [File System Wallet](https://docs.solana.com/wallet-guide/file-system-wallet)
 
 <br />
 #### Smart Contract and Blockchain Security
@@ -801,6 +809,9 @@ https://solana.com/solana-security-audit-2019.pdf
 
 Bug Bounties 
 https://soldev.app/bounties
+
+Bughunting Bounties (via Superteam)
+https://earn.superteam.fun/opportunities/category/bounties
 
 
 ------------------------
