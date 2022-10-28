@@ -63,6 +63,8 @@ Ledger security topics - https://www.ledger.com/academy/library/topics/security
   https://docs.solana.com/integrations/exchange
 * Solana Terminology
   https://docs.solana.com/terminology
+* Solana Ecosystem
+  https://solana.com/ecosystem
 
 
 #### [Solana Cookbook](https://solanacookbook.com/)
@@ -215,6 +217,9 @@ https://github.com/Unboxed-Software/solana-course
 Solana Development Course
 https://soldev.app/course
 
+Solana Blockchain Tutorial
+https://adept.at/forked/solana-blockchain-development
+
 #### Solana (Figment)
 https://learn.figment.io/protocols/solana   
 
@@ -231,9 +236,6 @@ https://dev.to/edge-and-node/the-complete-guide-to-full-stack-solana-development
 
 New Solana Dev Guide
 https://dev.to/meditatingsloth/new-solana-dev-guide-1hm7
-
-Blockchain Tutorial
-https://adept.at/forked/solana-blockchain-development
 
 Coding-and-Crypto / Rust-Solana-Tutorial (extensive)
 https://github.com/Coding-and-Crypto/Rust-Solana-Tutorial
@@ -530,7 +532,7 @@ https://www.youtube.com/watch?v=MfSuzFDDQ30&ab_channel=Jrej
 Meet Crypto’s Superapp: Backpack
 https://www.wordcelclub.com/adityashetty.sol/meet-cryptos-superapp-backpack
 
-Backpack 🎒Coral XYZ xNFT Backpack - "A home for your xNFTs"
+Backpack 🎒Coral xNFT Backpack - "A home for your xNFTs"
 https://www.backpack.app/
 https://github.com/coral-xyz/backpack
 
@@ -648,13 +650,16 @@ https://solanafloor.com/domains
 Magic Eden
 https://magiceden.io/
 
+Magic Eden Solana NFT Playbook
+https://blog.magiceden.io/playbook
+
 SolSea 
 https://geekflare.com/finance/solana-nft-marketplaces/
 
 Solanart
 https://solanart.io/
 
-Coral XYZ xNFT Backpack "A home for your xNFTs"
+Coral xNFT Backpack "A home for your xNFTs"
 https://www.backpack.app/
 
 DigitalEyes
@@ -829,9 +834,12 @@ https://github.com/solana-labs/solana/issues
 Solana Labs Github Projects 
 https://github.com/solana-labs/solana/projects?type=classic
 
-Solana Jobs
+Solana Jobs (official)
 https://jobs.solana.com/jobs
  
+Solana Grants (official)
+https://solana.org/grants
+
 Superteam - Solana ecosystem opportunities
 https://earn.superteam.fun/
 
