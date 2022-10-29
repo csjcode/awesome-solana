@@ -57,6 +57,8 @@ Ledger security topics - https://www.ledger.com/academy/library/topics/security
   https://docs.solana.com/developing/programming-model/overview
 * Create an SPL Token
   https://spl.solana.com/token
+* Wallet Adapter Libraries:
+https://github.com/solana-labs/wallet-adapter/blob/master/PACKAGES.md
 * Architecture
   https://docs.solana.com/cluster/overview
 * Add Solana to Your Exchange
@@ -65,6 +67,7 @@ Ledger security topics - https://www.ledger.com/academy/library/topics/security
   https://docs.solana.com/terminology
 * Solana Ecosystem
   https://solana.com/ecosystem
+
 
 
 #### [Solana Cookbook](https://solanacookbook.com/)
@@ -112,6 +115,8 @@ Ledger security topics - https://www.ledger.com/academy/library/topics/security
   https://www.anchor-lang.com/docs/cli
 * Anchor github repo - coral-xyz/anchor 
   https://github.com/coral-xyz/anchor
+* Anchor Tutorials in github
+  https://github.com/coral-xyz/anchor/tree/master/examples/tutorial
 
 
 #### [Metaplex NFT documentation](https://docs.metaplex.com/)
