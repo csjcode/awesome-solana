@@ -91,6 +91,9 @@ https://github.com/solana-labs/wallet-adapter/blob/master/PACKAGES.md
   https://solanacookbook.com/guides/serialization.html
 * Debugging Solana Programs 
   https://solanacookbook.com/guides/debugging-solana-programs.html#facts
+* Solana Web3 Wallet Adapter Tutorial
+  https://github.com/solana-labs/wallet-adapter/blob/master/APP.md
+
 
 #### [Solana Playground]( https://beta.solpg.io/)
 * Develop, deploy and test Solana programs in the browser. https://beta.solpg.io/
@@ -189,19 +192,17 @@ Solana Pay
 ------------------------
 
 
-
-
 Solana Labs - Hello World
 https://github.com/solana-labs/example-helloworld
-
-Solana Labs - Dapp Scaffold
-https://github.com/solana-developers/dapp-scaffold-react-native
 
 Start on Solana
 https://www.startonsolana.com/
 
 Become a Solana builder in six weeks
 https://buildspace.so/p/solana-core
+
+Solana Labs - Dapp Scaffold React Native
+https://github.com/solana-developers/dapp-scaffold-react-native
 
 Solana Tutorial - Learn the Solana CLI (clusters, wallets, deploy, etc)
 https://www.youtube.com/watch?v=pNzT3hgFbpg&ab_channel=NickFrostbutter
@@ -330,6 +331,18 @@ https://super.page/solana-dev-series
 
 Solana Program Template w/o Anchor
 https://github.com/stegaBOB/solana-program-template
+
+jferrer/expo-solana-wallet
+https://github.com/jferrer/expo-solana-wallet
+
+solana-developers/solana-dapp-next
+https://github.com/solana-developers/solana-dapp-next
+
+solana-developers/program-examples
+https://github.com/solana-developers/program-examples
+
+Solana Pay using TypeScript, Web3.js, Next.js and Vercel
+https://github.com/shlok2740/solana-pay
 
 
 ------------------------
@@ -823,6 +836,48 @@ https://soldev.app/bounties
 
 Bughunting Bounties (via Superteam)
 https://earn.superteam.fun/opportunities/category/bounties
+
+------------------------
+### 🔧 Debugging / Troubleshooting
+------------------------
+
+Solana Stack Exchange
+https://solana.stackexchange.com/
+
+* Search Github and Google for similar code
+  * Search for github and look in left column of results for "Repos, Code, Issues" in a related repo, or a repo where the error came from. 
+  * Even if it says "We couldn’t find any repositories", make sure to look in the Code results for related code repos.
+  * Google or search github for the exact or variations on the error message
+
+Github
+https://github.com/
+https://github.com/search/advanced
+
+Example, we search for code with PhantomWalletAdapter in it:
+https://github.com/search?q=PhantomWalletAdapter&type=Repositories&ref=advsearch&l=&l=
+
+
+Google
+https://www.google.com/
+
+6 Google Search Tips To Make Googling Code Easier
+https://medium.matcha.fyi/6-google-search-tips-to-make-googling-code-easier-da362e21b9da
+
+
+* Ask a related Discord Community
+  * There are many more, look them up.
+
+Solana Community/Dev Discord:
+https://discord.com/channels/926762104667648000/1016009827367010354
+
+Solana Tech Discord:
+https://discord.com/channels/428295358100013066/
+
+Anchor Discord
+https://discord.com/channels/889577356681945098
+
+Metaplex Discord:
+https://discord.com/channels/848060988636921856
 
 
 ------------------------
