@@ -442,11 +442,24 @@ https://www.sec3.dev/blog/solana-internals-part-2-how-is-a-solana-program-deploy
 
 Solana Internals Part 3: The Transaction Processing Unit (TPU) 
 https://www.sec3.dev/blog/solana-internals-part-3-the-transaction-processing-unit-tpu
+
+Solana Validator 101: Transaction Processing
+https://jito-labs.medium.com/solana-validator-101-transaction-processing-90bcdc271143
  
 Solana Internals Part 4: The Bank — A Key Component 
 https://www.sec3.dev/blog/solana-internals-part-4-the-bank-a-key-component
 
+3 Major Upcoming Upgrades on Solana That Will Improve Network Performance
+https://medium.com/chorus-one/how-will-solana-improve-its-stability-6d4b0ba41866
 
+Analyzing MEV Instances on Solana — Part 1
+https://medium.com/chorus-one/analyzing-mev-instances-on-solana-c30d06953ed8
+
+Solana Validator Economics
+https://medium.com/chorus-one/exploring-validator-economics-on-solana-cb1498a3aef6
+
+Solana validation cost guessitimate
+https://www.getguesstimate.com/models/20834
 
 ------------------------
 ### 🦀 Solana Programming Topics
@@ -541,6 +554,15 @@ https://solana.wiki/docs/solidity-guide/
 Rust Concepts for Writing Solana Programs
 https://dev.to/doctordrayfocus/rust-concepts-for-writing-solana-programs-gd7
 
+Transaction confirmation by jstarry (Solana core dev)
+https://jstarry.notion.site/jstarry/Solana-Dev-Blog-302b7e08652c4a2dbc0be4f6a3b0d317?p=d5b8f4e09b9c4a70a1f263f82307d7ce&pm=c
+
+Program Deploys by jstarry (Solana core dev)
+https://jstarry.notion.site/jstarry/Solana-Dev-Blog-302b7e08652c4a2dbc0be4f6a3b0d317?p=29780c48794c47308d5f138074dd9838&pm=c
+
+Transaction Fees by jstarry (Solana core dev)
+https://jstarry.notion.site/jstarry/Solana-Dev-Blog-302b7e08652c4a2dbc0be4f6a3b0d317?p=f09387e6a8d84287aa16a34ecb58e239&pm=c
+
 Solana programs Part 4: Metaplex Candy Machine — how does it work?
 https://medium.com/coinmonks/solana-programs-part-4-metaplex-candy-machine-how-does-it-work-a27d7a133fad
 
@@ -604,6 +626,12 @@ https://solana.fm/?cluster=mainnet-qn1
   Solana Beach Validators
   https://solanabeach.io/validators
 
+  Validators.app
+  https://www.validators.app/
+
+  Top Validators by Stake, Skipped Vote etc:
+  https://www.validators.app/cluster-stats?locale=en&network=mainnet
+
 
   Nakamoto Coefficients
   https://nakaflow.io/
@@ -611,6 +639,9 @@ https://solana.fm/?cluster=mainnet-qn1
 <br />
 
 #### Trends and Analytics
+
+Mainnet-beta Telemetry
+https://metrics.solana.com:3000/d/monitor-beta/cluster-telemetry-beta?orgId=1&refresh=5m
 
 Solana Network - Medium
 https://medium.com/tag/solana-network/latest
