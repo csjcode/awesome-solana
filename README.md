@@ -53,6 +53,8 @@ Ledger security topics - https://www.ledger.com/academy/library/topics/security
     * [Hello World](https://docs.solana.com/developing/on-chain-programs/examples#helloworld)
 * Running a Validator
   https://docs.solana.com/running-validator
+* JSON RPC API
+https://docs.solana.com/developing/clients/jsonrpc-api
 * Programming Model
   https://docs.solana.com/developing/programming-model/overview
 * Create an SPL Token
@@ -184,7 +186,8 @@ Solana Pay
 * https://docs.solanapay.com/
 * https://github.com/solana-labs/solana-pay
 
-
+Solana Validator Guidebook
+https://www.solana-validator-guidebook.com/
 
 ------------------------
 ### 🚀 Solana Tutorials
@@ -243,7 +246,8 @@ https://dev.to/edge-and-node/the-complete-guide-to-full-stack-solana-development
 New Solana Dev Guide
 https://dev.to/meditatingsloth/new-solana-dev-guide-1hm7
 
-Coding-and-Crypto / Rust-Solana-Tutorial (extensive)
+Coding & Crypto / Rust-Solana-Tutorial (extensive)
+https://www.youtube.com/c/CodingCrypto/videos
 https://github.com/Coding-and-Crypto/Rust-Solana-Tutorial
 
 Web3 examples
@@ -569,6 +573,10 @@ https://medium.com/coinmonks/solana-programs-part-4-metaplex-candy-machine-how-d
 How to store your files on Solana for just a few cents - GenesysGo's Shadow Drive CLI + Interface
 https://www.youtube.com/watch?v=MfSuzFDDQ30&ab_channel=Jrej
 
+Solana development comparison to ethereum
+https://solana.wiki/zh-cn/docs/ethereum-comparison/
+
+
 Meet Crypto’s Superapp: Backpack
 https://www.wordcelclub.com/adityashetty.sol/meet-cryptos-superapp-backpack
 
@@ -632,7 +640,6 @@ https://solana.fm/?cluster=mainnet-qn1
   Top Validators by Stake, Skipped Vote etc:
   https://www.validators.app/cluster-stats?locale=en&network=mainnet
 
-
   Nakamoto Coefficients
   https://nakaflow.io/
 
@@ -648,6 +655,9 @@ https://medium.com/tag/solana-network/latest
 
 Solana DEX
 https://dune.com/twocrows/solana-dex
+
+Solana Floor (NFTs)
+https://solanafloor.com/
 
 Solana Network Analytics
 https://analytics.solscan.io/public/dashboard/8d888828-baae-47b9-948b-d087e5de1411
@@ -783,6 +793,13 @@ https://www.supadrop.com/
 LIQNFT
 Solana's First Community-led NFT Marketplace
 https://www.liqnft.com/
+
+The "Big Five" Solana NFT Projects
+https://stepdata.substack.com/p/step-data-insights-5-wk-31
+
+Solana Floor (NFTs)
+https://solanafloor.com/
+
 
 TODO: Need to build out this NFT section some more
 
