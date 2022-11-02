@@ -364,6 +364,12 @@ https://medium.com/solana-labs/7-innovations-that-make-solana-the-first-web-scal
 Solana’s Network Architecture
 https://medium.com/solana-labs/solanas-network-architecture-8e913e1d5a40
 
+Solana Labs github project for Solana QUIC implementation status 
+https://github.com/solana-labs/solana/projects/74
+
+Solana Labs github project for Solana fee markets
+https://github.com/solana-labs/solana/projects/73
+
 * [Proof of History (POH) ](https://medium.com/solana-labs/proof-of-history-a-clock-for-blockchain-cf47a61a9274)— a clock before consensus;
 
 
@@ -432,6 +438,9 @@ https://www.reddit.com/r/solana/comments/xqq9b2/is_proof_of_history_poh_pointles
 https://www.reddit.com/r/solana/comments/xqq9b2/comment/iqbsffl/?utm_source=share&utm_medium=web2x&context=3
 https://www.reddit.com/r/solana/comments/xqq9b2/comment/iqb16kq/?utm_source=share&utm_medium=web2x&context=3
 
+
+
+
 Solana Core Concepts
 https://dev.to/0xprof_lupin/introduction-to-solana-core-concepts-1ke2
 
@@ -465,11 +474,31 @@ https://medium.com/chorus-one/exploring-validator-economics-on-solana-cb1498a3ae
 Solana validation cost guessitimate
 https://www.getguesstimate.com/models/20834
 
+
+
 ------------------------
 ### 🦀 Solana Programming Topics
 
 ------------------------
 
+#### Developer Tools
+
+* Helius - Solana
+https://docs.helius.xyz/introduction/why-helius
+
+* Alchemy - Solana
+https://docs.alchemy.com/docs/how-to-setup-your-solana-development-environment
+
+* QuickNode RPC
+https://www.quicknode.com/chains/sol
+
+* Moralis Solana API
+https://moralis.io/solana-api/
+
+* Solana public RPC endpoints
+https://github.com/extrnode/rpc-solana-endpoints
+
+#### Other Programming topics
 
 The Solana Programming Model
 https://lu.ma/p/3nHEa7k5DABpzE6/The-Solana-Programming-Model
@@ -640,6 +669,9 @@ https://solana.fm/?cluster=mainnet-qn1
   Top Validators by Stake, Skipped Vote etc:
   https://www.validators.app/cluster-stats?locale=en&network=mainnet
 
+  Solana Validators List & Staking Statistics:
+  https://solanacompass.com/validators/
+
   Nakamoto Coefficients
   https://nakaflow.io/
 
@@ -662,7 +694,7 @@ https://solanafloor.com/
 Solana Network Analytics
 https://analytics.solscan.io/public/dashboard/8d888828-baae-47b9-948b-d087e5de1411
 
-JITO Soalna Network Dashboard
+JITO Solana Network Dashboard
 https://jito.retool.com/embedded/public/7e37389a-c991-4fb3-a3cd-b387859c7da1
 
 Solana NFT Overview
