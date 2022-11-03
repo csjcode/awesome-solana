@@ -744,6 +744,8 @@ https://solanafloor.com/domains
 
 ------------------------
 
+#### Marketplace/Aggregators
+
 Magic Eden
 https://magiceden.io/
 
@@ -756,6 +758,9 @@ https://geekflare.com/finance/solana-nft-marketplaces/
 Solanart
 https://solanart.io/
 
+Hyperspace
+https://hyperspace.xyz/
+
 Coral xNFT Backpack "A home for your xNFTs"
 https://www.backpack.app/
 
@@ -765,17 +770,19 @@ https://digitaleyes.market/
 Decentralized NFT Marketplace
 https://artz.ai/
 
+#### Solana NFT Tools and Info
+
 Metaplex Programs
 https://docs.metaplex.com/programs/
-
-SOL NFT Tools
-https://cryptostraps.tools/nft-mints
 
 Metaplex Guides (Minting UI, Airdrop, Mint List)
 https://docs.metaplex.com/guides/
 
 Metaplex CandyMachine Tutorial
 https://docs.metaplex.com/developer-tools/sugar/tutorials/my-first-candy-machine
+
+SOL NFT Tools
+https://cryptostraps.tools/nft-mints
 
 Solana programs Part 3: understanding Metaplex Token Metadata
 https://www.sec3.dev/blog/solana-programs-part-3
@@ -837,6 +844,9 @@ https://stepdata.substack.com/p/step-data-insights-5-wk-31
 
 Solana Floor (NFTs)
 https://solanafloor.com/
+
+SOL Decoder
+https://solapps.dev/apps/sol_decoder
 
 
 TODO: Need to build out this NFT section some more
