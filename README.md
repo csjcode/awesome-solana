@@ -152,7 +152,7 @@ https://feecalc.live/
 #### Solana Stack Exchange
 * https://solana.stackexchange.com/?utm_source=solana.com
 
-#### Setting up a Local Solana dev environemnt and CLI Wallet
+#### Setting up a Local Solana dev environment and CLI Wallet
 * Install the Solana Tool Suite - https://docs.solana.com/cli/install-solana-cli-tools
 * Create a CLI Wallet - https://docs.metaplex.com/guides/cli-wallet
 #### Solana Deploy cheatsheet
@@ -495,8 +495,14 @@ https://www.quicknode.com/chains/sol
 * Moralis Solana API
 https://moralis.io/solana-api/
 
+* Ironforge, simplify solana
+  https://www.ironforge.cloud/
+
 * Solana public RPC endpoints
 https://github.com/extrnode/rpc-solana-endpoints
+
+* Sol Tools
+https://sol-tools.tonyboyle.io/
 
 #### Other Programming topics
 
