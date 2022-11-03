@@ -7,6 +7,9 @@ https://arwiki.wiki/#/en/main
 Solana/RBF Solana Validator
 https://grafana.rbf.capital/d/U8VH9rhGk/rbf-solana-validator?orgId=1&from=now-1y&to=now
 
+Bonafida
+https://bonfida.github.io/solana-name-service-guide/
+
 
 Web3 Reference Architecture
 https://medium.com/@eugene.zaid/web3-architecture-primer-f72611876c33
