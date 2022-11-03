@@ -265,6 +265,9 @@ https://www.youtube.com/watch?v=qIGs3XWybgU&ab_channel=CleverProgrammer
 freeCodeCamp/solana-curriculum
 https://github.com/freeCodeCamp/solana-curriculum
 
+QuickNode Solana Development Guides
+https://www.quicknode.com/guides/solana-development
+
 The Complete Guide to Full Stack Solana Development with React, Anchor, Rust, and Phantom
 https://dev.to/edge-and-node/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291
 
@@ -812,6 +815,9 @@ https://docs.opensea.io/docs/how-to-mint-an-nft-on-solana
 * Part 6: Uploading and Creating Your Candy Machine
 * Part 7: Website Set up for Minting
 * Part 8: Solana and OpenSea Metaplex Certified Collection Standard
+
+How to Mint an NFT on Solana using Typescript
+https://www.quicknode.com/guides/solana-development/how-to-mint-an-nft-on-solana-using-typescript
 
 How to Create and Verify a Solana NFT Collection
 https://www.youtube.com/watch?v=s57Q1LiC6Uw&ab_channel=CtrlAltVictoria
