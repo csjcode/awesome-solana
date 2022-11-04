@@ -70,7 +70,13 @@ https://github.com/solana-labs/wallet-adapter/blob/master/PACKAGES.md
 * Solana Ecosystem
   https://solana.com/ecosystem
 
+#### SOL Dev Faucets (non-Mainnet)
 
+SPL Token/SOL Airdrop Faucet - Devnet/Testnet/Localnet - sol and dummy token
+https://spl-token-faucet.com/
+
+Sol Faucet
+https://solfaucet.com/
 
 #### [Solana Cookbook](https://solanacookbook.com/)
 * Installation (Web3/Solana)
@@ -351,6 +357,8 @@ https://github.com/solana-developers/program-examples
 Solana Pay using TypeScript, Web3.js, Next.js and Vercel
 https://github.com/shlok2740/solana-pay
 
+How to Get Transaction Logs on Solana using Solana/Web3.js | QuickCodes
+https://www.youtube.com/watch?v=pN-bx6NfDmg
 
 ------------------------
 ### 🦀 Solana Architecture
@@ -949,6 +957,12 @@ https://blog.neodyme.io/posts/solana_core_2/
 
 Why Auditing the Code is Not Enough: A Discussion on Solana Upgrade Authorities
 https://blog.neodyme.io/posts/solana_upgrade_authority/
+
+The Vulnerabilities You’ll Write With Anchor
+Anchor is no silver bullet for avoiding mistakes in Solana code
+https://www.zellic.io/blog/the-vulnerabilities-youll-write-with-anchor
+
+
 
 Bug Bounties 
 https://soldev.app/bounties
