@@ -357,6 +357,9 @@ https://github.com/shlok2740/solana-pay
 
 ------------------------
 
+QuickNode Solana Fundamentals Reference Guide
+https://www.quicknode.com/guides/solana-development/solana-fundamentals-reference-guide
+
 Explaining Solana and its Innovations without technical jargon
 https://learn.figment.io/tutorials/explaining-solanas-innovations-without-technical-jargon
 
@@ -622,6 +625,8 @@ Backpack 🎒Coral xNFT Backpack - "A home for your xNFTs"
 https://www.backpack.app/
 https://github.com/coral-xyz/backpack
 
+Build an Escrow Program on Solana
+https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/
 
 ------------------------
 ### 📈 Solana Status/Analytics/Trends
@@ -932,6 +937,18 @@ https://github.com/slowmist/solana-smart-contract-security-best-practices
 
 Solana Labs Architectural Security Review and Report
 https://solana.com/solana-security-audit-2019.pdf
+
+How a Little-Known Solana Feature Made Program Vaults Unsafe - Exploring Solana Core Part 1
+https://blog.neodyme.io/posts/solana_core_1/
+
+Secure Randomness: From Zero to Verifiable Delay Functions, Part 1
+https://blog.neodyme.io/posts/secure-randomness-part-1/
+
+Stake², or How To Cheat The Staking Mechanism - Exploring Solana Core Part 2
+https://blog.neodyme.io/posts/solana_core_2/
+
+Why Auditing the Code is Not Enough: A Discussion on Solana Upgrade Authorities
+https://blog.neodyme.io/posts/solana_upgrade_authority/
 
 Bug Bounties 
 https://soldev.app/bounties
