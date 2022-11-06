@@ -771,17 +771,32 @@ https://blog.magiceden.io/playbook
 SolSea 
 https://geekflare.com/finance/solana-nft-marketplaces/
 
+Tensor
+https://tensor.trade/
+
 Solanart
 https://solanart.io/
 
 Hyperspace
 https://hyperspace.xyz/
 
+HadeSwap
+https://hadeswap.com/
+
+GoatSwap
+https://goatswap.xyz/
+
+FormFunction
+https://formfunction.xyz/
+
 Coral xNFT Backpack "A home for your xNFTs"
 https://www.backpack.app/
 
 DigitalEyes
 https://digitaleyes.market/
+
+Elixir
+https://elixirnft.io
 
 Decentralized NFT Marketplace
 https://artz.ai/
