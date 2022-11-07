@@ -636,6 +636,19 @@ https://github.com/coral-xyz/backpack
 Build an Escrow Program on Solana
 https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/
 
+Breakpoint 2022: How to build an xNFT
+https://www.youtube.com/watch?v=GuxoSjIC9Lk
+
+Breakpoint 2022: Exploring Solana's Tooling Ecosystem
+https://www.youtube.com/watch?v=CTNzW-fqLTY
+
+Breakpoint 2022: A Deep Dive Into Solana's Data Structure
+https://www.youtube.com/watch?v=4z8WYG8ybRI
+
+Breakpoint 2022: Web3 Developer Tools and Infrastructure
+https://www.youtube.com/watch?v=dFUIzUROZHg
+
+
 ------------------------
 ### 📈 Solana Status/Analytics/Trends
 
@@ -881,6 +894,9 @@ https://solanafloor.com/
 
 SOL Decoder
 https://solapps.dev/apps/sol_decoder
+
+Breakpoint 2022: How to build an xNFT
+https://www.youtube.com/watch?v=GuxoSjIC9Lk
 
 
 TODO: Need to build out this NFT section some more
