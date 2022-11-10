@@ -368,9 +368,11 @@ https://www.youtube.com/watch?v=pN-bx6NfDmg
 QuickNode Solana Fundamentals Reference Guide
 https://www.quicknode.com/guides/solana-development/solana-fundamentals-reference-guide
 
+Solana Whitepaper Explained | Understanding Proof of History, Validators, Staking, and More!
+https://www.youtube.com/watch?v=079mUCjYpZs&ab_channel=Josh%27sDevBox
+
 Explaining Solana and its Innovations without technical jargon
 https://learn.figment.io/tutorials/explaining-solanas-innovations-without-technical-jargon
-
 
 8 Innovations that Make Solana the First Web-Scale Blockchain
 https://medium.com/solana-labs/7-innovations-that-make-solana-the-first-web-scale-blockchain-ddc50b1defda
@@ -400,6 +402,9 @@ https://www.shinobi-systems.com/primer.html
 
 RPC Infrastructure
 https://solana.com/rpc
+
+RPC list
+https://github.com/extrnode/rpc-solana-endpoints/blob/main/rpc_list.csv
 
 A dummy's guide to Solana's architecture
 https://dev.to/0xprof_lupin/a-dummies-guide-to-solana-2ije
@@ -625,6 +630,8 @@ https://www.youtube.com/watch?v=MfSuzFDDQ30&ab_channel=Jrej
 Solana development comparison to ethereum
 https://solana.wiki/zh-cn/docs/ethereum-comparison/
 
+Ground Zero Web3/Solana intro and faq
+https://groundzero.superteam.fun/
 
 Meet Crypto’s Superapp: Backpack
 https://www.wordcelclub.com/adityashetty.sol/meet-cryptos-superapp-backpack
@@ -1094,8 +1101,14 @@ https://cryptojobslist.com/solana
 Remote Ok
 https://remoteok.com/remote-web3-jobs
 
+LaborX - Remote Blockchain and Crypto Jobs list
+https://laborx.com/
+
 Introducing Solana U, a new program for student builders
 https://solana.com/news/introducing-solana-u-a-new-program-for-student-builders
+
+Solrazr - launchpad, accelerator, decentralised developer ecosystem for Solana
+https://solrazr.com/
 
 
 -----------------
