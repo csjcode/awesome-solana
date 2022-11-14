@@ -151,6 +151,9 @@ https://artifact-staking.medium.com/setting-up-a-solana-metaplex-nft-storefront-
 https://hackmd.io/@archaeopteryx/By4bpbA4F#Solana-and-Metaplex-FAQ
 * Community: Candy Machine fee calculator
 https://feecalc.live/
+* Metaplex JavaScript SDK
+https://github.com/metaplex-foundation/js
+
 
 #### Solana Program Library
 * https://github.com/solana-labs/solana-program-library
@@ -359,6 +362,10 @@ https://github.com/shlok2740/solana-pay
 
 How to Get Transaction Logs on Solana using Solana/Web3.js | QuickCodes
 https://www.youtube.com/watch?v=pN-bx6NfDmg
+
+
+Full Solana and Rust programming course for beginners (CareerBooster.io)
+https://careerbooster.io/courses/full-solana-and-rust-programming-course-for-beginners
 
 ------------------------
 ### 🦀 Solana Architecture
