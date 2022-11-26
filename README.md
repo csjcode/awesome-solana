@@ -301,6 +301,8 @@ https://solanashield.io/
   * https://www.youtube.com/watch?v=HavGDGUTmgs&ab_channel=Solandy%5Bsolandy.sol%5D
 * Serializing Instruction Data [Solana Development Course: Module 1, Part 4] - Sept 2nd '22
   * https://www.youtube.com/watch?v=jNN7ObT0vi4&ab_channel=Solandy%5Bsolandy.sol%5D
+* THE NEW CANDY MACHINE V3 [Solana Tutorial] - Oct 26th '22
+https://www.youtube.com/watch?v=tJqS5iyspuY&t=15s&ab_channel=Solandy%5Bsolandy.sol%5D
 
 #### Jrej NFT programmng collection
 * Your NFT collection on Solana - Metaplex Sugar + Whitelist - Sept 2022
@@ -404,7 +406,7 @@ https://github.com/solana-labs/solana/projects/73
 * [Cloudbreak](https://medium.com/solana-labs/cloudbreak-solanas-horizontally-scaled-state-architecture-9a86679dcbb1) — Horizontally-Scaled Accounts Database; and
 * [Archivers](https://solana.com/archivers/) — Distributed ledger store
 
-Coinbase Cloud Solana Networkk Improvements Primer
+Coinbase Cloud Solana Network Improvements Primer
 https://www.coinbase.com/cloud/discover/insights-analysis/solana-when-mainnet
 
 Solana Proof of Stake + Proof of History Primer
@@ -468,11 +470,6 @@ https://www.reddit.com/r/solana/comments/xqq9b2/comment/iqbsffl/?utm_source=shar
 https://www.reddit.com/r/solana/comments/xqq9b2/comment/iqb16kq/?utm_source=share&utm_medium=web2x&context=3
 
 
-
-
-Solana Core Concepts
-https://dev.to/0xprof_lupin/introduction-to-solana-core-concepts-1ke2
-
 Validator Educational Workshop October 12th, 2022
 https://www.youtube.com/watch?v=ZjhxAgoGDbk&ab_channel=Solana
 
@@ -520,12 +517,14 @@ https://docs.alchemy.com/docs/how-to-setup-your-solana-development-environment
 
 * QuickNode RPC
 https://www.quicknode.com/chains/sol
+https://www.quicknode.com/docs/solana
 
 * Moralis Solana API
 https://moralis.io/solana-api/
 
-* Ironforge, simplify solana
+* Ironforge, simplify Solana
   https://www.ironforge.cloud/
+  https://docs.ironforge.cloud/
 
 * Solana public RPC endpoints
 https://github.com/extrnode/rpc-solana-endpoints
@@ -664,6 +663,12 @@ https://www.youtube.com/watch?v=4z8WYG8ybRI
 
 Breakpoint 2022: Web3 Developer Tools and Infrastructure
 https://www.youtube.com/watch?v=dFUIzUROZHg
+
+First impressions of Rust programming on Solana
+https://brson.github.io/2021/06/08/rust-on-solana
+
+POST-FTX: Is Solana Dead? The Definitive Study
+https://www.youtube.com/watch?v=RP-TnkkWNSM&ab_channel=InvestAnswers
 
 
 ------------------------
@@ -877,6 +882,9 @@ https://docs.opensea.io/docs/how-to-mint-an-nft-on-solana
 How to Mint an NFT on Solana using Typescript
 https://www.quicknode.com/guides/solana-development/how-to-mint-an-nft-on-solana-using-typescript
 
+THE NEW CANDY MACHINE V3 [Solana Tutorial] - Oct 26th '22
+https://www.youtube.com/watch?v=tJqS5iyspuY&t=15s&ab_channel=Solandy%5Bsolandy.sol%5D
+
 How to Create and Verify a Solana NFT Collection
 https://www.youtube.com/watch?v=s57Q1LiC6Uw&ab_channel=CtrlAltVictoria
 
@@ -914,6 +922,12 @@ https://solapps.dev/apps/sol_decoder
 
 Breakpoint 2022: How to build an xNFT
 https://www.youtube.com/watch?v=GuxoSjIC9Lk
+
+How to Create the Best NFT Projects on Solana with POAP (Scan-To-Mint) - QR Code minting and thirdweb
+https://www.youtube.com/watch?v=txdjFAla38g&ab_channel=thirdweb
+
+Create a Solana NFT collection ultimate guide V2 Update
+https://www.youtube.com/watch?v=S7ZgRxeqRDY&t=2315s&ab_channel=HashLipsNFT
 
 
 TODO: Need to build out this NFT section some more
