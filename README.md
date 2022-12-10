@@ -158,6 +158,9 @@ https://github.com/metaplex-foundation/js
 #### Solana Program Library
 * https://github.com/solana-labs/solana-program-library
 
+#### Crate Solana Program
+* https://docs.rs/solana-program/latest/solana_program/index.html#
+* https://docs.rs/solana-program/latest/solana_program/all.html
 #### Solana Stack Exchange
 * https://solana.stackexchange.com/?utm_source=solana.com
 
