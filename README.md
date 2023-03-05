@@ -33,6 +33,7 @@ Ledger security topics - https://www.ledger.com/academy/library/topics/security
 * TODO: Defi App/Dev
 * TODO: Hosting
 * [Solana Developer Opportunities & Jobs](https://github.com/csjcode/awesome-solana#-developer-opportunities--jobs)
+* [Interviews](https://github.com/csjcode/awesome-solana#interviews)
 
 ------------------------
 
@@ -186,7 +187,7 @@ https://github.com/metaplex-foundation/js
 * https://solana-labs.github.io/solana-web3.js/
 * https://github.com/solana-labs/solana-web3.js
 
-#### Solana Developer Changelog weekly podcast 
+#### Solana Developer Changelog weekly podcast (over 20 videos, recently update)
 * https://www.youtube.com/watch?v=jIZXTkVaTps&list=PLilwLeBwGuK5-Qri7Pg9zd-Vvhz9kX2-R
 
 SMS Solana Mobile
@@ -398,16 +399,16 @@ https://github.com/solana-labs/solana/projects/74
 Solana Labs github project for Solana fee markets
 https://github.com/solana-labs/solana/projects/73
 
-* [Proof of History (POH) ](https://medium.com/solana-labs/proof-of-history-a-clock-for-blockchain-cf47a61a9274)— a clock before consensus;
+* [Proof of History (POH) ](https://medium.com/solana-labs/proof-of-history-a-clock-for-blockchain-cf47a61a9274)— a clock before consensus;
 
 
-* [Tower BFT ](https://medium.com/solana-labs/tower-bft-solanas-high-performance-implementation-of-pbft-464725911e79)— a PoH-optimized version of PBFT;
-* [Turbine](https://medium.com/solana-labs/turbine-solanas-block-propagation-protocol-solves-the-scalability-trilemma-2ddba46a51db) — a block propagation protocol;
-* [Gulf Stream](https://medium.com/solana-labs/gulf-stream-solanas-mempool-less-transaction-forwarding-protocol-d342e72186ad) — Mempool-less transaction forwarding protocol;
-* [Sealevel](https://medium.com/solana-labs/sealevel-parallel-processing-thousands-of-smart-contracts-d814b378192) — Parallel smart contracts run-time;
-* [Pipelining](https://solana.com/pipelining-in-solana-the-transaction-processing-unit/) — a Transaction Processing Unit for validation optimization
-* [Cloudbreak](https://medium.com/solana-labs/cloudbreak-solanas-horizontally-scaled-state-architecture-9a86679dcbb1) — Horizontally-Scaled Accounts Database; and
-* [Archivers](https://solana.com/archivers/) — Distributed ledger store
+* [Tower BFT ](https://medium.com/solana-labs/tower-bft-solanas-high-performance-implementation-of-pbft-464725911e79)— a PoH-optimized version of PBFT;
+* [Turbine](https://medium.com/solana-labs/turbine-solanas-block-propagation-protocol-solves-the-scalability-trilemma-2ddba46a51db) — a block propagation protocol;
+* [Gulf Stream](https://medium.com/solana-labs/gulf-stream-solanas-mempool-less-transaction-forwarding-protocol-d342e72186ad) — Mempool-less transaction forwarding protocol;
+* [Sealevel](https://medium.com/solana-labs/sealevel-parallel-processing-thousands-of-smart-contracts-d814b378192) — Parallel smart contracts run-time;
+* [Pipelining](https://solana.com/pipelining-in-solana-the-transaction-processing-unit/) — a Transaction Processing Unit for validation optimization
+* [Cloudbreak](https://medium.com/solana-labs/cloudbreak-solanas-horizontally-scaled-state-architecture-9a86679dcbb1) — Horizontally-Scaled Accounts Database; and
+* [Archivers](https://solana.com/archivers/) — Distributed ledger store
 
 Coinbase Cloud Solana Network Improvements Primer
 https://www.coinbase.com/cloud/discover/insights-analysis/solana-when-mainnet
@@ -708,7 +709,7 @@ https://analytics.solscan.io/
 Solana Beach
 https://solanabeach.io/
 
-SolanaFM - A friendly Solana explorer.
+SolanaFM - A friendly Solana explorer.
 https://solana.fm/?cluster=mainnet-qn1
 
 
@@ -950,12 +951,17 @@ https://www.youtube.com/playlist?list=PLilwLeBwGuK51Ji870apdb88dnBr1Xqhm
 Solana Podcast
 https://www.youtube.com/playlist?list=PLilwLeBwGuK6z0mLzSlkT20a40TYFQmNA
 
-Chewing Glass podcast (Solana developers)
+Solana Chewing Glass podcast (Solana developers)
 https://www.youtube.com/playlist?list=PLilwLeBwGuK6JMfYiZJwzikPG2Jhjqdu3
 
-Solana Changelog Community Validator dicussions:
+Solana Validated
+https://www.youtube.com/playlist?list=PLilwLeBwGuK4H0t-tYR3C1KQFGmyZLNMG
+
+Solana Changelog discussions (over 20 updated recently)
 https://www.youtube.com/playlist?list=PLilwLeBwGuK5-Qri7Pg9zd-Vvhz9kX2-R
 
+Solana Community Validator Discussions (over 30, updated recently)
+https://www.youtube.com/playlist?list=PLilwLeBwGuK78yjGBZwYhTf7rao0t13Zw
 
 ------------------------
 ### 🔒 Solana and Web3 Security
@@ -1156,6 +1162,207 @@ Best Safety Practices with Ledger - https://support.ledger.com/hc/en-us/articles
 Ledger security topics - https://www.ledger.com/academy/library/topics/security
 
 ------------------------
+
+
+### Interviews
+
+Focus on technical/dev-related Solana topics and Anatoly Yakovenko, Solana staff and ecosystem devs.
+
+#### Recent Interviews
+
+Around the Block Ep 43: Building for the Future with Solana’s Anatoly Yakovenko and Coinbase CEO Brian Armstrong 
+https://www.youtube.com/watch?v=L7JmgQNdCE8&ab_channel=Coinbase
+
+Anatoly Yakovenko | CEO @ Solana Labs | Saga, Bear Market, San Francisco | Episode 2
+https://www.youtube.com/watch?v=iT_jKn_YfPs&ab_channel=GajeshNaik
+
+Bankless 157 - Will Solana Make It with Anatoly Yakovenko
+https://www.youtube.com/watch?v=zlx64JjXlgQ&ab_channel=BanklessShows
+
+Backpacks, better than wallets ? Interview with Armani Ferrante
+https://www.youtube.com/watch?v=kiPPYqapfnI&ab_channel=JournalduCoin
+
+Armani Ferrante | Founder of Coral & Backpack | xNFT DApp Standard | Logan Jastremski Podcast #38
+https://www.youtube.com/watch?v=_k70Gg05aSA&ab_channel=LoganJastremskiPodcast
+  
+Anatoly Yakovenko & Raj Gokal | Solana Founders state of the Ecosystem| Logan Jastremski Podcast #40
+https://www.youtube.com/watch?v=_csMor-uMS8&ab_channel=LoganJastremskiPodcast
+
+Anatoly Yakovenko | Co-Founder of Solana Labs | Logan Jastremski Podcast #22
+https://www.youtube.com/watch?v=hryRpaAwExw&ab_channel=LoganJastremskiPodcast
+
+Can Solana Move Past SBF? | Anatoly Yakovenko, Ben Sparango
+https://www.youtube.com/watch?v=NhfZRTA9BVY&ab_channel=Empire
+
+Armani Ferrante | CEO @ Coral | Open Source, Solana, xNFT, Rust Thesis, Burgers | Ep 1
+https://www.youtube.com/watch?v=EH5RdYIFNxc&ab_channel=GajeshNaik
+
+Breakpoint 2022: Looking Back, Looking Forward
+https://www.youtube.com/watch?v=5NDs3Il2J3Q&ab_channel=Solana
+
+#### Chewing Glass
+
+Chewing Glass - Armani Ferrante - Ep #7
+https://www.youtube.com/watch?v=xvTN_IIJBwQ&ab_channel=Solana
+
+Chewing Glass - Shek - Ep #9
+https://www.youtube.com/watch?v=TCfogPJPNL4&ab_channel=Solana
+
+Chewing Glass - Mert Mumtaz - Ep #8
+https://www.youtube.com/watch?v=IjelcFzjno4&t=202s&ab_channel=Solana
+
+
+
+
+#### Archives
+
+Real Vision Crypto, Raoul Paul: Full Ep: Is $SOL The Future of Crypto?
+https://www.youtube.com/watch?v=FrJ42MBsMA8
+
+Blockchain will become like a public good | Solana CEO, Anatoly Yakovenko
+https://www.youtube.com/watch?v=XeTXK9US9CQ
+
+HIP 70 IS HUGE w/ Anatoly Yakovenko & Amir Haleem - Ep. 28
+https://www.youtube.com/watch?v=ZZIOSB8q_zo
+
+Fireside Chat With Anatoly Yakovenko and Adelyn Zhou | SmartCon 2022
+https://www.youtube.com/watch?v=OZMohD3SY18
+
+The Future Of Solana | Anatoly Yakovenko
+https://www.youtube.com/watch?v=BrHNWCoIEzM
+
+UIUC Blockchain Summit 2022 - Future of Blockchain with Paul Hsu, Anatoly Yakovenko + more
+https://www.youtube.com/watch?v=RxTDXTCVHEk
+
+Raoul Pal With Solana Co-Founder Anatoly Yakovenko, Talk - Mass Adoption, New Solana Mobile and NFTs
+https://www.youtube.com/watch?v=BaY9C9Gv_6E
+
+The Solana phone is the leap that Google and Apple won't take, says Anatoly Yakovenko
+https://www.youtube.com/watch?v=PTVgHxFXzBI
+
+The Chopping Block: Anatoly Yakovenko on Why Solana Is Building the SAGA Phone - Ep. 373
+https://www.youtube.com/watch?v=0KGm0FJ5LWg
+
+Blockchain Composability: Empowering Developers & Fueling Innovation LIVE at RL1
+https://www.youtube.com/watch?v=IBZd2gPKPdI
+
+Multicoin Summit | 2020 | Fireside Chat with Raj Gokal, COO, Solana
+https://www.youtube.com/watch?v=uHoxveeoHbw
+
+The Founders Scaling Debate: Solana vs. Starkware
+https://www.youtube.com/watch?v=WOtm22lkKk0
+
+Solana founder unravels the Layer 1 Wars | Anatoly Yakovenko
+https://www.youtube.com/watch?v=HhJNdzOKg-E
+
+xNFTs and Solana Phone ft. Armani
+https://www.youtube.com/watch?v=GC0U8noMATc&ab_channel=SuperteamPodcast
+
+Building Your Way Through the Bear Market, with Solana Co-founder Anatoly Yakovenko
+https://www.youtube.com/watch?v=BAFiFk8F5RY
+
+Liquidity Pools: A deep dive into Balancer, Curve, and Aave.
+https://www.youtube.com/watch?v=4ZKQpp0ICyc
+
+Solana is Launching a Phone? | Co-Founders Anatoly & Raj
+https://www.youtube.com/watch?v=9wfNeVTtBz0
+
+Exclusive Interview w/ Solana Co-Founder Anatoly Yakovenko 
+https://www.youtube.com/watch?v=I7i3k_mkX3U
+
+Anatoly Yakovenko: The growth of the Solana Ecosystem followed by a live virtual Q&A (3/2022)
+https://www.youtube.com/watch?v=L8GXZsSIxNo
+
+Solana founders on why the Solana ecosystem will thrive
+https://www.youtube.com/watch?v=e8wsw1htJFY
+
+Fireside Chat: Sam Bankman-Fried
+https://www.youtube.com/watch?v=y2bfJ3p-G_M
+
+
+Ep 53 | Global Crypto Adoption on Solana with Anatoly Yakovenko of Solana
+https://www.youtube.com/watch?v=j7-OyvHllLM
+
+Is Solana the future?
+https://www.youtube.com/watch?v=_H6mNSKbKug
+
+Anatoly Yakovenko: Solana – at Breakpoint #418
+https://www.youtube.com/watch?v=NNCjMze0oJg
+
+What is Solana and How it is Solving for Scalability with Anatoly Yakovenko, co-founder of Solana
+https://www.youtube.com/watch?v=aJCcmxraBjI
+
+Anatoly Yakovenko | Building the Fastest Blockchain | Next With Novo EP 26
+https://www.youtube.com/watch?v=uTn3Wdc2nss
+
+Anatoly Yakovenko - The Future of Smart Contracts: Solana
+https://www.youtube.com/watch?v=wolpDkdt20s
+
+Saffron Academy Podcast #6 | Anatoly Yakovenko (Solana Labs)
+https://www.youtube.com/watch?v=9OLAV8V9Org
+
+Layer 1 Platforms: breaking down the base layer — brought to you by Algorand
+https://www.youtube.com/watch?v=1CFGXoj6CaM
+
+Solana Blockchain Deep Dive with Co-Founder Anatoly Yakovenko | Blockchain & Booze
+https://www.youtube.com/watch?v=NjN93Mjbq7o
+
+Solana (SOL), Coinlist Auction, Why Sharding is Wrong, Staker Price Guarantees, 5G's Future
+https://www.youtube.com/watch?v=Feu706EWdcQ
+
+Solana Founder Anatoly Yakovenko on scaling the blockchain to warp speed | E1302
+https://www.youtube.com/watch?v=uLUxHRnOObI&t=144s
+
+Node infrastructure and why its important — Brought to you by Blockdaemon
+https://www.youtube.com/watch?v=7cZexqG75Os
+
+Will Solana Be the Execution Layer and Ethereum the Settlement Layer? - Ep.294
+https://www.youtube.com/watch?v=UAgI-Z_bsQE
+
+Is Solana (SOL) the Ethereum Killer? w/ Anatoly Yakovenko (Ep. 362)
+https://www.youtube.com/watch?v=qYH6J4sE7hs
+
+CMCC Global: Interview with Anatoly Yakovenko, President of the Solana Foundation
+https://www.youtube.com/watch?v=5Ivx9bCAUCs
+
+Fireside Chat: Stani Kulechov, Founder of Aave
+https://www.youtube.com/watch?v=e1zI3d1BlK4
+
+Neon Solana AMA session 06 Aug 21
+https://www.youtube.com/watch?v=bva-FpVzPLE
+
+Building The Fastest, Lowest Latency Blockchain on Solana with Anatoly Yakovenko of Solana – Ep. 20
+https://www.youtube.com/watch?v=npcOzCtLUi8
+
+BUILDING ON SOLANA - Core Dev Interview (Anatoly Yakovenko and @Ivan on Tech)
+https://www.youtube.com/watch?v=YDIiRBj7_B8
+
+Waitroom | Civic AMA with Vinny Lingham and Anatoly Yakovenko
+https://www.youtube.com/watch?v=S-PiFsPDD88
+
+A chat with Solana's founder - Anatoly Yakovenko
+https://www.youtube.com/watch?v=zJj9LzJpwgM
+
+Whiteboard Series with NEAR | Ep: 2 Anatoly Yakovenko from Solana
+https://www.youtube.com/watch?v=rKGhbC6Uync
+
+Solana | BlockchainBrad | Blockchain Built for Serious Scale | Proof of History
+https://www.youtube.com/watch?v=9h8ubj0SB_4
+
+DeFi Solana SOL DeFi High Performance Blockchain
+https://www.youtube.com/watch?v=68sejy_GWEI
+
+Uncle Bob Crypto Podcast 013- Anatoly Yakovenko CEO Of Solana -
+https://www.youtube.com/watch?v=EOoagj4M-_U
+
+Scaling Web 3, with Anatoly Yakovenko of Solana
+https://www.youtube.com/watch?v=jHSuy4Z1W7E
+
+Forte + Solana | Josh Williams and Anatoly Yakovenko
+https://www.youtube.com/watch?v=Q6FO5biydeY&ab_channel=Solana
+
+Liquidity Pools: A deep dive into Balancer, Curve, and Aave.
+https://www.youtube.com/watch?v=4ZKQpp0ICyc&t=936s&ab_channel=Solana
 
 
 TODO: More categories
