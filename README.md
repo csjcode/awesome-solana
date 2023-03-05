@@ -33,7 +33,7 @@ Ledger security topics - https://www.ledger.com/academy/library/topics/security
 * TODO: Defi App/Dev
 * TODO: Hosting
 * [Solana Developer Opportunities & Jobs](https://github.com/csjcode/awesome-solana#-developer-opportunities--jobs)
-* [Interviews](https://github.com/csjcode/awesome-solana#interviews)
+* [Video Interviews](https://github.com/csjcode/awesome-solana#-interviews)
 
 ------------------------
 
@@ -168,8 +168,10 @@ https://github.com/metaplex-foundation/js
 #### Setting up a Local Solana dev environment and CLI Wallet
 * Install the Solana Tool Suite - https://docs.solana.com/cli/install-solana-cli-tools
 * Create a CLI Wallet - https://docs.metaplex.com/guides/cli-wallet
+* 
 #### Solana Deploy cheatsheet
 * https://hackmd.io/@raza/deploy15
+* 
 #### Create Solana App
 * https://github.com/solana-developers/create-solana-app
 
@@ -193,11 +195,14 @@ https://github.com/metaplex-foundation/js
 SMS Solana Mobile
 * https://solanamobile.com/
 * https://github.com/solana-mobile/solana-mobile-stack-sdk
+* https://github.com/solana-mobile/mobile-wallet-adapter
 
 Solana Pay
 * https://solanapay.com/
 * https://docs.solanapay.com/
 * https://github.com/solana-labs/solana-pay
+* https://github.com/solana-mobile/solana-pay-android-sample
+
 
 Solana Validator Guidebook
 https://www.solana-validator-guidebook.com/
@@ -217,14 +222,23 @@ https://www.startonsolana.com/
 Become a Solana builder in six weeks
 https://buildspace.so/p/solana-core
 
+Solana Crash Course videos (2023)
+https://www.youtube.com/playlist?list=PLfEHHr3qexv_FEcsuEEmiwSTKfahbYzVX
+
 Solana Labs - Dapp Scaffold React Native
 https://github.com/solana-developers/dapp-scaffold-react-native
 
 Solana Tutorial - Learn the Solana CLI (clusters, wallets, deploy, etc)
 https://www.youtube.com/watch?v=pNzT3hgFbpg&ab_channel=NickFrostbutter
 
+Solana Workshops (11 repos)
+https://github.com/solana-developers/workshops
+
 Program examples
 https://github.com/solana-developers/program-examples
+
+Web3 examples
+https://github.com/solana-developers/web3-examples
 
 Taking Payments IRL with Solana Pay: https://www.pointer.gg/tutorials/solana-pay-irl-payments/944eba7e-82c6-4527-b55c-5411cdf63b23
 
@@ -233,10 +247,8 @@ Building a Solana mobile dapp with React Native, Expo, and Phantom.
 https://phantom.app/blog/the-complete-guide-to-phantom-deeplinks
 
 
-Solana Development Course
+#### Solana Development Course (7 big modules, updated 2023)
 https://github.com/Unboxed-Software/solana-course
-
-Solana Development Course
 https://soldev.app/course
 
 Solana Blockchain Tutorial
@@ -296,8 +308,6 @@ https://contenthub.magiceden.io/the-solana-security-playbook
 
 Solana Shield
 https://solanashield.io/
-
-
 
 #### Solandy
 * https://www.youtube.com/playlist?list=PLmAMfj0qP2wwfnuRJQge2ss4sJxnhIqyt
@@ -1033,8 +1043,6 @@ The Vulnerabilities You’ll Write With Anchor
 Anchor is no silver bullet for avoiding mistakes in Solana code
 https://www.zellic.io/blog/the-vulnerabilities-youll-write-with-anchor
 
-
-
 Bug Bounties 
 https://soldev.app/bounties
 
@@ -1059,7 +1067,6 @@ https://github.com/search/advanced
 
 Example, we search for code with PhantomWalletAdapter in it:
 https://github.com/search?q=PhantomWalletAdapter&type=Repositories&ref=advsearch&l=&l=
-
 
 Google
 https://www.google.com/
@@ -1163,14 +1170,15 @@ Ledger security topics - https://www.ledger.com/academy/library/topics/security
 
 ------------------------
 
+### 🚀 Interviews
 
-### Interviews
+------------------------
 
 Focus on technical/dev-related Solana topics and Anatoly Yakovenko, Solana staff and ecosystem devs.
 
 #### Recent Interviews
 
-Around the Block Ep 43: Building for the Future with Solana’s Anatoly Yakovenko and Coinbase CEO Brian Armstrong 
+Around the Block Ep 43: Building for the Future with Solana’s Anatoly Yakovenko and Coinbase CEO Brian Armstrong
 https://www.youtube.com/watch?v=L7JmgQNdCE8&ab_channel=Coinbase
 
 Anatoly Yakovenko | CEO @ Solana Labs | Saga, Bear Market, San Francisco | Episode 2
@@ -1211,7 +1219,16 @@ https://www.youtube.com/watch?v=TCfogPJPNL4&ab_channel=Solana
 Chewing Glass - Mert Mumtaz - Ep #8
 https://www.youtube.com/watch?v=IjelcFzjno4&t=202s&ab_channel=Solana
 
+#### Validated
 
+Validated | Crypto-Powered Physical Infrastructure with Sami Kassab
+https://www.youtube.com/watch?v=zo3EQH9Zd2s&list=PLilwLeBwGuK4H0t-tYR3C1KQFGmyZLNMG&index=1&ab_channel=Solana
+
+Validated | How Crypto Journalism Actually Happens with Danny Nelson
+https://www.youtube.com/watch?v=8J1psWsFsa8&list=PLilwLeBwGuK4H0t-tYR3C1KQFGmyZLNMG&index=2&ab_channel=Solana
+
+Validated | A Decentralized Collective Memory with Sam Williams
+https://www.youtube.com/watch?v=IW7BRsx5Urc&list=PLilwLeBwGuK4H0t-tYR3C1KQFGmyZLNMG&index=3&ab_channel=Solana
 
 
 #### Archives
@@ -1251,6 +1268,9 @@ https://www.youtube.com/watch?v=uHoxveeoHbw
 
 The Founders Scaling Debate: Solana vs. Starkware
 https://www.youtube.com/watch?v=WOtm22lkKk0
+
+All Things Solana with Anatoly | gm Podcast - Episode 20 (10.6.22)
+https://www.youtube.com/watch?v=_NGqCbgeNxI&ab_channel=DecryptMedia
 
 Solana founder unravels the Layer 1 Wars | Anatoly Yakovenko
 https://www.youtube.com/watch?v=HhJNdzOKg-E
@@ -1363,6 +1383,9 @@ https://www.youtube.com/watch?v=Q6FO5biydeY&ab_channel=Solana
 
 Liquidity Pools: A deep dive into Balancer, Curve, and Aave.
 https://www.youtube.com/watch?v=4ZKQpp0ICyc&t=936s&ab_channel=Solana
+
+How Solana could reach 1 billion users in the next five years | Interview with Solana Labs CEO
+https://www.youtube.com/watch?v=qAehzKsDOd4&ab_channel=Cointelegraph
 
 
 TODO: More categories
