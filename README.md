@@ -1120,6 +1120,9 @@ https://earn.superteam.fun/opportunities/category/jobs
 Web3 Bounties
 https://earn.superteam.fun/opportunities/category/bounties
 
+Find a grant program:
+https://superteam.fun/instagrants
+
 Solana-related Frontend Dev Grants
 https://earn.superteam.fun/opportunities/skill/front-end-dev?category=Grants
 
@@ -1149,6 +1152,12 @@ https://solana.com/news/introducing-solana-u-a-new-program-for-student-builders
 
 Solrazr - launchpad, accelerator, decentralised developer ecosystem for Solana
 https://solrazr.com/
+
+Past Hackathon Winners
+https://build.superteam.fun/past-hackathon-winners
+
+Solana VC list - Active Solana VCs and Funds - 100+ funds
+https://build.superteam.fun/vcs-and-funds
 
 
 -----------------
