@@ -546,6 +546,9 @@ https://github.com/extrnode/rpc-solana-endpoints
 * Sol Tools
 https://sol-tools.tonyboyle.io/
 
+* walletOS
+https://www.pinestreetlabs.com/walletos/
+
 #### Other Programming topics
 
 The Solana Programming Model
