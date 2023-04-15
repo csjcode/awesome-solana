@@ -29,8 +29,8 @@ Ledger security topics - https://www.ledger.com/academy/library/topics/security
 * [Solana Programming Topics](https://github.com/csjcode/awesome-solana#-solana-programming-topics)
 * [Solana Status/Analytics/Trends](https://github.com/csjcode/awesome-solana#-solana-statusanalyticstrends)
 * [Solana NFTs](https://github.com/csjcode/awesome-solana#-solana-nfts)
+* [Solana Mobile and Solana Saga](https://github.com/csjcode/awesome-solana#-solana-mobile-and-solana-saga)
 * [Solana and Web3 Security](https://github.com/csjcode/awesome-solana#-solana-and-web3-security)
-* TODO: Defi App/Dev
 * TODO: Hosting
 * [Solana Developer Opportunities & Jobs](https://github.com/csjcode/awesome-solana#-developer-opportunities--jobs)
 * [Video Interviews](https://github.com/csjcode/awesome-solana#-interviews)
@@ -310,13 +310,20 @@ Solana Shield
 https://solanashield.io/
 
 #### Solandy
-* https://www.youtube.com/playlist?list=PLmAMfj0qP2wwfnuRJQge2ss4sJxnhIqyt
+
+* Solana Dev Course Playlist (18 videos, updated 2023)
+  * https://www.youtube.com/playlist?list=PLmAMfj0qP2wwfnuRJQge2ss4sJxnhIqyt
+* Building a Frontend Applicaiton in 30min [Solana Tutorial] - Mar 5th '23
+  * https://www.youtube.com/watch?v=imGhXQqogiI&ab_channel=Solandy%5Bsolandy.sol%5D
 * How To Read Data From The Network [Solana Development Course: Module 1, Part 1] - Aug 1st '22
   * https://www.youtube.com/watch?v=HavGDGUTmgs&ab_channel=Solandy%5Bsolandy.sol%5D
 * Serializing Instruction Data [Solana Development Course: Module 1, Part 4] - Sept 2nd '22
   * https://www.youtube.com/watch?v=jNN7ObT0vi4&ab_channel=Solandy%5Bsolandy.sol%5D
 * THE NEW CANDY MACHINE V3 [Solana Tutorial] - Oct 26th '22
 https://www.youtube.com/watch?v=tJqS5iyspuY&t=15s&ab_channel=Solandy%5Bsolandy.sol%5D
+* What is a Merkle Tree? How does Account Compression work? [Solana Tutorial] - Mar 22nd '23
+  * https://www.youtube.com/watch?v=6BpArf2-R68&ab_channel=Solandy%5Bsolandy.sol%5D
+
 
 #### Jrej NFT programmng collection
 * Your NFT collection on Solana - Metaplex Sugar + Whitelist - Sept 2022
@@ -379,9 +386,14 @@ https://github.com/shlok2740/solana-pay
 How to Get Transaction Logs on Solana using Solana/Web3.js | QuickCodes
 https://www.youtube.com/watch?v=pN-bx6NfDmg
 
-
 Full Solana and Rust programming course for beginners (CareerBooster.io)
 https://careerbooster.io/courses/full-solana-and-rust-programming-course-for-beginners
+
+Getting Started with Solana: SolanaPay
+https://www.youtube.com/watch?v=U2r3I77XqPM
+
+Getting Started with Solana: Gaming
+https://www.youtube.com/watch?v=1Jju2l3w2_w
 
 ------------------------
 ### 🦀 Solana Architecture
@@ -434,6 +446,12 @@ https://github.com/extrnode/rpc-solana-endpoints/blob/main/rpc_list.csv
 
 A dummy's guide to Solana's architecture
 https://dev.to/0xprof_lupin/a-dummies-guide-to-solana-2ije
+
+Live Stream: State Compression and Compressed NFTs (Apr. '23)
+https://www.youtube.com/watch?v=LxhTxS9DexU&t=11s&ab_channel=Solana
+
+Fireside Chat: Different Approaches to Scaling Blockchains
+https://www.youtube.com/watch?v=OLh5NFXiSWc&t=2212s
 
 ok so what the $%#@ is the deal with solana anyway
 https://2501babe.github.io/posts/solana101.html
@@ -511,10 +529,14 @@ https://medium.com/chorus-one/analyzing-mev-instances-on-solana-c30d06953ed8
 Solana Validator Economics
 https://medium.com/chorus-one/exploring-validator-economics-on-solana-cb1498a3aef6
 
-Solana validation cost guessitimate
+Solana validation cost guesstimate
 https://www.getguesstimate.com/models/20834
 
+Program Runtime V2
+https://www.youtube.com/watch?v=SQXHgiUlU6E&ab_channel=Solana
 
+Solana vs Ethereum Debate ft. Anatoly & Toghrul
+https://www.youtube.com/watch?v=s9gNAwvY7fY&ab_channel=SuperteamPodcast
 
 ------------------------
 ### 🦀 Solana Programming Topics
@@ -557,8 +579,8 @@ https://lu.ma/p/3nHEa7k5DABpzE6/The-Solana-Programming-Model
 Programming Solana - Chainlink Workshops - Ecosystem (SmartCon 2022)
 https://www.youtube.com/watch?v=vXx4aXJfi3o&ab_channel=Chainlink
 
-SMS Solana Mobile
-https://solanamobile.com/
+Tutorial: Managing large accounts on Solana
+https://www.youtube.com/watch?v=zs_yU0IuJxc
 
 Solana Bootcamp - Day 1 - Intro to Solana
 https://www.youtube.com/watch?v=O0uhZEfVPt8&t=2034s&ab_channel=Solana
@@ -885,6 +907,9 @@ https://www.sec3.dev/blog/solana-programs-part-3
 Solana Programs Part 4: Metaplex Candy Machine — How Does It Work?
 https://www.sec3.dev/blog/solana-programs-part-4-metaplex-candy-machine
 
+Live Stream: State Compression and Compressed NFTs (Apr. '23)
+https://www.youtube.com/watch?v=LxhTxS9DexU&t=11s&ab_channel=Solana
+
 How to Mint an NFT on Solana
 https://docs.opensea.io/docs/how-to-mint-an-nft-on-solana
 * Part 1: Setting up a Phantom Wallet
@@ -904,6 +929,12 @@ https://www.youtube.com/watch?v=tJqS5iyspuY&t=15s&ab_channel=Solandy%5Bsolandy.s
 
 How to Create and Verify a Solana NFT Collection
 https://www.youtube.com/watch?v=s57Q1LiC6Uw&ab_channel=CtrlAltVictoria
+
+Solana Bytes - Transferring Compressed NFTs
+https://www.youtube.com/watch?v=FOO5eT7K_e4
+
+Solana Bytes - Minting Compressed NFTs
+https://www.youtube.com/watch?v=A_U1Nd41vPc
 
 Degen Ape Academy - Most BULLISH Project on Solana - Interview with Saint Eclectic
 https://www.youtube.com/watch?v=jrX2aNwnB8A&ab_channel=KnoxTrades
@@ -949,6 +980,37 @@ https://www.youtube.com/watch?v=S7ZgRxeqRDY&t=2315s&ab_channel=HashLipsNFT
 
 TODO: Need to build out this NFT section some more
 
+------------------------
+### 📱 Solana Mobile and Solana Saga
+
+------------------------
+
+SMS Solana Mobile
+https://solanamobile.com/
+
+Saga Launch Event Livestream (Apr '23)
+https://www.youtube.com/watch?v=HpHLWRfTlm8&ab_channel=Solana
+
+Intro to Saga and SMS by Steven Laver (Melbourne Hacker House)
+https://www.youtube.com/watch?v=N8MNIzd-xSE&t=10s
+
+Building Mobile dApps on SMS by Ankur Jain (Melbourne Hacker House)
+https://www.youtube.com/watch?v=-o8IMVkZGe0
+
+Solana Mobile Saga Melbourne Preview Event
+https://www.youtube.com/watch?v=ixrTTSIbcWw
+
+Saga First Impressions [Solana Phone Review] - Feb 3rd '23
+https://www.youtube.com/watch?v=RcO7947TxfQ&ab_channel=Solandy%5Bsolandy.sol%5D
+
+Solana SAGA PHONE will CHANGE CRYPTO! and Price Prediction
+https://www.youtube.com/watch?v=2JOEY8BhpAc&ab_channel=SolanaRust
+
+SMS Solana Mobile
+* https://solanamobile.com/
+* https://github.com/solana-mobile/solana-mobile-stack-sdk
+* https://github.com/solana-mobile/mobile-wallet-adapter
+
 
 ------------------------
 ### 🎧 Podcasts and Playlists
@@ -975,6 +1037,10 @@ https://www.youtube.com/playlist?list=PLilwLeBwGuK5-Qri7Pg9zd-Vvhz9kX2-R
 
 Solana Community Validator Discussions (over 30, updated recently)
 https://www.youtube.com/playlist?list=PLilwLeBwGuK78yjGBZwYhTf7rao0t13Zw
+
+Superteam Podcast
+https://www.youtube.com/@superteampodcast/videos
+
 
 ------------------------
 ### 🔒 Solana and Web3 Security
@@ -1190,6 +1256,9 @@ Focus on technical/dev-related Solana topics and Anatoly Yakovenko, Solana staff
 
 #### Recent Interviews
 
+Solana vs Ethereum Debate ft. Anatoly & Toghrul
+https://www.youtube.com/watch?v=s9gNAwvY7fY&ab_channel=SuperteamPodcast
+
 Around the Block Ep 43: Building for the Future with Solana’s Anatoly Yakovenko and Coinbase CEO Brian Armstrong
 https://www.youtube.com/watch?v=L7JmgQNdCE8&ab_channel=Coinbase
 
@@ -1232,6 +1301,9 @@ Chewing Glass - Mert Mumtaz - Ep #8
 https://www.youtube.com/watch?v=IjelcFzjno4&t=202s&ab_channel=Solana
 
 #### Validated
+
+Validated | Build Block Better: It's Infrastructure Week
+https://www.youtube.com/watch?v=2YRtzBbtS-E
 
 Validated | Crypto-Powered Physical Infrastructure with Sami Kassab
 https://www.youtube.com/watch?v=zo3EQH9Zd2s&list=PLilwLeBwGuK4H0t-tYR3C1KQFGmyZLNMG&index=1&ab_channel=Solana
