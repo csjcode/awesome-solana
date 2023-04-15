@@ -203,9 +203,11 @@ Solana Pay
 * https://github.com/solana-labs/solana-pay
 * https://github.com/solana-mobile/solana-pay-android-sample
 
-
 Solana Validator Guidebook
-https://www.solana-validator-guidebook.com/
+* https://www.solana-validator-guidebook.com/
+
+Solana Ecosystem governance
+* https://app.realms.today/discover
 
 ------------------------
 ### 🚀 Solana Tutorials
