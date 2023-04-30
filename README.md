@@ -29,6 +29,7 @@ Ledger security topics - https://www.ledger.com/academy/library/topics/security
 * [Solana Programming Topics](https://github.com/csjcode/awesome-solana#-solana-programming-topics)
 * [Solana Status/Analytics/Trends](https://github.com/csjcode/awesome-solana#-solana-statusanalyticstrends)
 * [Solana NFTs](https://github.com/csjcode/awesome-solana#-solana-nfts)
+* [Solana Top NFT Collections](https://github.com/csjcode/awesome-solana#-solana-top-nft-collections)
 * [Solana Mobile and Solana Saga](https://github.com/csjcode/awesome-solana#-solana-mobile-and-solana-saga)
 * [Solana and Web3 Security](https://github.com/csjcode/awesome-solana#-solana-and-web3-security)
 * [Solana Developer Opportunities & Jobs](https://github.com/csjcode/awesome-solana#-developer-opportunities--jobs)
@@ -980,6 +981,32 @@ https://www.youtube.com/watch?v=S7ZgRxeqRDY&t=2315s&ab_channel=HashLipsNFT
 
 
 TODO: Need to build out this NFT section some more
+
+------------------------
+### 🚀 Solana Top NFT Collections
+------------------------
+
+A selection of popular NFT collections on Solana as of the last recent update. This list is not exhaustive and is subject to change, and is not an endorsement of any of the projects listed. Do your own due diligence and research before investing in any project. Twitter links were gathered from exchange/community sources but it's possible they are not the official accounts, so verify before doing any trading based on info/links on them.
+
+Collection | Exchanges | Twitter 
+---------|----------|---------
+MadLads | [Tensor](https://www.tensor.trade/trade/madlads), [Magic Eden](https://magiceden.io/marketplace/mad_lads) | [Twitter](https://twitter.com/MadLadsNFT)
+Famous Fox Federation | [Tensor](https://www.tensor.trade/#:~:text=Famous%20Fox%20Federation,7779), [Magic Eden](https://magiceden.io/marketplace/famous_fox_federation) | [Twitter](https://www.twitter.com/FamousFoxFed)
+y00ts | [Tensor](https://www.tensor.trade/trade/y00ts), [Magic Eden](https://magiceden.io/marketplace/y00ts) | [Twitter](https://twitter.com/y00tsNFT)
+Claynosaurz | [Tensor](https://www.tensor.trade/trade/claynosaurz), [Magic Eden](https://magiceden.io/marketplace/claynosaurz) | [Twitter](https://www.twitter.com/Claynosaurz)
+Solana Monkey Business| [Tensor](https://www.tensor.trade/trade/solana_monkey_business), [Magic Eden](https://magiceden.io/marketplace/solana_monkey_business) |
+Okay Bears | [Tensor](https://www.tensor.trade/trade/okay_bears), [Magic Eden](https://magiceden.io/marketplace/okay_bears) | [Twitter](https://twitter.com/okaybears)
+Degenerate Ape Academy | [Tensor](https://www.tensor.trade/trade/degenerate_ape_academy), [Magic Eden](https://magiceden.io/marketplace/degenerate_ape_academy) | [Twitter](https://twitter.com/DegenApeAcademy)
+oogy | [Tensor](https://www.tensor.trade/trade/oogy), [Magic Eden](https://magiceden.io/marketplace/oogy) | [Twitter](https://www.twitter.com/oogyNFT)
+The Heist | [Tensor](https://prod-image-cdn.tensor.trade/images/400x400/freeze=false/https://bafybeigch4m7rbec2l255powwbjmacnyj5n5o54qcboiwfgs2nnw6thimq.ipfs.nftstorage.link/), [Magic Eden](https://magiceden.io/marketplace/theheist) | [Twitter](https://twitter.com/playtheheist)
+ABC | [Tensor](https://www.tensor.trade/trade/abc_abracadabra), [Magic Eden](https://magiceden.io/marketplace/abc_abracadabra) | [Twitter](https://twitter.com/ABC123Community)
+Wolf Capital | [Tensor](https://www.tensor.trade/trade/wolf_capital), [Magic Eden](https://magiceden.io/marketplace/wolf_capital) | [Twitter](https://twitter.com/WolfCapital_)
+CHADS | [Tensor](https://www.tensor.trade/trade/chads), [Magic Eden](https://magiceden.io/marketplace/chadswtf) | [Twitter](https://www.twitter.com/CHADSwtf)
+Aurory | [Tensor](), [Magic Eden](https://magiceden.io/marketplace/aurory) | [Twitter](https://twitter.com/AuroryProject)
+Solcasino dot io | [Tensor](https://www.tensor.trade/trade/solcasino), [Magic Eden](https://magiceden.io/marketplace/solcasino) | [Twitter](https://twitter.com/Solcasinoio)
+Taiyo Pilots | [Tensor](https://www.tensor.trade/trade/taiyopilots), [Magic Eden](https://magiceden.io/marketplace/taiyopilots) | [Twitter](https://twitter.com/TaiyoRobotics)
+Taiyo Robotics | [Tensor](https://www.tensor.trade/trade/taiyo_robotics), [Magic Eden](https://magiceden.io/marketplace/taiyo_robotics) | [Twitter](https://twitter.com/TaiyoRobotics)
+
 
 ------------------------
 ### 📱 Solana Mobile and Solana Saga
