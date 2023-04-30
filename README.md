@@ -991,14 +991,14 @@ A selection of popular NFT collections on Solana as of the last recent update. T
 Collection | Exchanges | Twitter 
 ---------|----------|---------
 MadLads | [Tensor](https://www.tensor.trade/trade/madlads), [Magic Eden](https://magiceden.io/marketplace/mad_lads) | [Twitter](https://twitter.com/MadLadsNFT)
-Famous Fox Federation | [Tensor](https://www.tensor.trade/#:~:text=Famous%20Fox%20Federation,7779), [Magic Eden](https://magiceden.io/marketplace/famous_fox_federation) | [Twitter](https://www.twitter.com/FamousFoxFed)
+Famous Fox Federation | [Tensor](https://www.tensor.trade/trade/famous_fox_federation), [Magic Eden](https://magiceden.io/marketplace/famous_fox_federation) | [Twitter](https://www.twitter.com/FamousFoxFed)
 y00ts | [Tensor](https://www.tensor.trade/trade/y00ts), [Magic Eden](https://magiceden.io/marketplace/y00ts) | [Twitter](https://twitter.com/y00tsNFT)
 Claynosaurz | [Tensor](https://www.tensor.trade/trade/claynosaurz), [Magic Eden](https://magiceden.io/marketplace/claynosaurz) | [Twitter](https://www.twitter.com/Claynosaurz)
 Solana Monkey Business| [Tensor](https://www.tensor.trade/trade/solana_monkey_business), [Magic Eden](https://magiceden.io/marketplace/solana_monkey_business) |
 Okay Bears | [Tensor](https://www.tensor.trade/trade/okay_bears), [Magic Eden](https://magiceden.io/marketplace/okay_bears) | [Twitter](https://twitter.com/okaybears)
 Degenerate Ape Academy | [Tensor](https://www.tensor.trade/trade/degenerate_ape_academy), [Magic Eden](https://magiceden.io/marketplace/degenerate_ape_academy) | [Twitter](https://twitter.com/DegenApeAcademy)
 oogy | [Tensor](https://www.tensor.trade/trade/oogy), [Magic Eden](https://magiceden.io/marketplace/oogy) | [Twitter](https://www.twitter.com/oogyNFT)
-The Heist | [Tensor](https://prod-image-cdn.tensor.trade/images/400x400/freeze=false/https://bafybeigch4m7rbec2l255powwbjmacnyj5n5o54qcboiwfgs2nnw6thimq.ipfs.nftstorage.link/), [Magic Eden](https://magiceden.io/marketplace/theheist) | [Twitter](https://twitter.com/playtheheist)
+The Heist | [Tensor](https://www.tensor.trade/trade/theheist), [Magic Eden](https://magiceden.io/marketplace/theheist) | [Twitter](https://twitter.com/playtheheist)
 ABC | [Tensor](https://www.tensor.trade/trade/abc_abracadabra), [Magic Eden](https://magiceden.io/marketplace/abc_abracadabra) | [Twitter](https://twitter.com/ABC123Community)
 Wolf Capital | [Tensor](https://www.tensor.trade/trade/wolf_capital), [Magic Eden](https://magiceden.io/marketplace/wolf_capital) | [Twitter](https://twitter.com/WolfCapital_)
 CHADS | [Tensor](https://www.tensor.trade/trade/chads), [Magic Eden](https://magiceden.io/marketplace/chadswtf) | [Twitter](https://www.twitter.com/CHADSwtf)
