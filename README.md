@@ -1002,7 +1002,7 @@ The Heist | [Tensor](https://prod-image-cdn.tensor.trade/images/400x400/freeze=f
 ABC | [Tensor](https://www.tensor.trade/trade/abc_abracadabra), [Magic Eden](https://magiceden.io/marketplace/abc_abracadabra) | [Twitter](https://twitter.com/ABC123Community)
 Wolf Capital | [Tensor](https://www.tensor.trade/trade/wolf_capital), [Magic Eden](https://magiceden.io/marketplace/wolf_capital) | [Twitter](https://twitter.com/WolfCapital_)
 CHADS | [Tensor](https://www.tensor.trade/trade/chads), [Magic Eden](https://magiceden.io/marketplace/chadswtf) | [Twitter](https://www.twitter.com/CHADSwtf)
-Aurory | [Tensor](), [Magic Eden](https://magiceden.io/marketplace/aurory) | [Twitter](https://twitter.com/AuroryProject)
+Aurory | [Tensor](https://www.tensor.trade/trade/aurory), [Magic Eden](https://magiceden.io/marketplace/aurory) | [Twitter](https://twitter.com/AuroryProject)
 Solcasino dot io | [Tensor](https://www.tensor.trade/trade/solcasino), [Magic Eden](https://magiceden.io/marketplace/solcasino) | [Twitter](https://twitter.com/Solcasinoio)
 Taiyo Pilots | [Tensor](https://www.tensor.trade/trade/taiyopilots), [Magic Eden](https://magiceden.io/marketplace/taiyopilots) | [Twitter](https://twitter.com/TaiyoRobotics)
 Taiyo Robotics | [Tensor](https://www.tensor.trade/trade/taiyo_robotics), [Magic Eden](https://magiceden.io/marketplace/taiyo_robotics) | [Twitter](https://twitter.com/TaiyoRobotics)
