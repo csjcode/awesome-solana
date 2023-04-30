@@ -31,7 +31,6 @@ Ledger security topics - https://www.ledger.com/academy/library/topics/security
 * [Solana NFTs](https://github.com/csjcode/awesome-solana#-solana-nfts)
 * [Solana Mobile and Solana Saga](https://github.com/csjcode/awesome-solana#-solana-mobile-and-solana-saga)
 * [Solana and Web3 Security](https://github.com/csjcode/awesome-solana#-solana-and-web3-security)
-* TODO: Hosting
 * [Solana Developer Opportunities & Jobs](https://github.com/csjcode/awesome-solana#-developer-opportunities--jobs)
 * [Video Interviews](https://github.com/csjcode/awesome-solana#-interviews)
 
@@ -315,7 +314,7 @@ https://solanashield.io/
 
 * Solana Dev Course Playlist (18 videos, updated 2023)
   * https://www.youtube.com/playlist?list=PLmAMfj0qP2wwfnuRJQge2ss4sJxnhIqyt
-* Building a Frontend Applicaiton in 30min [Solana Tutorial] - Mar 5th '23
+* Building a Frontend Application in 30min [Solana Tutorial] - Mar 5th '23
   * https://www.youtube.com/watch?v=imGhXQqogiI&ab_channel=Solandy%5Bsolandy.sol%5D
 * How To Read Data From The Network [Solana Development Course: Module 1, Part 1] - Aug 1st '22
   * https://www.youtube.com/watch?v=HavGDGUTmgs&ab_channel=Solandy%5Bsolandy.sol%5D
@@ -327,7 +326,7 @@ https://www.youtube.com/watch?v=tJqS5iyspuY&t=15s&ab_channel=Solandy%5Bsolandy.s
   * https://www.youtube.com/watch?v=6BpArf2-R68&ab_channel=Solandy%5Bsolandy.sol%5D
 
 
-#### Jrej NFT programmng collection
+#### Jrej NFT programming collection
 * Your NFT collection on Solana - Metaplex Sugar + Whitelist - Sept 2022
   * https://www.youtube.com/watch?v=D1WCl4cZ6G8&ab_channel=Jrej
 * How to send whitelist tokens for free - Metaplex Gumdrop + Holder minting dapp - Sept 2022
