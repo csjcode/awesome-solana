@@ -397,6 +397,25 @@ https://www.youtube.com/watch?v=U2r3I77XqPM
 Getting Started with Solana: Gaming
 https://www.youtube.com/watch?v=1Jju2l3w2_w
 
+Practical Guide to Start a DAO Business(1) — Introduction (2022)
+https://medium.com/solananews/practical-guide-to-start-a-dao-business-1-introduction-89755c3f0e42
+
+Practical Guide to Start a DAO Business(2) — Build your First DAO in Solana (2022)
+https://medium.com/solananews/practical-guide-to-start-a-dao-business-2-build-your-first-dao-in-solana-81960fd79b1f
+
+Practical Guide to Start a DAO Business(3) — Create your First Proposal (2022)
+https://medium.com/solananews/practical-guide-to-start-a-dao-business-3-create-your-first-proposal-d5c4d7304338
+
+Practical Guide to Start a DAO Business(4) — Setup a DAO Corporation? (2022)
+https://medium.com/solananews/practical-guide-to-start-a-dao-business-4-setup-a-dao-corporation-8b222fe37b24
+
+Cross program invocation in-depth. How to invoke any program on solana ?
+https://medium.com/@trungbaotran1701/cross-program-invocation-in-depth-how-to-invoke-any-program-on-solana-af171e315b1c
+
+How to create a live activity feed on Solana(Part 1)
+Building Real-Time Updates for Your Solana dApp: A Step-by-Step Guide to Implementing a Live Activity Feed
+https://blogs.shyft.to/how-to-create-a-live-activity-feed-on-solana-25f3f4fc0070
+
 ------------------------
 ### 🦀 Solana Architecture
 
@@ -479,7 +498,6 @@ https://www.youtube.com/watch?v=xPCr7T3IUo4&ab_channel=KnoxTrades
 Understanding Solana Consensus Protocol Better
 https://www.reddit.com/r/solana/comments/rd3rp8/understanding_solana_consensus_protocol_better/
 
-
 Proof-of-Stake (vs proof-of-work)
 https://www.youtube.com/watch?v=M3EFi_POhps&ab_channel=SimplyExplained
 
@@ -502,7 +520,6 @@ Is Proof of History (PoH) pointless?
 https://www.reddit.com/r/solana/comments/xqq9b2/is_proof_of_history_poh_pointless/
 https://www.reddit.com/r/solana/comments/xqq9b2/comment/iqbsffl/?utm_source=share&utm_medium=web2x&context=3
 https://www.reddit.com/r/solana/comments/xqq9b2/comment/iqb16kq/?utm_source=share&utm_medium=web2x&context=3
-
 
 Validator Educational Workshop October 12th, 2022
 https://www.youtube.com/watch?v=ZjhxAgoGDbk&ab_channel=Solana
@@ -573,6 +590,16 @@ https://sol-tools.tonyboyle.io/
 * walletOS
 https://www.pinestreetlabs.com/walletos/
 
+Snowflake: Multisig platform on Solana
+https://snowflake.so/
+
+Clockwork: Automation at the speed of Solana
+https://www.clockwork.xyz/
+
+Katana - The Yield Generation Protocol for Solana
+https://katana.so/
+
+
 #### Other Programming topics
 
 The Solana Programming Model
@@ -583,6 +610,9 @@ https://www.youtube.com/watch?v=vXx4aXJfi3o&ab_channel=Chainlink
 
 Tutorial: Managing large accounts on Solana
 https://www.youtube.com/watch?v=zs_yU0IuJxc
+
+Automation Landscape on Solana
+https://medium.com/@karanpargal007/automation-landscape-on-solana-7c04d81eb8ef
 
 Solana Bootcamp - Day 1 - Intro to Solana
 https://www.youtube.com/watch?v=O0uhZEfVPt8&t=2034s&ab_channel=Solana
@@ -711,12 +741,13 @@ https://brson.github.io/2021/06/08/rust-on-solana
 POST-FTX: Is Solana Dead? The Definitive Study
 https://www.youtube.com/watch?v=RP-TnkkWNSM&ab_channel=InvestAnswers
 
+Implementing Token Gating on Solana: Time-based, Performance-based, and Event-based Approaches with Code Examples
+https://coinsbench.com/token-gating-on-solana-is-a-mechanism-that-restricts-the-transfer-of-tokens-from-one-account-to-6e6d00f51527
 
 ------------------------
 ### 📈 Solana Status/Analytics/Trends
 
 ------------------------
-
 
 #### Solana Status
 
@@ -748,7 +779,6 @@ https://solanabeach.io/
 
 SolanaFM - A friendly Solana explorer.
 https://solana.fm/?cluster=mainnet-qn1
-
 
 
 <br />
