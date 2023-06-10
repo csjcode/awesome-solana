@@ -564,10 +564,20 @@ https://www.youtube.com/watch?v=s9gNAwvY7fY&ab_channel=SuperteamPodcast
 
 #### Developer Tools
 
-* Helius - Solana
-https://docs.helius.xyz/introduction/why-helius
+* Hello Moon - Solana Infrastructure
+https://www.hellomoon.io/developers
+   * Quickstart: https://docs.hellomoon.io/docs/quickstart
+   * Recipes: https://docs.hellomoon.io/recipes
+   * Twitter: https://twitter.com/HelloMoon_io
 
-* Alchemy - Solana
+* Helius - Solana Infrastructure
+https://docs.helius.xyz/introduction/why-helius
+    * Quick Start: https://docs.helius.xyz/welcome/quick-start
+    * Guides: https://docs.helius.xyz/reference/guides-and-tutorials
+    * Blog: https://www.helius.dev/blog
+    * Twitter: https://twitter.com/heliuslabs
+
+* Alchemy - Solana and others
 https://docs.alchemy.com/docs/how-to-setup-your-solana-development-environment
 
 * QuickNode RPC
