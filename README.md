@@ -577,22 +577,21 @@ https://docs.helius.xyz/introduction/why-helius
     * Blog: https://www.helius.dev/blog
     * Twitter: https://twitter.com/heliuslabs
 
-* Alchemy - Solana and others
-https://docs.alchemy.com/docs/how-to-setup-your-solana-development-environment
+* Alchemy - Solana and others - 
+  * https://docs.alchemy.com/docs/how-to-setup-your-solana-development-environment
 
 * QuickNode RPC
-https://www.quicknode.com/chains/sol
-https://www.quicknode.com/docs/solana
+  * https://www.quicknode.com/chains/sol
+  * https://www.quicknode.com/docs/solana
 
 * Moralis Solana API
-https://moralis.io/solana-api/
+  * https://moralis.io/solana-api/
 
 * Ironforge, simplify Solana
-  https://www.ironforge.cloud/
-  https://docs.ironforge.cloud/
+  * https://www.ironforge.cloud/
 
 * Solana public RPC endpoints
-https://github.com/extrnode/rpc-solana-endpoints
+  * https://github.com/extrnode/rpc-solana-endpoints
 
 * Sol Tools
 https://sol-tools.tonyboyle.io/
