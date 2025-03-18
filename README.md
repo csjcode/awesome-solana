@@ -1,10 +1,25 @@
-# 🦀 awesome-solana v2 🚀 
+# 🦀 awesome-solana v2 🚀
 Awesome list of Solana links, updated recently and with more info than some other similar lists.
-
 
 ------------------------
 
-A list of Solana blockchain and Solana-related ecosystem links collected through web, community and social sources.  
+# Updates soon (Mar. 18 2025)
+
+There have been a lot of changes in documentation the last few months and I have not updated this in a looong time.
+
+I am in the process of checking links and making some updates in the next few days.
+
+Currently there are quite a few broken links.
+
+But they will be fixed soon.
+
+Thanks for understanding, watch for updates soon!
+
+@csjcode
+
+------------------------
+
+A list of Solana blockchain and Solana-related ecosystem links collected through web, community and social sources.
 
 This is a dev-centric gateway to Solana's technology, apps and community ecosystem, with a particular focus on tutorials, FAQs and dev resources.
 
@@ -43,7 +58,7 @@ Ledger security topics - https://www.ledger.com/academy/library/topics/security
 ------------------------
 
 
-#### [Solana Official Docs](https://docs.solana.com/)
+#### [Solana Official Docs](https://docs.`solana.com/)
 
 * Learn Solana Development
   https://docs.solana.com/developers
@@ -98,7 +113,7 @@ https://solfaucet.com/
   https://solanacookbook.com/guides/get-program-accounts.html#facts
 * Serializing Data
   https://solanacookbook.com/guides/serialization.html
-* Debugging Solana Programs 
+* Debugging Solana Programs
   https://solanacookbook.com/guides/debugging-solana-programs.html#facts
 * Solana Web3 Wallet Adapter Tutorial
   https://github.com/solana-labs/wallet-adapter/blob/master/APP.md
@@ -111,7 +126,7 @@ https://solfaucet.com/
 #### [Anchor: Smart Contract Framework](https://www.anchor-lang.com/)
 * Intro to Programming on Solana
   https://www.anchor-lang.com/docs/intro-to-solana
-* Install Anchor, Rust and Solana 
+* Install Anchor, Rust and Solana
   https://www.anchor-lang.com/docs/installation
 * Getting Started: Hello World
   https://www.anchor-lang.com/docs/hello-world
@@ -125,7 +140,7 @@ https://solfaucet.com/
   https://www.anchor-lang.com/docs/tic-tac-toe
 * Anchor CLI
   https://www.anchor-lang.com/docs/cli
-* Anchor github repo - coral-xyz/anchor 
+* Anchor github repo - coral-xyz/anchor
   https://github.com/coral-xyz/anchor
 * Anchor Tutorials in github
   https://github.com/coral-xyz/anchor/tree/master/examples/tutorial
@@ -168,21 +183,21 @@ https://github.com/metaplex-foundation/js
 #### Setting up a Local Solana dev environment and CLI Wallet
 * Install the Solana Tool Suite - https://docs.solana.com/cli/install-solana-cli-tools
 * Create a CLI Wallet - https://docs.metaplex.com/guides/cli-wallet
-* 
+*
 #### Solana Deploy cheatsheet
 * https://hackmd.io/@raza/deploy15
-* 
+*
 #### Create Solana App
 * https://github.com/solana-developers/create-solana-app
 
 #### [Solscan](https://solscan.io/)
   * Docs
     https://docs.solscan.io/
-  * Account details 
+  * Account details
     https://docs.solscan.io/transaction-details/account
-  * Transaction details 
+  * Transaction details
     https://docs.solscan.io/transaction-details/transaction-details
-  * Fee Tracker 
+  * Fee Tracker
     https://beta-analysis.solscan.io/public/dashboard/06d689e1-dcd7-4175-a16a-efc074ad5ce2
 
 #### solana-web3.js
@@ -257,11 +272,11 @@ Solana Blockchain Tutorial
 https://adept.at/forked/solana-blockchain-development
 
 #### Solana (Figment)
-https://learn.figment.io/protocols/solana   
+https://learn.figment.io/protocols/solana
 
-* Community Tutorials: 
+* Community Tutorials:
   * https://learn.figment.io/tutorials
-* Build a Crowdfunding platform on Solana: 
+* Build a Crowdfunding platform on Solana:
   * https://learn.figment.io/tutorials/build-a-crowdfunding-platform-on-solana
 
 Ship your own  NFT Collection on Solana w/ Metaplex.
@@ -436,7 +451,7 @@ https://medium.com/solana-labs/7-innovations-that-make-solana-the-first-web-scal
 Solana’s Network Architecture
 https://medium.com/solana-labs/solanas-network-architecture-8e913e1d5a40
 
-Solana Labs github project for Solana QUIC implementation status 
+Solana Labs github project for Solana QUIC implementation status
 https://github.com/solana-labs/solana/projects/74
 
 Solana Labs github project for Solana fee markets
@@ -530,13 +545,13 @@ https://www.sec3.dev/blog/solana-internals-part-1-what-are-the-native-on-chain-p
 Solana Internals Part 2: How Is a Solana Program Deployed and Upgraded
 https://www.sec3.dev/blog/solana-internals-part-2-how-is-a-solana-program-deployed-and-upgraded
 
-Solana Internals Part 3: The Transaction Processing Unit (TPU) 
+Solana Internals Part 3: The Transaction Processing Unit (TPU)
 https://www.sec3.dev/blog/solana-internals-part-3-the-transaction-processing-unit-tpu
 
 Solana Validator 101: Transaction Processing
 https://jito-labs.medium.com/solana-validator-101-transaction-processing-90bcdc271143
- 
-Solana Internals Part 4: The Bank — A Key Component 
+
+Solana Internals Part 4: The Bank — A Key Component
 https://www.sec3.dev/blog/solana-internals-part-4-the-bank-a-key-component
 
 3 Major Upcoming Upgrades on Solana That Will Improve Network Performance
@@ -577,7 +592,7 @@ https://docs.helius.xyz/introduction/why-helius
     * Blog: https://www.helius.dev/blog
     * Twitter: https://twitter.com/heliuslabs
 
-* Alchemy - Solana and others - 
+* Alchemy - Solana and others -
   * https://docs.alchemy.com/docs/how-to-setup-your-solana-development-environment
 
 * QuickNode RPC
@@ -767,12 +782,12 @@ https://coinsbench.com/token-gating-on-solana-is-a-mechanism-that-restricts-the-
 
 #### Solana Explorers
 
-Solana Explorer 
+Solana Explorer
 * mainnet:
 https://explorer.solana.com/
-* testnet: 
+* testnet:
 https://explorer.solana.com/?cluster=testnet
-* devnet: 
+* devnet:
 https://explorer.solana.com/?cluster=devnet
 
 Solscan.io
@@ -850,7 +865,7 @@ https://dune.com/kunal/Solana-NFT-Marketplaces-(Magic-Eden-OpenSea-Solanart-Digi
 @yehjames / STEPN
 https://dune.com/yehjames/STEPN
 
-Altcoin Season Index 
+Altcoin Season Index
 https://www.blockchaincenter.net/altcoin-season-index/
 
 Solana Floor domains
@@ -883,7 +898,7 @@ https://magiceden.io/
 Magic Eden Solana NFT Playbook
 https://blog.magiceden.io/playbook
 
-SolSea 
+SolSea
 https://geekflare.com/finance/solana-nft-marketplaces/
 
 Tensor
@@ -939,7 +954,7 @@ https://github.com/jarry-xiao/candyland
 Awesome Solana NFTs
 https://github.com/ilmoi/awesome-solana-nfts
 
-HashLips Art Engine 
+HashLips Art Engine
 https://github.com/HashLips/hashlips_art_engine
 
 Solana programs Part 3: understanding Metaplex Token Metadata
@@ -993,7 +1008,7 @@ https://medium.com/dyor-with-unloc/got-liquidity-solanas-5-nft-loan-categories-d
 Guide to minting a SolSea NFT: Step by step
 https://cointelegraph.com/news/how-to-mint-an-nft-on-solana-solsea
 
-Supadrop NFT drops on Solana 
+Supadrop NFT drops on Solana
 https://www.supadrop.com/
 
 LIQNFT
@@ -1027,7 +1042,7 @@ TODO: Need to build out this NFT section some more
 
 A selection of popular NFT collections on Solana as of the last recent update. This list is not exhaustive and is subject to change, and is not an endorsement of any of the projects listed. Do your own due diligence and research before investing in any project. Twitter links were gathered from exchange/community sources but it's possible they are not the official accounts, so verify before doing any trading based on info/links on them.
 
-Collection | Exchanges | Twitter 
+Collection | Exchanges | Twitter
 ---------|----------|---------
 MadLads | [Tensor](https://www.tensor.trade/trade/madlads), [Magic Eden](https://magiceden.io/marketplace/mad_lads) | [Twitter](https://twitter.com/MadLadsNFT)
 Famous Fox Federation | [Tensor](https://www.tensor.trade/trade/famous_fox_federation), [Magic Eden](https://magiceden.io/marketplace/famous_fox_federation) | [Twitter](https://www.twitter.com/FamousFoxFed)
@@ -1143,7 +1158,7 @@ Command Line Wallets - from official Solana docs:
 
 #### Smart Contract and Blockchain Security
 
-Solana Security Best Practices. 
+Solana Security Best Practices.
 https://github.com/slowmist/solana-smart-contract-security-best-practices
 
 #### [Sec3 Dev Blog](https://www.sec3.dev/blog)
@@ -1179,7 +1194,7 @@ The Vulnerabilities You’ll Write With Anchor
 Anchor is no silver bullet for avoiding mistakes in Solana code
 https://www.zellic.io/blog/the-vulnerabilities-youll-write-with-anchor
 
-Bug Bounties 
+Bug Bounties
 https://soldev.app/bounties
 
 Bughunting Bounties (via Superteam)
@@ -1193,7 +1208,7 @@ Solana Stack Exchange
 https://solana.stackexchange.com/
 
 * Search Github and Google for similar code
-  * Search for github and look in left column of results for "Repos, Code, Issues" in a related repo, or a repo where the error came from. 
+  * Search for github and look in left column of results for "Repos, Code, Issues" in a related repo, or a repo where the error came from.
   * Even if it says "We couldn’t find any repositories", make sure to look in the Code results for related code repos.
   * Google or search github for the exact or variations on the error message
 
@@ -1232,18 +1247,18 @@ https://discord.com/channels/848060988636921856
 
 ------------------------
 
-Solana Labs repo: Good first issues 
+Solana Labs repo: Good first issues
 https://github.com/solana-labs/solana/labels/good%20first%20issue)
 
 Solana Labs Github Projects newest issues
 https://github.com/solana-labs/solana/issues
 
-Solana Labs Github Projects 
+Solana Labs Github Projects
 https://github.com/solana-labs/solana/projects?type=classic
 
 Solana Jobs (official)
 https://jobs.solana.com/jobs
- 
+
 Solana Grants (official)
 https://solana.org/grants
 
@@ -1299,7 +1314,7 @@ https://build.superteam.fun/vcs-and-funds
 -----------------
 
 
-This is a list of interesting and potentially useful Solana blockchain and Solana-related ecosystem links.  
+This is a list of interesting and potentially useful Solana blockchain and Solana-related ecosystem links.
 
 Important note: A link here is not an endorsement of content, safety or suitability for your needs (financial, coding, etc.). The vast majority are not "official" Solana links. All use of these links/apps is solely your responsibility. No warranty is implied by inclusion here. Do not make important decisions or connect your wallet to any site/app here without first independently confirming (apart from these links) it fits your needs.
 
@@ -1340,7 +1355,7 @@ https://www.youtube.com/watch?v=kiPPYqapfnI&ab_channel=JournalduCoin
 
 Armani Ferrante | Founder of Coral & Backpack | xNFT DApp Standard | Logan Jastremski Podcast #38
 https://www.youtube.com/watch?v=_k70Gg05aSA&ab_channel=LoganJastremskiPodcast
-  
+
 Anatoly Yakovenko & Raj Gokal | Solana Founders state of the Ecosystem| Logan Jastremski Podcast #40
 https://www.youtube.com/watch?v=_csMor-uMS8&ab_channel=LoganJastremskiPodcast
 
@@ -1438,7 +1453,7 @@ https://www.youtube.com/watch?v=4ZKQpp0ICyc
 Solana is Launching a Phone? | Co-Founders Anatoly & Raj
 https://www.youtube.com/watch?v=9wfNeVTtBz0
 
-Exclusive Interview w/ Solana Co-Founder Anatoly Yakovenko 
+Exclusive Interview w/ Solana Co-Founder Anatoly Yakovenko
 https://www.youtube.com/watch?v=I7i3k_mkX3U
 
 Anatoly Yakovenko: The growth of the Solana Ecosystem followed by a live virtual Q&A (3/2022)
