@@ -579,6 +579,10 @@ https://www.youtube.com/watch?v=s9gNAwvY7fY&ab_channel=SuperteamPodcast
 
 #### Developer Tools
 
+* BuyDevnetSOL
+https://buydevnetsol.com
+   * Instant devnet SOL exchange (pay with USDC)
+
 * Hello Moon - Solana Infrastructure
 https://www.hellomoon.io/developers
    * Quickstart: https://docs.hellomoon.io/docs/quickstart
