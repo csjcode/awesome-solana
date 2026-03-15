@@ -773,6 +773,10 @@ https://coinsbench.com/token-gating-on-solana-is-a-mechanism-that-restricts-the-
 
 ------------------------
 
+
+* Chain Forensics - Behavioral wallet intelligence API. Detects coordinated wallets, sybil networks, and wash trading on Solana and 5 other chains. Free tier available.
+  https://github.com/796farina/chain-forensics-api
+  https://chainforensics.ai
 #### Solana Status
 
   Solana Status
