@@ -805,6 +805,13 @@ SolanaFM - A friendly Solana explorer.
 https://solana.fm/?cluster=mainnet-qn1
 
 
+#### Solana DEX Data
+
+DexPaprika
+* Free DEX data API with Solana support: https://api.dexpaprika.com
+* Pools, tokens, OHLCV, trades, real-time SSE streaming across 34 chains
+* No API key needed. Docs: https://docs.dexpaprika.com
+
 <br />
 
 #### Solana Validators
