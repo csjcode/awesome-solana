@@ -217,6 +217,7 @@ Solana Pay
 * https://docs.solanapay.com/
 * https://github.com/solana-labs/solana-pay
 * https://github.com/solana-mobile/solana-pay-android-sample
+* [AlgoVoi multi-chain payment gateway (x402 / MPP / AP2 facilitator with native Solana Pay `reference` binding)](https://api1.ilovechicken.co.uk/.well-known/agent.json) — [source](https://github.com/chopmob-cloud/AlgoVoi-Platform-Adapters)
 
 Solana Validator Guidebook
 * https://www.solana-validator-guidebook.com/
