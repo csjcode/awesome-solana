@@ -623,6 +623,13 @@ https://www.clockwork.xyz/
 Katana - The Yield Generation Protocol for Solana
 https://katana.so/
 
+* SolLaunch - Solana token launcher + trading toolkit
+  * https://sollaunch.pro
+  * Create SPL tokens, Pump.fun launches, Raydium CPMM/CLMM + Meteora DBC/DAMM V2 pools
+  * Built-in Sniper Bot, Copy Trading, AutoWatch (deployer follower), Volume Bot, Multi-Wallet Bot
+  * Web-based (no install), browser wallet only — Phantom + ephemeral session keypairs
+  * Twitter: https://twitter.com/SollaunchPro
+
 
 #### Other Programming topics
 
