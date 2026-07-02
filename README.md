@@ -840,6 +840,9 @@ https://medium.com/tag/solana-network/latest
 Solana DEX
 https://dune.com/twocrows/solana-dex
 
+CLOBr - Aggregated DEX/DLMM liquidity depth, support/resistance and DCA order analytics for Solana tokens
+https://clobr.io/
+
 Solana Floor (NFTs)
 https://solanafloor.com/
 
