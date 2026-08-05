@@ -254,6 +254,9 @@ https://github.com/solana-developers/workshops
 Program examples
 https://github.com/solana-developers/program-examples
 
+Lamport Press - free guides on Solana program concepts (PDAs, Token-2022)
+https://lamport.press/guides
+
 Web3 examples
 https://github.com/solana-developers/web3-examples
 
