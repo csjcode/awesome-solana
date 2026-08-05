@@ -808,9 +808,9 @@ https://solana.fm/?cluster=mainnet-qn1
 #### Solana DEX Data
 
 DexPaprika
-* Free DEX data API with Solana support: https://api.dexpaprika.com
-* Pools, tokens, OHLCV, trades, real-time SSE streaming across 34 chains
-* No API key needed. Docs: https://docs.dexpaprika.com
+* DEX data API with Solana support: https://api.dexpaprika.com
+* Pools, tokens, OHLCV, trades, SSE streaming across 36 chains
+* Free tier is 200,000 requests/month with no API key. Docs: https://docs.dexpaprika.com
 
 <br />
 
