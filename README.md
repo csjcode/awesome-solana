@@ -579,6 +579,7 @@ https://www.youtube.com/watch?v=s9gNAwvY7fY&ab_channel=SuperteamPodcast
 
 #### Developer Tools
 
+* n8n Solana workflows (free, MIT): [price alert](https://github.com/DeusAcc/n8n-solana-price-alert), [mint/program monitor](https://github.com/DeusAcc/n8n-solana-mint-monitor)
 * Hello Moon - Solana Infrastructure
 https://www.hellomoon.io/developers
    * Quickstart: https://docs.hellomoon.io/docs/quickstart
