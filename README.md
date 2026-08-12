@@ -599,6 +599,9 @@ https://docs.helius.xyz/introduction/why-helius
   * https://www.quicknode.com/chains/sol
   * https://www.quicknode.com/docs/solana
 
+* n8n Solana SPL Price Alert - free n8n workflow, Telegram alert when a token price crosses a threshold, no external DB
+  * https://github.com/DeusAcc/n8n-solana-price-alert
+
 * Moralis Solana API
   * https://moralis.io/solana-api/
 
