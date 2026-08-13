@@ -578,6 +578,7 @@ https://www.youtube.com/watch?v=s9gNAwvY7fY&ab_channel=SuperteamPodcast
 ------------------------
 
 #### Developer Tools
+- [Solana Mint/Program Monitor (n8n)](https://github.com/DeusAcc/n8n-solana-mint-monitor) - Free n8n workflow: watches an SPL mint or program ID and alerts on Telegram when a new transaction shows up, no API key required.
 
 * Hello Moon - Solana Infrastructure
 https://www.hellomoon.io/developers
