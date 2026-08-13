@@ -51,6 +51,7 @@ Ledger security topics - https://www.ledger.com/academy/library/topics/security
 * [Video Interviews](https://github.com/csjcode/awesome-solana#-interviews)
 
 ------------------------
+- [n8n Solana Price Alert](https://github.com/DeusAcc/n8n-solana-price-alert) - Free n8n workflow that alerts on Telegram when a Solana SPL token price crosses a threshold, ready in 5 minutes.
 
 ### 🦀 Solana Developer Reference
 
