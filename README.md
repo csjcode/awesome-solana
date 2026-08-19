@@ -618,6 +618,9 @@ https://sol-tools.tonyboyle.io/
 * walletOS
 https://www.pinestreetlabs.com/walletos/
 
+* NanoStack - Cross-chain execution API for native token swaps across 80+ chains
+https://api.nano-labs.io
+
 Snowflake: Multisig platform on Solana
 https://snowflake.so/
 
