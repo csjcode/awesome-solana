@@ -596,6 +596,9 @@ https://docs.helius.xyz/introduction/why-helius
     * Blog: https://www.helius.dev/blog
     * Twitter: https://twitter.com/heliuslabs
 
+* helius-python - Python SDK for Helius
+https://github.com/markosnarinian/helius-python
+
 * Alchemy - Solana and others -
   * https://docs.alchemy.com/docs/how-to-setup-your-solana-development-environment
 
