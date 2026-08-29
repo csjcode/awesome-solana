@@ -627,6 +627,8 @@ https://www.clockwork.xyz/
 Katana - The Yield Generation Protocol for Solana
 https://katana.so/
 
+RefundYourSOL - Close empty Solana token accounts, burn dust tokens, and recover locked rent SOL. 650K+ wallets processed. Features Safety Burns, Fee Payer mode, and developer API.
+https://refundyoursol.com
 
 #### Other Programming topics
 
