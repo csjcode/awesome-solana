@@ -1204,6 +1204,9 @@ https://soldev.app/bounties
 Bughunting Bounties (via Superteam)
 https://earn.superteam.fun/opportunities/category/bounties
 
+Fuzzing framework for Solana smart contracts with manually-guided testing and property-based validation
+[Trident](https://usetrident.xyz/)
+
 ------------------------
 ### 🔧 Debugging / Troubleshooting
 ------------------------
