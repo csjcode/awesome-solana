@@ -1559,3 +1559,8 @@ https://www.youtube.com/watch?v=qAehzKsDOd4&ab_channel=Cointelegraph
 
 
 TODO: More categories
+
+
+## WhiteOwl
+
+- [WhiteOwl](https://github.com/whiteowl-engine/WhiteOwl) â€” Local AI-powered trading panel for Solana with autonomous agents, risk engine and browser extension.
