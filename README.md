@@ -1165,6 +1165,13 @@ Command Line Wallets - from official Solana docs:
 Solana Security Best Practices.
 https://github.com/slowmist/solana-smart-contract-security-best-practices
 
+#### Token Safety Scanners
+<br />
+
+* [Sharpe Rug Check](https://www.sharpe.ai/rug-check) - Free Solana token safety scanner and rug pull checker. 0-100 risk score covering SPL + Token-2022, mint/freeze/update authority checks, Raydium LP lock verification, Jupiter-based honeypot simulation, and holder-concentration analysis. Also covers Ethereum, Base, BSC, Arbitrum, and Polygon. Public REST API and MCP server. Free, no signup.
+
+<br />
+
 #### [Sec3 Dev Blog](https://www.sec3.dev/blog)
 
 * [How to Audit Solana Smart Contracts Part 1: A Systematic Approach](https://www.sec3.dev/blog/how-to-audit-solana-smart-contracts-part-1-a-systematic-approach)
