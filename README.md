@@ -887,6 +887,8 @@ https://solblaze.org/restart
 Solana Floor domains
 https://solanafloor.com/domains
 
+MadeOnSol - Solana ecosystem directory with 815+ tools, deployer tracking, and KOL wallet monitoring https://madeonsol.com
+
 
 
 ------------------------
