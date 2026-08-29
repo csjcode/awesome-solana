@@ -782,6 +782,9 @@ https://coinsbench.com/token-gating-on-solana-is-a-mechanism-that-restricts-the-
   Solana Status
   https://status.solana.com/
 
+[OpenChainBench](https://openchainbench.com)
+Open-source RPC and data API benchmarks for Solana. Latency, reliability, price feed head lag. CC BY 4.0 data.
+
 <br />
 
 #### Solana Explorers
