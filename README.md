@@ -207,6 +207,7 @@ https://github.com/metaplex-foundation/js
 #### solana-web3.js
 * https://solana-labs.github.io/solana-web3.js/
 * https://github.com/solana-labs/solana-web3.js
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
 #### Solana Developer Changelog weekly podcast (over 20 videos, recently update)
 * https://www.youtube.com/watch?v=jIZXTkVaTps&list=PLilwLeBwGuK5-Qri7Pg9zd-Vvhz9kX2-R
