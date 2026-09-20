@@ -835,6 +835,10 @@ https://solana.fm/?cluster=mainnet-qn1
 
 #### Trends and Analytics
 
+QuantumPools — multi-chain concentrated-liquidity LP bookkeeping & Cover Value (fees vs IL vs original deposit)
+https://quantumpools.io
+
+
 Mainnet-beta Telemetry
 https://metrics.solana.com:3000/d/monitor-beta/cluster-telemetry-beta?orgId=1&refresh=5m
 
