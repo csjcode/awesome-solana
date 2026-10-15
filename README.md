@@ -1557,5 +1557,5 @@ https://www.youtube.com/watch?v=4ZKQpp0ICyc&t=936s&ab_channel=Solana
 How Solana could reach 1 billion users in the next five years | Interview with Solana Labs CEO
 https://www.youtube.com/watch?v=qAehzKsDOd4&ab_channel=Cointelegraph
 
-
+[CurveRadar](https://curveradar.com/) - Solana token screener, launchpad and liquidity locker.
 TODO: More categories
