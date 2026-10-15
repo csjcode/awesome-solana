@@ -29,7 +29,7 @@ This is a dev-centric gateway to Solana's technology, apps and community ecosyst
 
 note: A link here is not an endorsement of content, safety or suitability for your needs (financial, coding, etc.). All use of these links/apps is solely your responsibility. No warranty is implied by inclusion here.
 
-Staying safe with Phantom - https://phantom.app/blog/staying-safe-with-phantom
+Staying safe with Phantom - https://phantom.com/learn/blog/staying-safe-with-phantom
 
 Stay Safe on Discord - https://www.ledger.com/academy/how-to-stay-safe-on-discord
 
@@ -62,7 +62,7 @@ Ledger security topics - https://www.ledger.com/academy/library/topics/security
 ------------------------
 
 
-#### [Solana Official Docs](https://docs.`solana.com/)
+#### [Solana Official Docs](https://solana.com/docs)
 
 * Learn Solana Development
   https://docs.solana.com/developers
@@ -154,13 +154,13 @@ https://solfaucet.com/
 * Understanding Programs
 https://docs.metaplex.com/programs/understanding-programs
 * Token Metadata
-https://docs.metaplex.com/programs/token-metadata/
+https://www.metaplex.com/docs/smart-contracts/token-metadata
 * Candy Machine
-https://docs.metaplex.com/programs/candy-machine/
+https://www.metaplex.com/docs/smart-contracts/candy-machine
 * Auction House
-https://docs.metaplex.com/programs/auction-house/
+https://www.metaplex.com/docs/smart-contracts/auction-house
 * Gumdrop
-https://docs.metaplex.com/programs/gumdrop/
+https://www.metaplex.com/docs/smart-contracts/gumdrop
 * RPC Providers
 https://docs.metaplex.com/resources/rpc-providers
 * A Front End Minting Experience
@@ -205,7 +205,7 @@ https://github.com/metaplex-foundation/js
     https://beta-analysis.solscan.io/public/dashboard/06d689e1-dcd7-4175-a16a-efc074ad5ce2
 
 #### solana-web3.js
-* https://solana-labs.github.io/solana-web3.js/
+* https://solana-foundation.github.io/solana-web3.js/
 * https://github.com/solana-labs/solana-web3.js
 
 #### Solana Developer Changelog weekly podcast (over 20 videos, recently update)
@@ -265,7 +265,7 @@ Taking Payments IRL with Solana Pay: https://www.pointer.gg/tutorials/solana-pay
 
 The Complete Guide to Phantom Deeplinks
 Building a Solana mobile dapp with React Native, Expo, and Phantom.
-https://phantom.app/blog/the-complete-guide-to-phantom-deeplinks
+https://phantom.com/learn/blog/the-complete-guide-to-phantom-deeplinks
 
 
 #### Solana Development Course (7 big modules, updated 2023)
@@ -384,7 +384,7 @@ Solana DEV #01: Fetching onchain data in a right way
 https://dev.to/chungquantin/solana-dev-01-fetching-onchain-data-in-a-right-way-23da
 
 Solana DEV #02: Retrieve all Deposit transactions of your wallet
-https://dev.to/chungquantin/solana-dev-02-retrieve-all-depoa
+https://dev.to/chungquantin/solana-dev-02-retrieve-all-deposit-transactions-of-your-wallet-39ke
 
 Solana Dev Series
 https://super.page/solana-dev-series
@@ -468,9 +468,9 @@ https://github.com/solana-labs/solana/projects/73
 * [Turbine](https://medium.com/solana-labs/turbine-solanas-block-propagation-protocol-solves-the-scalability-trilemma-2ddba46a51db) — a block propagation protocol;
 * [Gulf Stream](https://medium.com/solana-labs/gulf-stream-solanas-mempool-less-transaction-forwarding-protocol-d342e72186ad) — Mempool-less transaction forwarding protocol;
 * [Sealevel](https://medium.com/solana-labs/sealevel-parallel-processing-thousands-of-smart-contracts-d814b378192) — Parallel smart contracts run-time;
-* [Pipelining](https://solana.com/pipelining-in-solana-the-transaction-processing-unit/) — a Transaction Processing Unit for validation optimization
+* [Pipelining](https://solana.com/news/pipelining-in-solana-the-transaction-processing-unit) — a Transaction Processing Unit for validation optimization
 * [Cloudbreak](https://medium.com/solana-labs/cloudbreak-solanas-horizontally-scaled-state-architecture-9a86679dcbb1) — Horizontally-Scaled Accounts Database; and
-* [Archivers](https://solana.com/archivers/) — Distributed ledger store
+* [Archivers](https://solana.com/news/archivers---solana-s-solution-to-petabytes-of-blockchain-data-storage) — Distributed ledger store
 
 Coinbase Cloud Solana Network Improvements Primer
 https://www.coinbase.com/cloud/discover/insights-analysis/solana-when-mainnet
@@ -590,8 +590,8 @@ https://www.hellomoon.io/developers
    * Twitter: https://twitter.com/HelloMoon_io
 
 * Helius - Solana Infrastructure
-https://docs.helius.xyz/introduction/why-helius
-    * Quick Start: https://docs.helius.xyz/welcome/quick-start
+https://www.helius.dev/docs
+    * Quick Start: https://www.helius.dev/docs/quickstart
     * Guides: https://docs.helius.xyz/reference/guides-and-tutorials
     * Blog: https://www.helius.dev/blog
     * Twitter: https://twitter.com/heliuslabs
@@ -1136,7 +1136,7 @@ https://www.youtube.com/@superteampodcast/videos
 #### Wallet Security
 <br />
 
-Staying safe with Phantom - https://phantom.app/blog/staying-safe-with-phantom
+Staying safe with Phantom - https://phantom.com/learn/blog/staying-safe-with-phantom
 
 Stay Safe on Discord - https://www.ledger.com/academy/how-to-stay-safe-on-discord
 
@@ -1322,7 +1322,7 @@ This is a list of interesting and potentially useful Solana blockchain and Solan
 
 Important note: A link here is not an endorsement of content, safety or suitability for your needs (financial, coding, etc.). The vast majority are not "official" Solana links. All use of these links/apps is solely your responsibility. No warranty is implied by inclusion here. Do not make important decisions or connect your wallet to any site/app here without first independently confirming (apart from these links) it fits your needs.
 
-Staying safe with Phantom - https://phantom.app/blog/staying-safe-with-phantom
+Staying safe with Phantom - https://phantom.com/learn/blog/staying-safe-with-phantom
 
 Stay Safe on Discord - https://www.ledger.com/academy/how-to-stay-safe-on-discord
 
