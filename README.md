@@ -1558,4 +1558,5 @@ How Solana could reach 1 billion users in the next five years | Interview with S
 https://www.youtube.com/watch?v=qAehzKsDOd4&ab_channel=Cointelegraph
 
 [CurveRadar](https://curveradar.com/) - Solana token screener, launchpad and liquidity locker.
+
 TODO: More categories
