@@ -1302,6 +1302,9 @@ https://remoteok.com/remote-web3-jobs
 LaborX - Remote Blockchain and Crypto Jobs list
 https://laborx.com/
 
+Maneki - Web3 job board aggregating open crypto & blockchain roles (incl. Solana jobs) into one clean, recruiter-spam-free feed, with AI resume matching, salary data, and weekly alerts
+https://maneki.work/
+
 Introducing Solana U, a new program for student builders
 https://solana.com/news/introducing-solana-u-a-new-program-for-student-builders
 
