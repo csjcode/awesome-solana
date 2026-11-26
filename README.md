@@ -1302,6 +1302,9 @@ https://remoteok.com/remote-web3-jobs
 LaborX - Remote Blockchain and Crypto Jobs list
 https://laborx.com/
 
+Dapping - Crypto and AI jobs, with builder roles confirmed by companies verified on Dapping
+https://dapp.ing/jobs
+
 Introducing Solana U, a new program for student builders
 https://solana.com/news/introducing-solana-u-a-new-program-for-student-builders
 
